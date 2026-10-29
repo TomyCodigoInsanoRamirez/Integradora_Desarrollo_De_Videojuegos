@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: b787c1f5440c7b5409dd2bf7ef555cbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8106605282619683243
+    second: DisparoFuerte_0
+  - first:
+      213: 6099000122348450241
+    second: DisparoFuerte_1
+  - first:
+      213: 6479798002548336696
+    second: DisparoFuerte_2
+  - first:
+      213: 5599224274967112886
+    second: DisparoFuerte_3
+  - first:
+      213: 6442155699224006572
+    second: DisparoFuerte_4
+  - first:
+      213: 3273849664582365985
+    second: DisparoFuerte_5
+  - first:
+      213: -1119220185756068906
+    second: DisparoFuerte_6
+  - first:
+      213: 8295787993721352473
+    second: DisparoFuerte_7
+  - first:
+      213: -8384390456611252947
+    second: DisparoFuerte_8
+  - first:
+      213: -5644913211546132170
+    second: DisparoFuerte_9
+  - first:
+      213: -3826162021739173249
+    second: DisparoFuerte_10
+  - first:
+      213: -6765660581106520993
+    second: DisparoFuerte_11
+  - first:
+      213: -2649725187325732544
+    second: DisparoFuerte_12
+  - first:
+      213: 7384515365154874361
+    second: DisparoFuerte_13
+  - first:
+      213: -1090918017917269613
+    second: DisparoFuerte_14
+  - first:
+      213: 3189802483576083988
+    second: DisparoFuerte_15
+  - first:
+      213: 7353013417443893151
+    second: DisparoFuerte_16
+  - first:
+      213: -150208897115629505
+    second: DisparoFuerte_17
+  - first:
+      213: 8022729566360688821
+    second: DisparoFuerte_18
+  - first:
+      213: -664019704433392257
+    second: DisparoFuerte_19
+  - first:
+      213: 3953369536372507767
+    second: DisparoFuerte_20
+  - first:
+      213: 8839423908444424616
+    second: DisparoFuerte_21
+  - first:
+      213: -4627348748324188962
+    second: DisparoFuerte_22
+  - first:
+      213: 1294414199391762176
+    second: DisparoFuerte_23
+  - first:
+      213: 3522765876518287088
+    second: DisparoFuerte_24
+  - first:
+      213: 7626164494268937678
+    second: DisparoFuerte_25
+  - first:
+      213: -6146586502421833881
+    second: DisparoFuerte_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DisparoFuerte_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e0623327d8f7f80800000000000000
+      internalID: -8106605282619683243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1055
+        width: 169
+        height: 187
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1b4a12c4004a450800000000000000
+      internalID: 6099000122348450241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1056
+        width: 194
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838ed2ea3fddce950800000000000000
+      internalID: 6479798002548336696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_3
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1056
+        width: 196
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bca827efc074bd40800000000000000
+      internalID: 5599224274967112886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_4
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1056
+        width: 167
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf4108f972276950800000000000000
+      internalID: 6442155699224006572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_5
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1206
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123b671acec0f6d20800000000000000
+      internalID: 3273849664582365985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d31092cb2bb770f0800000000000000
+      internalID: -1119220185756068906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91136b13a3f802370800000000000000
+      internalID: 8295787993721352473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 800
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25d2875d49a4ab80800000000000000
+      internalID: -8384390456611252947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 800
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63122e5975d39a1b0800000000000000
+      internalID: -5644913211546132170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_10
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 800
+        width: 167
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a6521c9edb6eac0800000000000000
+      internalID: -3826162021739173249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_11
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 950
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c68482c8b8b12a0800000000000000
+      internalID: -6765660581106520993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 168
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0495b012bf84a3bd0800000000000000
+      internalID: -2649725187325732544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 193
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3687a89911b7660800000000000000
+      internalID: 7384515365154874361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_14
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 544
+        width: 168
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399c7f6b7d74cd0f0800000000000000
+      internalID: -1090918017917269613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 544
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41616316574744c20800000000000000
+      internalID: 3189802483576083988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 544
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f9c67ceb62b0660800000000000000
+      internalID: 7353013417443893151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38d15dcdc95aedf0800000000000000
+      internalID: -150208897115629505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 288
+        width: 195
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d3fbc806765f60800000000000000
+      internalID: 8022729566360688821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 167
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f754361d89de8c6f0800000000000000
+      internalID: -664019704433392257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 288
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7748551c5a03dd630800000000000000
+      internalID: 3953369536372507767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_21
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 288
+        width: 193
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9cce12631fbaa70800000000000000
+      internalID: 8839423908444424616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 32
+        width: 168
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcc94484da58cfb0800000000000000
+      internalID: -4627348748324188962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007b7f23bdea6f110800000000000000
+      internalID: 1294414199391762176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f67db876e063e030800000000000000
+      internalID: 3522765876518287088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_25
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 32
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5b89fc33495d960800000000000000
+      internalID: 7626164494268937678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DisparoFuerte_26
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 32
+        width: 169
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7679fed5420f2baa0800000000000000
+      internalID: -6146586502421833881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DisparoFuerte_0: -8106605282619683243
+      DisparoFuerte_1: 6099000122348450241
+      DisparoFuerte_10: -3826162021739173249
+      DisparoFuerte_11: -6765660581106520993
+      DisparoFuerte_12: -2649725187325732544
+      DisparoFuerte_13: 7384515365154874361
+      DisparoFuerte_14: -1090918017917269613
+      DisparoFuerte_15: 3189802483576083988
+      DisparoFuerte_16: 7353013417443893151
+      DisparoFuerte_17: -150208897115629505
+      DisparoFuerte_18: 8022729566360688821
+      DisparoFuerte_19: -664019704433392257
+      DisparoFuerte_2: 6479798002548336696
+      DisparoFuerte_20: 3953369536372507767
+      DisparoFuerte_21: 8839423908444424616
+      DisparoFuerte_22: -4627348748324188962
+      DisparoFuerte_23: 1294414199391762176
+      DisparoFuerte_24: 3522765876518287088
+      DisparoFuerte_25: 7626164494268937678
+      DisparoFuerte_26: -6146586502421833881
+      DisparoFuerte_3: 5599224274967112886
+      DisparoFuerte_4: 6442155699224006572
+      DisparoFuerte_5: 3273849664582365985
+      DisparoFuerte_6: -1119220185756068906
+      DisparoFuerte_7: 8295787993721352473
+      DisparoFuerte_8: -8384390456611252947
+      DisparoFuerte_9: -5644913211546132170
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

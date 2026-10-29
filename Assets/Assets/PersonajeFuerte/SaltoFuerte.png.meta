@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: e907a61ea37d00b4ebc84793e24c0d00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3553835287755176253
+    second: SaltoFuerte_0
+  - first:
+      213: 938214229881011429
+    second: SaltoFuerte_1
+  - first:
+      213: -4957494539016870729
+    second: SaltoFuerte_2
+  - first:
+      213: -4078616734280304405
+    second: SaltoFuerte_3
+  - first:
+      213: 4330276460109976350
+    second: SaltoFuerte_4
+  - first:
+      213: -6552390665440393564
+    second: SaltoFuerte_5
+  - first:
+      213: -5578368496167472156
+    second: SaltoFuerte_6
+  - first:
+      213: 8319243917206215801
+    second: SaltoFuerte_7
+  - first:
+      213: -7564115397097701537
+    second: SaltoFuerte_8
+  - first:
+      213: 8075493508009640450
+    second: SaltoFuerte_9
+  - first:
+      213: 615770213163023008
+    second: SaltoFuerte_10
+  - first:
+      213: -2718628852929749217
+    second: SaltoFuerte_11
+  - first:
+      213: 2208546066529722218
+    second: SaltoFuerte_12
+  - first:
+      213: -6843097058039676319
+    second: SaltoFuerte_13
+  - first:
+      213: -6869955159424881945
+    second: SaltoFuerte_14
+  - first:
+      213: 6185261210287781559
+    second: SaltoFuerte_15
+  - first:
+      213: -2593172640886997153
+    second: SaltoFuerte_16
+  - first:
+      213: 7358370545384878367
+    second: SaltoFuerte_17
+  - first:
+      213: -4290929482605872250
+    second: SaltoFuerte_18
+  - first:
+      213: -2701642020452030907
+    second: SaltoFuerte_19
+  - first:
+      213: -624612779924625333
+    second: SaltoFuerte_20
+  - first:
+      213: 3440440796091874127
+    second: SaltoFuerte_21
+  - first:
+      213: 7921236633769970362
+    second: SaltoFuerte_22
+  - first:
+      213: -6608909016105711288
+    second: SaltoFuerte_23
+  - first:
+      213: 7148030298158830033
+    second: SaltoFuerte_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SaltoFuerte_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1058
+        width: 83
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3935ec7d52c15130800000000000000
+      internalID: 3553835287755176253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1058
+        width: 83
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec36470fd4350d00800000000000000
+      internalID: 938214229881011429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_2
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1058
+        width: 83
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4e5f19bf0733bb0800000000000000
+      internalID: -4957494539016870729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1058
+        width: 90
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8324a80b7d567c0800000000000000
+      internalID: -4078616734280304405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_4
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1058
+        width: 102
+        height: 178
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1357186f7b381c30800000000000000
+      internalID: 4330276460109976350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 802
+        width: 124
+        height: 161
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a607d4e76b3115a0800000000000000
+      internalID: -6552390665440393564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 802
+        width: 133
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e335bf7867a592b0800000000000000
+      internalID: -5578368496167472156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 802
+        width: 135
+        height: 154
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cd7e4f344e37370800000000000000
+      internalID: 8319243917206215801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 809
+        width: 140
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fbdeb6f1dd60790800000000000000
+      internalID: -7564115397097701537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_9
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 830
+        width: 177
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20243ea4f8ae11070800000000000000
+      internalID: 8075493508009640450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 609
+        width: 123
+        height: 155
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa39d21fb7ab8800800000000000000
+      internalID: 615770213163023008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 614
+        width: 138
+        height: 155
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f9ef0567d754ad0800000000000000
+      internalID: -2718628852929749217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_12
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 643
+        width: 147
+        height: 125
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f179532f456ae10800000000000000
+      internalID: 2208546066529722218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 660
+        width: 150
+        height: 109
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16246046b7f6801a0800000000000000
+      internalID: -6843097058039676319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_14
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 655
+        width: 142
+        height: 114
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea2e9b5e2409a0a0800000000000000
+      internalID: -6869955159424881945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 352
+        width: 106
+        height: 161
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6b432cc4676d550800000000000000
+      internalID: 6185261210287781559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 300
+        width: 127
+        height: 182
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f3baae833330cd0800000000000000
+      internalID: -2593172640886997153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_17
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 290
+        width: 127
+        height: 169
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11fc53560f2e1660800000000000000
+      internalID: 7358370545384878367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_18
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 290
+        width: 125
+        height: 161
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bb601be5e8374c0800000000000000
+      internalID: -4290929482605872250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_19
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 290
+        width: 122
+        height: 156
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54620b475e6d18ad0800000000000000
+      internalID: -2701642020452030907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 34
+        width: 119
+        height: 159
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b486c6a6cfde457f0800000000000000
+      internalID: -624612779924625333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 34
+        width: 111
+        height: 166
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b71d10da6eebf20800000000000000
+      internalID: 3440440796091874127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 34
+        width: 94
+        height: 181
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba8ba9ffb2eded60800000000000000
+      internalID: 7921236633769970362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_23
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 34
+        width: 84
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849842ee3407844a0800000000000000
+      internalID: -6608909016105711288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltoFuerte_24
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 34
+        width: 84
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d19c7d2fa7e23360800000000000000
+      internalID: 7148030298158830033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SaltoFuerte_0: 3553835287755176253
+      SaltoFuerte_1: 938214229881011429
+      SaltoFuerte_10: 615770213163023008
+      SaltoFuerte_11: -2718628852929749217
+      SaltoFuerte_12: 2208546066529722218
+      SaltoFuerte_13: -6843097058039676319
+      SaltoFuerte_14: -6869955159424881945
+      SaltoFuerte_15: 6185261210287781559
+      SaltoFuerte_16: -2593172640886997153
+      SaltoFuerte_17: 7358370545384878367
+      SaltoFuerte_18: -4290929482605872250
+      SaltoFuerte_19: -2701642020452030907
+      SaltoFuerte_2: -4957494539016870729
+      SaltoFuerte_20: -624612779924625333
+      SaltoFuerte_21: 3440440796091874127
+      SaltoFuerte_22: 7921236633769970362
+      SaltoFuerte_23: -6608909016105711288
+      SaltoFuerte_24: 7148030298158830033
+      SaltoFuerte_3: -4078616734280304405
+      SaltoFuerte_4: 4330276460109976350
+      SaltoFuerte_5: -6552390665440393564
+      SaltoFuerte_6: -5578368496167472156
+      SaltoFuerte_7: 8319243917206215801
+      SaltoFuerte_8: -7564115397097701537
+      SaltoFuerte_9: 8075493508009640450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

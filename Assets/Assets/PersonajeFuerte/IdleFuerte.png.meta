@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 7b20029dda222284ba2ca82db4d0f1f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6653993729588254714
+    second: IdleFuerte_0
+  - first:
+      213: -2649715163289471633
+    second: IdleFuerte_1
+  - first:
+      213: 5221081079238606043
+    second: IdleFuerte_2
+  - first:
+      213: -4156556535976145167
+    second: IdleFuerte_3
+  - first:
+      213: 8563260573759042735
+    second: IdleFuerte_4
+  - first:
+      213: -5712456757967382646
+    second: IdleFuerte_5
+  - first:
+      213: -2991741690280121795
+    second: IdleFuerte_6
+  - first:
+      213: -5542394561339836047
+    second: IdleFuerte_7
+  - first:
+      213: -856890757070039154
+    second: IdleFuerte_8
+  - first:
+      213: 5326465731421114257
+    second: IdleFuerte_9
+  - first:
+      213: 3577710616521708985
+    second: IdleFuerte_10
+  - first:
+      213: -1412846815987047003
+    second: IdleFuerte_11
+  - first:
+      213: 2838860349315692136
+    second: IdleFuerte_12
+  - first:
+      213: -2420433413110430968
+    second: IdleFuerte_13
+  - first:
+      213: -2354685584367775521
+    second: IdleFuerte_14
+  - first:
+      213: -5794245621257366852
+    second: IdleFuerte_15
+  - first:
+      213: 2557202387554063649
+    second: IdleFuerte_16
+  - first:
+      213: -7359863388141279883
+    second: IdleFuerte_17
+  - first:
+      213: 8273693631735651800
+    second: IdleFuerte_18
+  - first:
+      213: -4285087124890924611
+    second: IdleFuerte_19
+  - first:
+      213: -869518988211020314
+    second: IdleFuerte_20
+  - first:
+      213: 1648414749874665263
+    second: IdleFuerte_21
+  - first:
+      213: -1181690853369379600
+    second: IdleFuerte_22
+  - first:
+      213: 5923824826828090769
+    second: IdleFuerte_23
+  - first:
+      213: 2988249667774809034
+    second: IdleFuerte_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleFuerte_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1055
+        width: 118
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7d8cdea0cb75c50800000000000000
+      internalID: 6653993729588254714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1055
+        width: 118
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f653a2809125a3bd0800000000000000
+      internalID: -2649715163289471633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1055
+        width: 118
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcb78f3491057840800000000000000
+      internalID: 5221081079238606043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1055
+        width: 117
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe40585ad1f056c0800000000000000
+      internalID: -4156556535976145167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_4
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1055
+        width: 118
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4f30a2f10d6d670800000000000000
+      internalID: 8563260573759042735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 799
+        width: 118
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87139238d649b0b0800000000000000
+      internalID: -5712456757967382646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 798
+        width: 118
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a602b98c23b76d0800000000000000
+      internalID: -2991741690280121795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 798
+        width: 120
+        height: 194
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1793846e2857513b0800000000000000
+      internalID: -5542394561339836047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_8
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 799
+        width: 121
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87568d7566bb14f0800000000000000
+      internalID: -856890757070039154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_9
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 799
+        width: 121
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f85a5ac586be940800000000000000
+      internalID: 5326465731421114257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 543
+        width: 122
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b59be6a9d496a130800000000000000
+      internalID: 3577710616521708985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 543
+        width: 122
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5ec037e4f846ce0800000000000000
+      internalID: -1412846815987047003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_12
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 543
+        width: 122
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86637ef5278a56720800000000000000
+      internalID: 2838860349315692136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 543
+        width: 121
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803011182a4e86ed0800000000000000
+      internalID: -2420433413110430968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_14
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 543
+        width: 120
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0960acfe9725fd0800000000000000
+      internalID: -2354685584367775521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 287
+        width: 120
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb297938e44b69fa0800000000000000
+      internalID: -5794245621257366852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 287
+        width: 120
+        height: 188
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125d0f8d5020d7320800000000000000
+      internalID: 2557202387554063649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_17
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 287
+        width: 118
+        height: 188
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575af622e338cd990800000000000000
+      internalID: -7359863388141279883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_18
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 287
+        width: 117
+        height: 188
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddd30ca58012d270800000000000000
+      internalID: 8273693631735651800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_19
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 287
+        width: 116
+        height: 188
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9c64996ff4884c0800000000000000
+      internalID: -4285087124890924611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 116
+        height: 188
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed993e4619dee3f0800000000000000
+      internalID: -869518988211020314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 31
+        width: 117
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f273bc83b7850e610800000000000000
+      internalID: 1648414749874665263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_22
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 31
+        width: 117
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f407920e6ac99fe0800000000000000
+      internalID: -1181690853369379600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_23
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 31
+        width: 117
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d6ab25b47a53250800000000000000
+      internalID: 5923824826828090769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleFuerte_24
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 31
+        width: 118
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac385eb8d35687920800000000000000
+      internalID: 2988249667774809034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IdleFuerte_0: 6653993729588254714
+      IdleFuerte_1: -2649715163289471633
+      IdleFuerte_10: 3577710616521708985
+      IdleFuerte_11: -1412846815987047003
+      IdleFuerte_12: 2838860349315692136
+      IdleFuerte_13: -2420433413110430968
+      IdleFuerte_14: -2354685584367775521
+      IdleFuerte_15: -5794245621257366852
+      IdleFuerte_16: 2557202387554063649
+      IdleFuerte_17: -7359863388141279883
+      IdleFuerte_18: 8273693631735651800
+      IdleFuerte_19: -4285087124890924611
+      IdleFuerte_2: 5221081079238606043
+      IdleFuerte_20: -869518988211020314
+      IdleFuerte_21: 1648414749874665263
+      IdleFuerte_22: -1181690853369379600
+      IdleFuerte_23: 5923824826828090769
+      IdleFuerte_24: 2988249667774809034
+      IdleFuerte_3: -4156556535976145167
+      IdleFuerte_4: 8563260573759042735
+      IdleFuerte_5: -5712456757967382646
+      IdleFuerte_6: -2991741690280121795
+      IdleFuerte_7: -5542394561339836047
+      IdleFuerte_8: -856890757070039154
+      IdleFuerte_9: 5326465731421114257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
