@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 50b42f7bea101b846b7c81304b79613c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 858114759208813904
+    second: FemFuerte-golpetuvo3_0
+  - first:
+      213: 5240882296546740878
+    second: FemFuerte-golpetuvo3_1
+  - first:
+      213: -5577622569766959253
+    second: FemFuerte-golpetuvo3_2
+  - first:
+      213: 6401760710705486506
+    second: FemFuerte-golpetuvo3_3
+  - first:
+      213: -2467064028793609283
+    second: FemFuerte-golpetuvo3_4
+  - first:
+      213: 2917778386342053991
+    second: FemFuerte-golpetuvo3_5
+  - first:
+      213: 1219451340252505035
+    second: FemFuerte-golpetuvo3_6
+  - first:
+      213: 172029506944500196
+    second: FemFuerte-golpetuvo3_7
+  - first:
+      213: -2933712837398577670
+    second: FemFuerte-golpetuvo3_8
+  - first:
+      213: 2554433873445339771
+    second: FemFuerte-golpetuvo3_9
+  - first:
+      213: 7913147375729344190
+    second: FemFuerte-golpetuvo3_10
+  - first:
+      213: 938409752130245838
+    second: FemFuerte-golpetuvo3_11
+  - first:
+      213: -4474838885441856878
+    second: FemFuerte-golpetuvo3_12
+  - first:
+      213: 7861908897482312393
+    second: FemFuerte-golpetuvo3_13
+  - first:
+      213: 8767483764864726079
+    second: FemFuerte-golpetuvo3_14
+  - first:
+      213: 4408148185108024825
+    second: FemFuerte-golpetuvo3_15
+  - first:
+      213: -8665430462556937497
+    second: FemFuerte-golpetuvo3_16
+  - first:
+      213: -8171017819999678689
+    second: FemFuerte-golpetuvo3_17
+  - first:
+      213: 3280237256913892037
+    second: FemFuerte-golpetuvo3_18
+  - first:
+      213: 1188411581311925805
+    second: FemFuerte-golpetuvo3_19
+  - first:
+      213: 41929891749336950
+    second: FemFuerte-golpetuvo3_20
+  - first:
+      213: 8367601490331988664
+    second: FemFuerte-golpetuvo3_21
+  - first:
+      213: -4183446456194832429
+    second: FemFuerte-golpetuvo3_22
+  - first:
+      213: -4115526115279924407
+    second: FemFuerte-golpetuvo3_23
+  - first:
+      213: -2381542704209710911
+    second: FemFuerte-golpetuvo3_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 82
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1074
+        width: 89
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0554927b3d2a8eb00800000000000000
+      internalID: 858114759208813904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1074
+        width: 89
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a4d4b6eaa5bb840800000000000000
+      internalID: 5240882296546740878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1074
+        width: 89
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67c6d503dd4892b0800000000000000
+      internalID: -5577622569766959253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_3
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1074
+        width: 89
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa17aac27f97d850800000000000000
+      internalID: 6401760710705486506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_4
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1074
+        width: 79
+        height: 160
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3ec9d365a33cdd0800000000000000
+      internalID: -2467064028793609283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 818
+        width: 73
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7680b3bbbf70e7820800000000000000
+      internalID: 2917778386342053991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 818
+        width: 93
+        height: 157
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3ef94788c5ce010800000000000000
+      internalID: 1219451340252505035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 818
+        width: 92
+        height: 157
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e10054dceb236200800000000000000
+      internalID: 172029506944500196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 818
+        width: 92
+        height: 159
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdbad5c7bb5947d0800000000000000
+      internalID: -2933712837398577670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 817
+        width: 89
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b724fece21c237320800000000000000
+      internalID: 2554433873445339771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 561
+        width: 156
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe79a1dc9521dd60800000000000000
+      internalID: 7913147375729344190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 562
+        width: 147
+        height: 143
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec45c7992b6e50d00800000000000000
+      internalID: 938409752130245838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 562
+        width: 141
+        height: 142
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a122e0ebd26e1c0800000000000000
+      internalID: -4474838885441856878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 562
+        width: 143
+        height: 142
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca8ae2fc7c1b1d60800000000000000
+      internalID: 7861908897482312393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_14
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 562
+        width: 143
+        height: 142
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3434c2380c5ca970800000000000000
+      internalID: 8767483764864726079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 306
+        width: 143
+        height: 143
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd85a24b63ec2d30800000000000000
+      internalID: 4408148185108024825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 307
+        width: 145
+        height: 145
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2e17dd7e43eb780800000000000000
+      internalID: -8665430462556937497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 307
+        width: 131
+        height: 149
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f4889a596ba9e80800000000000000
+      internalID: -8171017819999678689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 306
+        width: 111
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2ba5dd76eb58d20800000000000000
+      internalID: 3280237256913892037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_19
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 306
+        width: 89
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ebe0769061e7010800000000000000
+      internalID: 1188411581311925805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 89
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677903fa307f49000800000000000000
+      internalID: 41929891749336950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 50
+        width: 88
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b27445d831bf1470800000000000000
+      internalID: 8367601490331988664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_22
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 50
+        width: 89
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7e3a9ec9961f5c0800000000000000
+      internalID: -4183446456194832429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_23
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 49
+        width: 89
+        height: 154
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94395ea9dc6b2e6c0800000000000000
+      internalID: -4115526115279924407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-golpetuvo3_24
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 49
+        width: 89
+        height: 154
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0382a478f03fed0800000000000000
+      internalID: -2381542704209710911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FemFuerte-golpetuvo3_0: 858114759208813904
+      FemFuerte-golpetuvo3_1: 5240882296546740878
+      FemFuerte-golpetuvo3_10: 7913147375729344190
+      FemFuerte-golpetuvo3_11: 938409752130245838
+      FemFuerte-golpetuvo3_12: -4474838885441856878
+      FemFuerte-golpetuvo3_13: 7861908897482312393
+      FemFuerte-golpetuvo3_14: 8767483764864726079
+      FemFuerte-golpetuvo3_15: 4408148185108024825
+      FemFuerte-golpetuvo3_16: -8665430462556937497
+      FemFuerte-golpetuvo3_17: -8171017819999678689
+      FemFuerte-golpetuvo3_18: 3280237256913892037
+      FemFuerte-golpetuvo3_19: 1188411581311925805
+      FemFuerte-golpetuvo3_2: -5577622569766959253
+      FemFuerte-golpetuvo3_20: 41929891749336950
+      FemFuerte-golpetuvo3_21: 8367601490331988664
+      FemFuerte-golpetuvo3_22: -4183446456194832429
+      FemFuerte-golpetuvo3_23: -4115526115279924407
+      FemFuerte-golpetuvo3_24: -2381542704209710911
+      FemFuerte-golpetuvo3_3: 6401760710705486506
+      FemFuerte-golpetuvo3_4: -2467064028793609283
+      FemFuerte-golpetuvo3_5: 2917778386342053991
+      FemFuerte-golpetuvo3_6: 1219451340252505035
+      FemFuerte-golpetuvo3_7: 172029506944500196
+      FemFuerte-golpetuvo3_8: -2933712837398577670
+      FemFuerte-golpetuvo3_9: 2554433873445339771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

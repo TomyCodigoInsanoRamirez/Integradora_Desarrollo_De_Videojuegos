@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 139847249d028be458d558af651bf439
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 745350417366702149
+    second: Fuertote-golpetuvo5_0
+  - first:
+      213: -2305666371843467104
+    second: Fuertote-golpetuvo5_1
+  - first:
+      213: -4552785762223815885
+    second: Fuertote-golpetuvo5_2
+  - first:
+      213: -6464843939042355828
+    second: Fuertote-golpetuvo5_3
+  - first:
+      213: 176432694902549833
+    second: Fuertote-golpetuvo5_4
+  - first:
+      213: -4735122436454723494
+    second: Fuertote-golpetuvo5_5
+  - first:
+      213: 1143744641129210263
+    second: Fuertote-golpetuvo5_6
+  - first:
+      213: -4637156328658195360
+    second: Fuertote-golpetuvo5_7
+  - first:
+      213: -5605403434744452692
+    second: Fuertote-golpetuvo5_8
+  - first:
+      213: -8753704386285584789
+    second: Fuertote-golpetuvo5_9
+  - first:
+      213: -4887650182314646496
+    second: Fuertote-golpetuvo5_10
+  - first:
+      213: 2840603731160965558
+    second: Fuertote-golpetuvo5_11
+  - first:
+      213: -8662814556977767529
+    second: Fuertote-golpetuvo5_12
+  - first:
+      213: 2272220134351961905
+    second: Fuertote-golpetuvo5_13
+  - first:
+      213: 7356371837399488408
+    second: Fuertote-golpetuvo5_14
+  - first:
+      213: 9154097749077400728
+    second: Fuertote-golpetuvo5_15
+  - first:
+      213: 1750748862712303924
+    second: Fuertote-golpetuvo5_16
+  - first:
+      213: -817228675587771307
+    second: Fuertote-golpetuvo5_17
+  - first:
+      213: 2833801553515091177
+    second: Fuertote-golpetuvo5_18
+  - first:
+      213: 6976397773162821386
+    second: Fuertote-golpetuvo5_19
+  - first:
+      213: -1166263000664197703
+    second: Fuertote-golpetuvo5_20
+  - first:
+      213: -7058337261201630924
+    second: Fuertote-golpetuvo5_21
+  - first:
+      213: -667606664094539744
+    second: Fuertote-golpetuvo5_22
+  - first:
+      213: 5517807546077234881
+    second: Fuertote-golpetuvo5_23
+  - first:
+      213: -2690439765195111869
+    second: Fuertote-golpetuvo5_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1055
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548d45c6144085a00800000000000000
+      internalID: 745350417366702149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1055
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d4b796a0a000e0800000000000000
+      internalID: -2305666371843467104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1055
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3338130987141d0c0800000000000000
+      internalID: -4552785762223815885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_3
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1055
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c851b0d80b24846a0800000000000000
+      internalID: -6464843939042355828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_4
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1055
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d6e6ae990d27200800000000000000
+      internalID: 176432694902549833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 799
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5052275b37794eb0800000000000000
+      internalID: -4735122436454723494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 799
+        width: 137
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7916348f0b56fdf00800000000000000
+      internalID: 1143744641129210263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 799
+        width: 132
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06caf5643e285afb0800000000000000
+      internalID: -4637156328658195360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 799
+        width: 135
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca96d49564b9532b0800000000000000
+      internalID: -5605403434744452692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_9
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 799
+        width: 195
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e3ba26d38948680800000000000000
+      internalID: -8753704386285584789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 543
+        width: 196
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02423c81e049b2cb0800000000000000
+      internalID: -4887650182314646496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 543
+        width: 189
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1af771b0adb6720800000000000000
+      internalID: 2840603731160965558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_12
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 543
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bd148de0087c780800000000000000
+      internalID: -8662814556977767529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_13
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 543
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ff9876c2c888f10800000000000000
+      internalID: 2272220134351961905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_14
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 543
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89752ebd535171660800000000000000
+      internalID: 7356371837399488408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 287
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c16fcf663e90f70800000000000000
+      internalID: 9154097749077400728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 287
+        width: 133
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431d2e490d8eb4810800000000000000
+      internalID: 1750748862712303924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_17
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 287
+        width: 131
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554f35379de98a4f0800000000000000
+      internalID: -817228675587771307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_18
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 287
+        width: 196
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e49731bf7fa35720800000000000000
+      internalID: 2833801553515091177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_19
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 287
+        width: 194
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a073239efc421d060800000000000000
+      internalID: 6976397773162821386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 31
+        width: 189
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5bab2eaf990dfe0800000000000000
+      internalID: -1166263000664197703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 31
+        width: 147
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4395c2958afbb0e90800000000000000
+      internalID: -7058337261201630924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 30
+        width: 142
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02026f0b64f2cb6f0800000000000000
+      internalID: -667606664094539744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_23
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 30
+        width: 142
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c647e28ab0339c40800000000000000
+      internalID: 5517807546077234881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-golpetuvo5_24
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 30
+        width: 142
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342c5f1c943a9aad0800000000000000
+      internalID: -2690439765195111869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fuertote-golpetuvo5_0: 745350417366702149
+      Fuertote-golpetuvo5_1: -2305666371843467104
+      Fuertote-golpetuvo5_10: -4887650182314646496
+      Fuertote-golpetuvo5_11: 2840603731160965558
+      Fuertote-golpetuvo5_12: -8662814556977767529
+      Fuertote-golpetuvo5_13: 2272220134351961905
+      Fuertote-golpetuvo5_14: 7356371837399488408
+      Fuertote-golpetuvo5_15: 9154097749077400728
+      Fuertote-golpetuvo5_16: 1750748862712303924
+      Fuertote-golpetuvo5_17: -817228675587771307
+      Fuertote-golpetuvo5_18: 2833801553515091177
+      Fuertote-golpetuvo5_19: 6976397773162821386
+      Fuertote-golpetuvo5_2: -4552785762223815885
+      Fuertote-golpetuvo5_20: -1166263000664197703
+      Fuertote-golpetuvo5_21: -7058337261201630924
+      Fuertote-golpetuvo5_22: -667606664094539744
+      Fuertote-golpetuvo5_23: 5517807546077234881
+      Fuertote-golpetuvo5_24: -2690439765195111869
+      Fuertote-golpetuvo5_3: -6464843939042355828
+      Fuertote-golpetuvo5_4: 176432694902549833
+      Fuertote-golpetuvo5_5: -4735122436454723494
+      Fuertote-golpetuvo5_6: 1143744641129210263
+      Fuertote-golpetuvo5_7: -4637156328658195360
+      Fuertote-golpetuvo5_8: -5605403434744452692
+      Fuertote-golpetuvo5_9: -8753704386285584789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

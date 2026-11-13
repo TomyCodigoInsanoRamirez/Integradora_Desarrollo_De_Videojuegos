@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: f2eeab0d10438634f9ee02bc0561ea31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3023533293727607078
+    second: logo_inteligencia_agresiva_0
+  - first:
+      213: 8229027574991925730
+    second: logo_inteligencia_agresiva_1
+  - first:
+      213: -803736388743510362
+    second: logo_inteligencia_agresiva_2
+  - first:
+      213: -4089827856487875488
+    second: logo_inteligencia_agresiva_3
+  - first:
+      213: 4454640424508948656
+    second: logo_inteligencia_agresiva_4
+  - first:
+      213: 1212515932765002078
+    second: logo_inteligencia_agresiva_5
+  - first:
+      213: 896529326526915230
+    second: logo_inteligencia_agresiva_6
+  - first:
+      213: -7458459388123479132
+    second: logo_inteligencia_agresiva_7
+  - first:
+      213: 1884132729502779437
+    second: logo_inteligencia_agresiva_8
+  - first:
+      213: -83163922698309298
+    second: logo_inteligencia_agresiva_9
+  - first:
+      213: -4727642003360269195
+    second: logo_inteligencia_agresiva_10
+  - first:
+      213: 788426730375501284
+    second: logo_inteligencia_agresiva_11
+  - first:
+      213: -5692220353486345361
+    second: logo_inteligencia_agresiva_12
+  - first:
+      213: -7962907737471544469
+    second: logo_inteligencia_agresiva_13
+  - first:
+      213: -3251599491862792816
+    second: logo_inteligencia_agresiva_14
+  - first:
+      213: -739188514517127672
+    second: logo_inteligencia_agresiva_15
+  - first:
+      213: 6675265859379006300
+    second: logo_inteligencia_agresiva_16
+  - first:
+      213: 2337644205478669258
+    second: logo_inteligencia_agresiva_17
+  - first:
+      213: 1142641860903071881
+    second: logo_inteligencia_agresiva_18
+  - first:
+      213: 766158937808897220
+    second: logo_inteligencia_agresiva_19
+  - first:
+      213: 3272169156424699768
+    second: logo_inteligencia_agresiva_20
+  - first:
+      213: -762641647970258326
+    second: logo_inteligencia_agresiva_21
+  - first:
+      213: -4312058836754602697
+    second: logo_inteligencia_agresiva_22
+  - first:
+      213: 5121995059315100635
+    second: logo_inteligencia_agresiva_23
+  - first:
+      213: 8289866888025369634
+    second: logo_inteligencia_agresiva_24
+  - first:
+      213: -8620947222416639035
+    second: logo_inteligencia_agresiva_25
+  - first:
+      213: -9002680411833105880
+    second: logo_inteligencia_agresiva_26
+  - first:
+      213: 4463648428011814183
+    second: logo_inteligencia_agresiva_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 52
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6296333e28fb5f920800000000000000
+      internalID: 3023533293727607078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 52
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1b94eeaf0633270800000000000000
+      internalID: 8229027574991925730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 52
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a643e7430e88d4f0800000000000000
+      internalID: -803736388743510362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 132
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cfa8dbb330e37c0800000000000000
+      internalID: -4089827856487875488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_4
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 132
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b083f84ddf02dd30800000000000000
+      internalID: 4454640424508948656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_5
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 44
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5995f011d8b3d010800000000000000
+      internalID: 1212515932765002078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_6
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 132
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e926b562cac117c00800000000000000
+      internalID: 896529326526915230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 52
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3093ff3ba3e7890800000000000000
+      internalID: -7458459388123479132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 52
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2843b32cb8c52a10800000000000000
+      internalID: 1884132729502779437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 106
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4170795ada88def0800000000000000
+      internalID: -83163922698309298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 52
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cbe7465aa046eb0800000000000000
+      internalID: -4727642003360269195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 81
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5547b1fed01fa00800000000000000
+      internalID: 788426730375501284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 52
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ba2374fbb2101b0800000000000000
+      internalID: -5692220353486345361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 52
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b639cc02a911e7190800000000000000
+      internalID: -7962907737471544469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 28
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0957da76d7fffd2d0800000000000000
+      internalID: -3251599491862792816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 52
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e682266ffddb5f0800000000000000
+      internalID: -739188514517127672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 81
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b04999eee43ac50800000000000000
+      internalID: 6675265859379006300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 52
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb6ecef40bf07020800000000000000
+      internalID: 2337644205478669258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 52
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9807e90f7ba7bdf00800000000000000
+      internalID: 1142641860903071881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_19
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 52
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c40791ae71f1aa00800000000000000
+      internalID: 766158937808897220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_20
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 95
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f0fa5d284196d20800000000000000
+      internalID: 3272169156424699768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_21
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 52
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6270d9367d8a65f0800000000000000
+      internalID: -762641647970258326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_22
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 52
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73568a0955d7824c0800000000000000
+      internalID: -4312058836754602697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_23
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 28
+        width: 585
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb48c37e5bf41740800000000000000
+      internalID: 5121995059315100635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 52
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c660853068b0370800000000000000
+      internalID: 8289866888025369634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 52
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb377c4d2e3c5880800000000000000
+      internalID: -8620947222416639035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_26
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 52
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822025a1ddd001380800000000000000
+      internalID: -9002680411833105880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_inteligencia_agresiva_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 52
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dffd9889012fd30800000000000000
+      internalID: 4463648428011814183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      logo_inteligencia_agresiva_0: 3023533293727607078
+      logo_inteligencia_agresiva_1: 8229027574991925730
+      logo_inteligencia_agresiva_10: -4727642003360269195
+      logo_inteligencia_agresiva_11: 788426730375501284
+      logo_inteligencia_agresiva_12: -5692220353486345361
+      logo_inteligencia_agresiva_13: -7962907737471544469
+      logo_inteligencia_agresiva_14: -3251599491862792816
+      logo_inteligencia_agresiva_15: -739188514517127672
+      logo_inteligencia_agresiva_16: 6675265859379006300
+      logo_inteligencia_agresiva_17: 2337644205478669258
+      logo_inteligencia_agresiva_18: 1142641860903071881
+      logo_inteligencia_agresiva_19: 766158937808897220
+      logo_inteligencia_agresiva_2: -803736388743510362
+      logo_inteligencia_agresiva_20: 3272169156424699768
+      logo_inteligencia_agresiva_21: -762641647970258326
+      logo_inteligencia_agresiva_22: -4312058836754602697
+      logo_inteligencia_agresiva_23: 5121995059315100635
+      logo_inteligencia_agresiva_24: 8289866888025369634
+      logo_inteligencia_agresiva_25: -8620947222416639035
+      logo_inteligencia_agresiva_26: -9002680411833105880
+      logo_inteligencia_agresiva_27: 4463648428011814183
+      logo_inteligencia_agresiva_3: -4089827856487875488
+      logo_inteligencia_agresiva_4: 4454640424508948656
+      logo_inteligencia_agresiva_5: 1212515932765002078
+      logo_inteligencia_agresiva_6: 896529326526915230
+      logo_inteligencia_agresiva_7: -7458459388123479132
+      logo_inteligencia_agresiva_8: 1884132729502779437
+      logo_inteligencia_agresiva_9: -83163922698309298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

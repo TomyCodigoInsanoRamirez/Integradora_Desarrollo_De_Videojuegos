@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 08889e13f5ef56147926542e11453eb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1367055278859206142
+    second: PersonajeJoven-avanzarapuntandoagachado_0
+  - first:
+      213: -2953686442930689396
+    second: PersonajeJoven-avanzarapuntandoagachado_1
+  - first:
+      213: -6611280324677785478
+    second: PersonajeJoven-avanzarapuntandoagachado_2
+  - first:
+      213: -4507142017989625412
+    second: PersonajeJoven-avanzarapuntandoagachado_3
+  - first:
+      213: -9208729756967366988
+    second: PersonajeJoven-avanzarapuntandoagachado_4
+  - first:
+      213: -3525906155046468786
+    second: PersonajeJoven-avanzarapuntandoagachado_5
+  - first:
+      213: 4198908207085508395
+    second: PersonajeJoven-avanzarapuntandoagachado_6
+  - first:
+      213: -5792228023794231117
+    second: PersonajeJoven-avanzarapuntandoagachado_7
+  - first:
+      213: -6443952269628811341
+    second: PersonajeJoven-avanzarapuntandoagachado_8
+  - first:
+      213: 5355606712655979498
+    second: PersonajeJoven-avanzarapuntandoagachado_9
+  - first:
+      213: -3636992937626729237
+    second: PersonajeJoven-avanzarapuntandoagachado_10
+  - first:
+      213: -4230703009642846647
+    second: PersonajeJoven-avanzarapuntandoagachado_11
+  - first:
+      213: 2411680918492927952
+    second: PersonajeJoven-avanzarapuntandoagachado_12
+  - first:
+      213: 7974329732326491064
+    second: PersonajeJoven-avanzarapuntandoagachado_13
+  - first:
+      213: 8110806035480750986
+    second: PersonajeJoven-avanzarapuntandoagachado_14
+  - first:
+      213: -8949423789526151384
+    second: PersonajeJoven-avanzarapuntandoagachado_15
+  - first:
+      213: 640128327643183449
+    second: PersonajeJoven-avanzarapuntandoagachado_16
+  - first:
+      213: 8251520814427410604
+    second: PersonajeJoven-avanzarapuntandoagachado_17
+  - first:
+      213: 3443361066848925399
+    second: PersonajeJoven-avanzarapuntandoagachado_18
+  - first:
+      213: 3459636482037484091
+    second: PersonajeJoven-avanzarapuntandoagachado_19
+  - first:
+      213: -3660515268117928504
+    second: PersonajeJoven-avanzarapuntandoagachado_20
+  - first:
+      213: -4382905620545793867
+    second: PersonajeJoven-avanzarapuntandoagachado_21
+  - first:
+      213: -1506437045092370685
+    second: PersonajeJoven-avanzarapuntandoagachado_22
+  - first:
+      213: -1535824926184920504
+    second: PersonajeJoven-avanzarapuntandoagachado_23
+  - first:
+      213: -8736666349247342789
+    second: PersonajeJoven-avanzarapuntandoagachado_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 116
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 196
+        height: 166
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb9bc7881c8f210800000000000000
+      internalID: 1367055278859206142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1056
+        width: 199
+        height: 165
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aaa3754d56207d0800000000000000
+      internalID: -2953686442930689396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1055
+        width: 197
+        height: 165
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a782d01a2930044a0800000000000000
+      internalID: -6611280324677785478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1055
+        width: 195
+        height: 166
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9bd79e63a6371c0800000000000000
+      internalID: -4507142017989625412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1055
+        width: 192
+        height: 166
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be04637315043080800000000000000
+      internalID: -9208729756967366988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 799
+        width: 190
+        height: 168
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4387157807711fc0800000000000000
+      internalID: -3525906155046468786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 799
+        width: 194
+        height: 168
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27ddcf74c4854a30800000000000000
+      internalID: 4198908207085508395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 799
+        width: 197
+        height: 167
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b89ea70d4fdd9fa0800000000000000
+      internalID: -5792228023794231117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 799
+        width: 198
+        height: 165
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7d3336d8b7296a0800000000000000
+      internalID: -6443952269628811341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_9
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 800
+        width: 196
+        height: 164
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3ae801eefe25a40800000000000000
+      internalID: 5355606712655979498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 544
+        width: 192
+        height: 166
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4872e513ec68dc0800000000000000
+      internalID: -3636992937626729237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 543
+        width: 191
+        height: 168
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ef0827068945c0800000000000000
+      internalID: -4230703009642846647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 544
+        width: 194
+        height: 167
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7db5a8403087120800000000000000
+      internalID: 2411680918492927952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_13
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 544
+        width: 198
+        height: 166
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3082944a28aae60800000000000000
+      internalID: 7974329732326491064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_14
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 544
+        width: 199
+        height: 165
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8baceacd1f5f8070800000000000000
+      internalID: 8110806035480750986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 287
+        width: 196
+        height: 165
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f0dd0ca724dc380800000000000000
+      internalID: -8949423789526151384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 287
+        width: 192
+        height: 167
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95936db825132e800800000000000000
+      internalID: 640128327643183449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 287
+        width: 190
+        height: 168
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca010b8567a438270800000000000000
+      internalID: 8251520814427410604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_18
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 287
+        width: 191
+        height: 168
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6b0f685a649cf20800000000000000
+      internalID: 3443361066848925399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_19
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 287
+        width: 198
+        height: 167
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a83dbec09130030800000000000000
+      internalID: 3459636482037484091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 31
+        width: 199
+        height: 165
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5efe402cc333dc0800000000000000
+      internalID: -3660515268117928504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 32
+        width: 198
+        height: 164
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b01e4b4f8acc23c0800000000000000
+      internalID: -4382905620545793867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_22
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 31
+        width: 194
+        height: 167
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307b7ca2d7f081be0800000000000000
+      internalID: -1506437045092370685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_23
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 32
+        width: 190
+        height: 167
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aae85ed57afaae0800000000000000
+      internalID: -1535824926184920504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-avanzarapuntandoagachado_24
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 31
+        width: 192
+        height: 168
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37d0048e3021c680800000000000000
+      internalID: -8736666349247342789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PersonajeJoven-avanzarapuntandoagachado_0: 1367055278859206142
+      PersonajeJoven-avanzarapuntandoagachado_1: -2953686442930689396
+      PersonajeJoven-avanzarapuntandoagachado_10: -3636992937626729237
+      PersonajeJoven-avanzarapuntandoagachado_11: -4230703009642846647
+      PersonajeJoven-avanzarapuntandoagachado_12: 2411680918492927952
+      PersonajeJoven-avanzarapuntandoagachado_13: 7974329732326491064
+      PersonajeJoven-avanzarapuntandoagachado_14: 8110806035480750986
+      PersonajeJoven-avanzarapuntandoagachado_15: -8949423789526151384
+      PersonajeJoven-avanzarapuntandoagachado_16: 640128327643183449
+      PersonajeJoven-avanzarapuntandoagachado_17: 8251520814427410604
+      PersonajeJoven-avanzarapuntandoagachado_18: 3443361066848925399
+      PersonajeJoven-avanzarapuntandoagachado_19: 3459636482037484091
+      PersonajeJoven-avanzarapuntandoagachado_2: -6611280324677785478
+      PersonajeJoven-avanzarapuntandoagachado_20: -3660515268117928504
+      PersonajeJoven-avanzarapuntandoagachado_21: -4382905620545793867
+      PersonajeJoven-avanzarapuntandoagachado_22: -1506437045092370685
+      PersonajeJoven-avanzarapuntandoagachado_23: -1535824926184920504
+      PersonajeJoven-avanzarapuntandoagachado_24: -8736666349247342789
+      PersonajeJoven-avanzarapuntandoagachado_3: -4507142017989625412
+      PersonajeJoven-avanzarapuntandoagachado_4: -9208729756967366988
+      PersonajeJoven-avanzarapuntandoagachado_5: -3525906155046468786
+      PersonajeJoven-avanzarapuntandoagachado_6: 4198908207085508395
+      PersonajeJoven-avanzarapuntandoagachado_7: -5792228023794231117
+      PersonajeJoven-avanzarapuntandoagachado_8: -6443952269628811341
+      PersonajeJoven-avanzarapuntandoagachado_9: 5355606712655979498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

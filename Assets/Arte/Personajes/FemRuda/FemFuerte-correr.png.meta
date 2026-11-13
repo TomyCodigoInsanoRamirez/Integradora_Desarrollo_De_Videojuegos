@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 9f16ef595a05a8146b2ca73ccbdd8acf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2838365624335302039
+    second: FemFuerte-correr_0
+  - first:
+      213: 7934211604019366922
+    second: FemFuerte-correr_1
+  - first:
+      213: 7297971229251981092
+    second: FemFuerte-correr_2
+  - first:
+      213: -4124227984216290893
+    second: FemFuerte-correr_3
+  - first:
+      213: 6867210329152269970
+    second: FemFuerte-correr_4
+  - first:
+      213: -2678052587143812842
+    second: FemFuerte-correr_5
+  - first:
+      213: 3823750465161655879
+    second: FemFuerte-correr_6
+  - first:
+      213: 1203532272078349160
+    second: FemFuerte-correr_7
+  - first:
+      213: -260954322032049736
+    second: FemFuerte-correr_8
+  - first:
+      213: -8174403037449346207
+    second: FemFuerte-correr_9
+  - first:
+      213: 304337628285783042
+    second: FemFuerte-correr_10
+  - first:
+      213: 4610238020544889833
+    second: FemFuerte-correr_11
+  - first:
+      213: 7363796827389551112
+    second: FemFuerte-correr_12
+  - first:
+      213: 1089957457976466422
+    second: FemFuerte-correr_13
+  - first:
+      213: 1921524478745356391
+    second: FemFuerte-correr_14
+  - first:
+      213: 67826601664756399
+    second: FemFuerte-correr_15
+  - first:
+      213: 1858214910023303867
+    second: FemFuerte-correr_16
+  - first:
+      213: 7017014557380672557
+    second: FemFuerte-correr_17
+  - first:
+      213: 1255900159929951558
+    second: FemFuerte-correr_18
+  - first:
+      213: -804064967706641460
+    second: FemFuerte-correr_19
+  - first:
+      213: 621650325262254402
+    second: FemFuerte-correr_20
+  - first:
+      213: 8144507828958973068
+    second: FemFuerte-correr_21
+  - first:
+      213: 8570920258617834674
+    second: FemFuerte-correr_22
+  - first:
+      213: 8647349351714407939
+    second: FemFuerte-correr_23
+  - first:
+      213: -4194722195481932018
+    second: FemFuerte-correr_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 89
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemFuerte-correr_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1073
+        width: 142
+        height: 152
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d7f2d3f76e36720800000000000000
+      internalID: 2838365624335302039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1072
+        width: 132
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c4b56aa6bfb1e60800000000000000
+      internalID: 7934211604019366922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1073
+        width: 118
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fc59caa2a974560800000000000000
+      internalID: 7297971229251981092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1078
+        width: 129
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9001cdf7cc3c6c0800000000000000
+      internalID: -4124227984216290893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_4
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1077
+        width: 136
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ea30b096b3d4f50800000000000000
+      internalID: 6867210329152269970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 817
+        width: 118
+        height: 149
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6192a756c55a5dad0800000000000000
+      internalID: -2678052587143812842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 817
+        width: 138
+        height: 154
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746f1b9f9c0b01530800000000000000
+      internalID: 3823750465161655879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 825
+        width: 151
+        height: 146
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863e2f0993ec3b010800000000000000
+      internalID: 1203532272078349160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 817
+        width: 143
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b14dac3d67e06cf0800000000000000
+      internalID: -260954322032049736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_9
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 817
+        width: 125
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16325fd4fbfae8e80800000000000000
+      internalID: -8174403037449346207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 566
+        width: 128
+        height: 149
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c42c1e579393400800000000000000
+      internalID: 304337628285783042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 565
+        width: 136
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e30498bd0bdaff30800000000000000
+      internalID: 4610238020544889833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 561
+        width: 119
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802e3be0336713660800000000000000
+      internalID: 7363796827389551112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_13
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 561
+        width: 139
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb99fe788e402f00800000000000000
+      internalID: 1089957457976466422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_14
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 569
+        width: 152
+        height: 146
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768a5de2550aaaa10800000000000000
+      internalID: 1921524478745356391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 305
+        width: 144
+        height: 152
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faabc825fe7f0f000800000000000000
+      internalID: 67826601664756399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 305
+        width: 125
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2064c8d94b9c910800000000000000
+      internalID: 1858214910023303867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 309
+        width: 129
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c7b6cef81716160800000000000000
+      internalID: 7017014557380672557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_18
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 310
+        width: 135
+        height: 149
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6452bf99a8add6110800000000000000
+      internalID: 1255900159929951558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_19
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 304
+        width: 119
+        height: 148
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb72870c2367d4f0800000000000000
+      internalID: -804064967706641460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 49
+        width: 140
+        height: 153
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24143cb5dab80a800800000000000000
+      internalID: 621650325262254402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 57
+        width: 152
+        height: 146
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ccc7f08ba170170800000000000000
+      internalID: 8144507828958973068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_22
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 49
+        width: 142
+        height: 152
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc7d15809602f670800000000000000
+      internalID: 8570920258617834674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_23
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 49
+        width: 125
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30644a57b6e810870800000000000000
+      internalID: 8647349351714407939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-correr_24
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 53
+        width: 129
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f4ad6436a59c5c0800000000000000
+      internalID: -4194722195481932018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FemFuerte-correr_0: 2838365624335302039
+      FemFuerte-correr_1: 7934211604019366922
+      FemFuerte-correr_10: 304337628285783042
+      FemFuerte-correr_11: 4610238020544889833
+      FemFuerte-correr_12: 7363796827389551112
+      FemFuerte-correr_13: 1089957457976466422
+      FemFuerte-correr_14: 1921524478745356391
+      FemFuerte-correr_15: 67826601664756399
+      FemFuerte-correr_16: 1858214910023303867
+      FemFuerte-correr_17: 7017014557380672557
+      FemFuerte-correr_18: 1255900159929951558
+      FemFuerte-correr_19: -804064967706641460
+      FemFuerte-correr_2: 7297971229251981092
+      FemFuerte-correr_20: 621650325262254402
+      FemFuerte-correr_21: 8144507828958973068
+      FemFuerte-correr_22: 8570920258617834674
+      FemFuerte-correr_23: 8647349351714407939
+      FemFuerte-correr_24: -4194722195481932018
+      FemFuerte-correr_3: -4124227984216290893
+      FemFuerte-correr_4: 6867210329152269970
+      FemFuerte-correr_5: -2678052587143812842
+      FemFuerte-correr_6: 3823750465161655879
+      FemFuerte-correr_7: 1203532272078349160
+      FemFuerte-correr_8: -260954322032049736
+      FemFuerte-correr_9: -8174403037449346207
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

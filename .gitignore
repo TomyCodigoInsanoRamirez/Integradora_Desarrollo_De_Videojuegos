@@ -107,3 +107,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Cinemática de inicio (336 MB): demasiado grande para git sin LFS. Se comparte aparte;
+# colocarla en Assets/Video/. Su .meta sí se versiona para que Unity conserve la referencia.
+/Assets/Video/CinematicaInicioFinal.mp4

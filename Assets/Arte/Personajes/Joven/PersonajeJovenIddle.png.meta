@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 6fd113686d2a55e42b66b76d6bcffaae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6057101044006901165
+    second: PersonajeJovenIddle_0
+  - first:
+      213: 3536089405872507638
+    second: PersonajeJovenIddle_1
+  - first:
+      213: -1293443408408945160
+    second: PersonajeJovenIddle_2
+  - first:
+      213: -2105271589281603004
+    second: PersonajeJovenIddle_3
+  - first:
+      213: -636104803160824288
+    second: PersonajeJovenIddle_4
+  - first:
+      213: -9167098858263029901
+    second: PersonajeJovenIddle_5
+  - first:
+      213: 3348609272671191884
+    second: PersonajeJovenIddle_6
+  - first:
+      213: 3902174092854660192
+    second: PersonajeJovenIddle_7
+  - first:
+      213: -7073053040058305966
+    second: PersonajeJovenIddle_8
+  - first:
+      213: -6968985280993424175
+    second: PersonajeJovenIddle_9
+  - first:
+      213: -1287965300370677363
+    second: PersonajeJovenIddle_10
+  - first:
+      213: -3320655310472159679
+    second: PersonajeJovenIddle_11
+  - first:
+      213: -9210054308495034595
+    second: PersonajeJovenIddle_12
+  - first:
+      213: -6501611742978916258
+    second: PersonajeJovenIddle_13
+  - first:
+      213: -4703575082238160253
+    second: PersonajeJovenIddle_14
+  - first:
+      213: -3546804798471617380
+    second: PersonajeJovenIddle_15
+  - first:
+      213: 3629100496910320344
+    second: PersonajeJovenIddle_16
+  - first:
+      213: -2279279809140977314
+    second: PersonajeJovenIddle_17
+  - first:
+      213: 3089336844009471874
+    second: PersonajeJovenIddle_18
+  - first:
+      213: -1392180075750097305
+    second: PersonajeJovenIddle_19
+  - first:
+      213: -2892416543826740419
+    second: PersonajeJovenIddle_20
+  - first:
+      213: 2385994098827905700
+    second: PersonajeJovenIddle_21
+  - first:
+      213: 6196694678237938547
+    second: PersonajeJovenIddle_22
+  - first:
+      213: 8597454593209567130
+    second: PersonajeJovenIddle_23
+  - first:
+      213: -1723081397340292437
+    second: PersonajeJovenIddle_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 106
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1052
+        width: 113
+        height: 196
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5dda0ce452f0450800000000000000
+      internalID: 6057101044006901165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1052
+        width: 113
+        height: 196
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa8d036496b21130800000000000000
+      internalID: 3536089405872507638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1052
+        width: 113
+        height: 197
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdd6b0b214cc0ee0800000000000000
+      internalID: -1293443408408945160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_3
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1051
+        width: 113
+        height: 198
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442e52dc4a298c2e0800000000000000
+      internalID: -2105271589281603004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_4
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1051
+        width: 113
+        height: 199
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026edaf3d0a1c27f0800000000000000
+      internalID: -636104803160824288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 795
+        width: 112
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377d754682ce7c080800000000000000
+      internalID: -9167098858263029901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 796
+        width: 113
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43452d4466a87e20800000000000000
+      internalID: 3348609272671191884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 796
+        width: 113
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c8550b9ae472630800000000000000
+      internalID: 3902174092854660192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_8
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 796
+        width: 114
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f3d51cb777dd90800000000000000
+      internalID: -7073053040058305966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_9
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 796
+        width: 115
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc06796fc0394f90800000000000000
+      internalID: -6968985280993424175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 540
+        width: 114
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81606c126a302ee0800000000000000
+      internalID: -1287965300370677363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 540
+        width: 114
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14edac5b699aae1d0800000000000000
+      internalID: -3320655310472159679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_12
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 540
+        width: 114
+        height: 199
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17f81447605f2080800000000000000
+      internalID: -9210054308495034595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 540
+        width: 114
+        height: 198
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50cb381192a5c5a0800000000000000
+      internalID: -6501611742978916258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_14
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 540
+        width: 114
+        height: 197
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382d0d0226b89beb0800000000000000
+      internalID: -4703575082238160253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 284
+        width: 113
+        height: 196
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94c27bd3d737cec0800000000000000
+      internalID: -3546804798471617380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 283
+        width: 114
+        height: 197
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d288849ca72d5230800000000000000
+      internalID: 3629100496910320344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_17
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 284
+        width: 112
+        height: 196
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e519e68f61f5e50e0800000000000000
+      internalID: -2279279809140977314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_18
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 283
+        width: 113
+        height: 198
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ff5badd778fda20800000000000000
+      internalID: 3089336844009471874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_19
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 283
+        width: 112
+        height: 199
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ef981e89bfdace0800000000000000
+      internalID: -1392180075750097305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 27
+        width: 113
+        height: 199
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b7eb26a721cd7d0800000000000000
+      internalID: -2892416543826740419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 27
+        width: 112
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aac0d8cdf0cc1120800000000000000
+      internalID: 2385994098827905700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 27
+        width: 113
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3730de57af41ff550800000000000000
+      internalID: 6196694678237938547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_23
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 28
+        width: 113
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a978ec8b66b405770800000000000000
+      internalID: 8597454593209567130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJovenIddle_24
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 27
+        width: 114
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baab27039926618e0800000000000000
+      internalID: -1723081397340292437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PersonajeJovenIddle_0: 6057101044006901165
+      PersonajeJovenIddle_1: 3536089405872507638
+      PersonajeJovenIddle_10: -1287965300370677363
+      PersonajeJovenIddle_11: -3320655310472159679
+      PersonajeJovenIddle_12: -9210054308495034595
+      PersonajeJovenIddle_13: -6501611742978916258
+      PersonajeJovenIddle_14: -4703575082238160253
+      PersonajeJovenIddle_15: -3546804798471617380
+      PersonajeJovenIddle_16: 3629100496910320344
+      PersonajeJovenIddle_17: -2279279809140977314
+      PersonajeJovenIddle_18: 3089336844009471874
+      PersonajeJovenIddle_19: -1392180075750097305
+      PersonajeJovenIddle_2: -1293443408408945160
+      PersonajeJovenIddle_20: -2892416543826740419
+      PersonajeJovenIddle_21: 2385994098827905700
+      PersonajeJovenIddle_22: 6196694678237938547
+      PersonajeJovenIddle_23: 8597454593209567130
+      PersonajeJovenIddle_24: -1723081397340292437
+      PersonajeJovenIddle_3: -2105271589281603004
+      PersonajeJovenIddle_4: -636104803160824288
+      PersonajeJovenIddle_5: -9167098858263029901
+      PersonajeJovenIddle_6: 3348609272671191884
+      PersonajeJovenIddle_7: 3902174092854660192
+      PersonajeJovenIddle_8: -7073053040058305966
+      PersonajeJovenIddle_9: -6968985280993424175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

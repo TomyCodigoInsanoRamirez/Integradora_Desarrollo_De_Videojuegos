@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: eb849f9cf3c1dfe4085bb95bc76a6933
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3241591948116201879
+    second: RunConArma_0
+  - first:
+      213: 3850796614857879602
+    second: RunConArma_1
+  - first:
+      213: -512324106235104759
+    second: RunConArma_2
+  - first:
+      213: -7379405455929529887
+    second: RunConArma_3
+  - first:
+      213: -8950072515128606462
+    second: RunConArma_4
+  - first:
+      213: -4343616071347348072
+    second: RunConArma_5
+  - first:
+      213: -8639235546833930091
+    second: RunConArma_6
+  - first:
+      213: 7167924243210295944
+    second: RunConArma_7
+  - first:
+      213: 2965327758761726196
+    second: RunConArma_8
+  - first:
+      213: -4163840738436813849
+    second: RunConArma_9
+  - first:
+      213: -7488343455211384287
+    second: RunConArma_10
+  - first:
+      213: -5789666160294899521
+    second: RunConArma_11
+  - first:
+      213: -5666070202972158827
+    second: RunConArma_12
+  - first:
+      213: -7914489051224524738
+    second: RunConArma_13
+  - first:
+      213: 225392281910395495
+    second: RunConArma_14
+  - first:
+      213: 3117555036064524147
+    second: RunConArma_15
+  - first:
+      213: -1666027363602494975
+    second: RunConArma_16
+  - first:
+      213: -7451203708218300458
+    second: RunConArma_17
+  - first:
+      213: 5863797406162832672
+    second: RunConArma_18
+  - first:
+      213: -7255389787091805079
+    second: RunConArma_19
+  - first:
+      213: -5681042194294336672
+    second: RunConArma_20
+  - first:
+      213: -6767648274411526430
+    second: RunConArma_21
+  - first:
+      213: 1646752865527424594
+    second: RunConArma_22
+  - first:
+      213: -2655703593503309269
+    second: RunConArma_23
+  - first:
+      213: 4736791040533347768
+    second: RunConArma_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 113
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RunConArma_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1051
+        width: 207
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7919b3eb3b27cfc20800000000000000
+      internalID: 3241591948116201879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1047
+        width: 189
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23071ea6e17c07530800000000000000
+      internalID: 3850796614857879602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1048
+        width: 160
+        height: 207
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902bcf590fbd3e8f0800000000000000
+      internalID: -512324106235104759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_3
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1049
+        width: 186
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9adb9e5d5179990800000000000000
+      internalID: -7379405455929529887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_4
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1054
+        width: 191
+        height: 204
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201c5cd8774fac380800000000000000
+      internalID: -8950072515128606462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 791
+        width: 171
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dd9a2523068b3c0800000000000000
+      internalID: -4343616071347348072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 791
+        width: 192
+        height: 211
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5983904fa054b1880800000000000000
+      internalID: -8639235546833930091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 801
+        width: 208
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ad5753f15997360800000000000000
+      internalID: 7167924243210295944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 791
+        width: 191
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f01997b2e5f62920800000000000000
+      internalID: 2965327758761726196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_9
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 792
+        width: 161
+        height: 206
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb6c2cc8e01736c0800000000000000
+      internalID: -4163840738436813849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 540
+        width: 190
+        height: 207
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122110c6d4f041890800000000000000
+      internalID: -7488343455211384287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 539
+        width: 192
+        height: 206
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0d58b5d49f6afa0800000000000000
+      internalID: -5789666160294899521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 535
+        width: 161
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5944b67ab231e51b0800000000000000
+      internalID: -5666070202972158827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 535
+        width: 193
+        height: 211
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e383b0304261a2290800000000000000
+      internalID: -7914489051224524738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_14
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 544
+        width: 208
+        height: 202
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76242621611c02300800000000000000
+      internalID: 225392281910395495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 279
+        width: 193
+        height: 206
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3772b5ca9c7c34b20800000000000000
+      internalID: 3117555036064524147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 279
+        width: 160
+        height: 207
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a846690f411e8e0800000000000000
+      internalID: -1666027363602494975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 284
+        width: 191
+        height: 207
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7239e94b1089890800000000000000
+      internalID: -7451203708218300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_18
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 283
+        width: 192
+        height: 206
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d41355ca4606150800000000000000
+      internalID: 5863797406162832672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_19
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 279
+        width: 160
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c5569ed6daf4b90800000000000000
+      internalID: -7255389787091805079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 22
+        width: 196
+        height: 212
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06394174932e821b0800000000000000
+      internalID: -5681042194294336672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 32
+        width: 208
+        height: 202
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e66aee30cb7412a0800000000000000
+      internalID: -6767648274411526430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 23
+        width: 188
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2566e9e91017ad610800000000000000
+      internalID: 1646752865527424594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_23
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 23
+        width: 161
+        height: 208
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22c188f6ab052bd0800000000000000
+      internalID: -2655703593503309269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunConArma_24
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 32
+        width: 191
+        height: 203
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd3e32da567cb140800000000000000
+      internalID: 4736791040533347768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RunConArma_0: 3241591948116201879
+      RunConArma_1: 3850796614857879602
+      RunConArma_10: -7488343455211384287
+      RunConArma_11: -5789666160294899521
+      RunConArma_12: -5666070202972158827
+      RunConArma_13: -7914489051224524738
+      RunConArma_14: 225392281910395495
+      RunConArma_15: 3117555036064524147
+      RunConArma_16: -1666027363602494975
+      RunConArma_17: -7451203708218300458
+      RunConArma_18: 5863797406162832672
+      RunConArma_19: -7255389787091805079
+      RunConArma_2: -512324106235104759
+      RunConArma_20: -5681042194294336672
+      RunConArma_21: -6767648274411526430
+      RunConArma_22: 1646752865527424594
+      RunConArma_23: -2655703593503309269
+      RunConArma_24: 4736791040533347768
+      RunConArma_3: -7379405455929529887
+      RunConArma_4: -8950072515128606462
+      RunConArma_5: -4343616071347348072
+      RunConArma_6: -8639235546833930091
+      RunConArma_7: 7167924243210295944
+      RunConArma_8: 2965327758761726196
+      RunConArma_9: -4163840738436813849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

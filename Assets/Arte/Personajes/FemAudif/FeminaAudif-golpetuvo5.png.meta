@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: e4818659e1716c2448f6b1e37de1b7f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8291609114437671922
+    second: FeminaAudif-golpetuvo5_0
+  - first:
+      213: 3230340636983268400
+    second: FeminaAudif-golpetuvo5_1
+  - first:
+      213: 1707936789203832937
+    second: FeminaAudif-golpetuvo5_2
+  - first:
+      213: 198763876298515478
+    second: FeminaAudif-golpetuvo5_3
+  - first:
+      213: -6138215851766795171
+    second: FeminaAudif-golpetuvo5_4
+  - first:
+      213: -7432863804975151671
+    second: FeminaAudif-golpetuvo5_5
+  - first:
+      213: -4313678978604485799
+    second: FeminaAudif-golpetuvo5_6
+  - first:
+      213: 6045471277729917709
+    second: FeminaAudif-golpetuvo5_7
+  - first:
+      213: -7817895806802812935
+    second: FeminaAudif-golpetuvo5_8
+  - first:
+      213: 7659500919017722585
+    second: FeminaAudif-golpetuvo5_9
+  - first:
+      213: 5816920826457734886
+    second: FeminaAudif-golpetuvo5_10
+  - first:
+      213: -1839646546879577915
+    second: FeminaAudif-golpetuvo5_11
+  - first:
+      213: -1830686874365175983
+    second: FeminaAudif-golpetuvo5_12
+  - first:
+      213: 2564323558312151825
+    second: FeminaAudif-golpetuvo5_13
+  - first:
+      213: 8914352083232360378
+    second: FeminaAudif-golpetuvo5_14
+  - first:
+      213: -7989370795659417352
+    second: FeminaAudif-golpetuvo5_15
+  - first:
+      213: -4828564650771441299
+    second: FeminaAudif-golpetuvo5_16
+  - first:
+      213: 1582420379659304500
+    second: FeminaAudif-golpetuvo5_17
+  - first:
+      213: -5288456627496725064
+    second: FeminaAudif-golpetuvo5_18
+  - first:
+      213: -1633657661496880610
+    second: FeminaAudif-golpetuvo5_19
+  - first:
+      213: -5549096343165749983
+    second: FeminaAudif-golpetuvo5_20
+  - first:
+      213: 512815385473101747
+    second: FeminaAudif-golpetuvo5_21
+  - first:
+      213: 4651744369882997193
+    second: FeminaAudif-golpetuvo5_22
+  - first:
+      213: -669712545122284714
+    second: FeminaAudif-golpetuvo5_23
+  - first:
+      213: 1588125096641021624
+    second: FeminaAudif-golpetuvo5_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1045
+        width: 121
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbd27a0f86b11370800000000000000
+      internalID: 8291609114437671922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1045
+        width: 121
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03495eab1b974dc20800000000000000
+      internalID: 3230340636983268400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_2
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1045
+        width: 121
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960d053f57fc3b710800000000000000
+      internalID: 1707936789203832937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_3
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1045
+        width: 121
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614e3f041b622c200800000000000000
+      internalID: 198763876298515478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_4
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1045
+        width: 121
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54b4c8543da0daa0800000000000000
+      internalID: -6138215851766795171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 789
+        width: 120
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5099810c929d890800000000000000
+      internalID: -7432863804975151671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 789
+        width: 126
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953b535e2dbb224c0800000000000000
+      internalID: -4313678978604485799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_7
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 789
+        width: 130
+        height: 209
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b2be8c814d5e350800000000000000
+      internalID: 6045471277729917709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_8
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 789
+        width: 132
+        height: 208
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff90884f21418390800000000000000
+      internalID: -7817895806802812935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_9
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 789
+        width: 140
+        height: 209
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d254da01830c4a60800000000000000
+      internalID: 7659500919017722585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 533
+        width: 171
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeb59b1caad9b050800000000000000
+      internalID: 5816920826457734886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 533
+        width: 172
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c008f466334876e0800000000000000
+      internalID: -1839646546879577915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 533
+        width: 171
+        height: 209
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1575e76bcf71896e0800000000000000
+      internalID: -1830686874365175983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 533
+        width: 173
+        height: 209
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b8c5e90be469320800000000000000
+      internalID: 2564323558312151825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_14
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 533
+        width: 160
+        height: 209
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab704db4df326bb70800000000000000
+      internalID: 8914352083232360378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 277
+        width: 134
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f827d1479d002190800000000000000
+      internalID: -7989370795659417352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 277
+        width: 123
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6992cf680e7dfcb0800000000000000
+      internalID: -4828564650771441299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_17
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 277
+        width: 122
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e7ee683f2e5f510800000000000000
+      internalID: 1582420379659304500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_18
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 277
+        width: 121
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b55ffb77b0ab96b0800000000000000
+      internalID: -5288456627496725064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_19
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 277
+        width: 123
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1212e923051459e0800000000000000
+      internalID: -1633657661496880610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 21
+        width: 122
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125bf29b646adf2b0800000000000000
+      internalID: -5549096343165749983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 21
+        width: 122
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfaa7640e2ed1700800000000000000
+      internalID: 512815385473101747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_22
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 21
+        width: 122
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1acc0cbd05e8040800000000000000
+      internalID: 4651744369882997193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_23
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 21
+        width: 122
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b0d5e0df3b4b6f0800000000000000
+      internalID: -669712545122284714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-golpetuvo5_24
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 21
+        width: 122
+        height: 210
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6cb247c572a0610800000000000000
+      internalID: 1588125096641021624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FeminaAudif-golpetuvo5_0: 8291609114437671922
+      FeminaAudif-golpetuvo5_1: 3230340636983268400
+      FeminaAudif-golpetuvo5_10: 5816920826457734886
+      FeminaAudif-golpetuvo5_11: -1839646546879577915
+      FeminaAudif-golpetuvo5_12: -1830686874365175983
+      FeminaAudif-golpetuvo5_13: 2564323558312151825
+      FeminaAudif-golpetuvo5_14: 8914352083232360378
+      FeminaAudif-golpetuvo5_15: -7989370795659417352
+      FeminaAudif-golpetuvo5_16: -4828564650771441299
+      FeminaAudif-golpetuvo5_17: 1582420379659304500
+      FeminaAudif-golpetuvo5_18: -5288456627496725064
+      FeminaAudif-golpetuvo5_19: -1633657661496880610
+      FeminaAudif-golpetuvo5_2: 1707936789203832937
+      FeminaAudif-golpetuvo5_20: -5549096343165749983
+      FeminaAudif-golpetuvo5_21: 512815385473101747
+      FeminaAudif-golpetuvo5_22: 4651744369882997193
+      FeminaAudif-golpetuvo5_23: -669712545122284714
+      FeminaAudif-golpetuvo5_24: 1588125096641021624
+      FeminaAudif-golpetuvo5_3: 198763876298515478
+      FeminaAudif-golpetuvo5_4: -6138215851766795171
+      FeminaAudif-golpetuvo5_5: -7432863804975151671
+      FeminaAudif-golpetuvo5_6: -4313678978604485799
+      FeminaAudif-golpetuvo5_7: 6045471277729917709
+      FeminaAudif-golpetuvo5_8: -7817895806802812935
+      FeminaAudif-golpetuvo5_9: 7659500919017722585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,10 +1,12 @@
-*.psd filter=lfs diff=lfs merge=lfs -text
-*.fbx filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.wav filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
+# Archivos binarios: se guardan en git normal (sin LFS; el presupuesto de LFS del repo está agotado).
+*.psd binary
+*.fbx binary
+*.png binary
+*.wav binary
+*.mp3 binary
+*.mp4 binary
+*.jpg binary
+*.jpeg binary
 *.png !text !filter !merge !diff
 *.jpg !text !filter !merge !diff
 *.jpeg !text !filter !merge !diff

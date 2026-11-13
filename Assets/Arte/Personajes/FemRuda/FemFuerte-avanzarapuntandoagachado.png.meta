@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 2add8313774b40c47af9aa3f26ec256c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2345434833490543
+    second: FemFuerte-avanzarapuntandoagachado_0
+  - first:
+      213: -9057591868319203038
+    second: FemFuerte-avanzarapuntandoagachado_1
+  - first:
+      213: 7881276321446985867
+    second: FemFuerte-avanzarapuntandoagachado_2
+  - first:
+      213: 815926365334742051
+    second: FemFuerte-avanzarapuntandoagachado_3
+  - first:
+      213: -3801090133968934783
+    second: FemFuerte-avanzarapuntandoagachado_4
+  - first:
+      213: 8588596917960477249
+    second: FemFuerte-avanzarapuntandoagachado_5
+  - first:
+      213: 3092691834384527529
+    second: FemFuerte-avanzarapuntandoagachado_6
+  - first:
+      213: -5021869817645910859
+    second: FemFuerte-avanzarapuntandoagachado_7
+  - first:
+      213: 4035168689796896591
+    second: FemFuerte-avanzarapuntandoagachado_8
+  - first:
+      213: -7756756379177238754
+    second: FemFuerte-avanzarapuntandoagachado_9
+  - first:
+      213: -6766327505003143054
+    second: FemFuerte-avanzarapuntandoagachado_10
+  - first:
+      213: -2016017007126226064
+    second: FemFuerte-avanzarapuntandoagachado_11
+  - first:
+      213: 9075895336103831424
+    second: FemFuerte-avanzarapuntandoagachado_12
+  - first:
+      213: -3227007388160668375
+    second: FemFuerte-avanzarapuntandoagachado_13
+  - first:
+      213: 2981594033294229666
+    second: FemFuerte-avanzarapuntandoagachado_14
+  - first:
+      213: -7830954191741543135
+    second: FemFuerte-avanzarapuntandoagachado_15
+  - first:
+      213: -6103495846661957824
+    second: FemFuerte-avanzarapuntandoagachado_16
+  - first:
+      213: 330238205527375065
+    second: FemFuerte-avanzarapuntandoagachado_17
+  - first:
+      213: 6852452240067490195
+    second: FemFuerte-avanzarapuntandoagachado_18
+  - first:
+      213: 5864083708923134078
+    second: FemFuerte-avanzarapuntandoagachado_19
+  - first:
+      213: 4554392491396251219
+    second: FemFuerte-avanzarapuntandoagachado_20
+  - first:
+      213: 2781650234977637025
+    second: FemFuerte-avanzarapuntandoagachado_21
+  - first:
+      213: 1641814921838828123
+    second: FemFuerte-avanzarapuntandoagachado_22
+  - first:
+      213: -3934682043499157292
+    second: FemFuerte-avanzarapuntandoagachado_23
+  - first:
+      213: 3000316503811253141
+    second: FemFuerte-avanzarapuntandoagachado_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 106
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1075
+        width: 169
+        height: 144
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19de7e5e6daa7fff0800000000000000
+      internalID: -2345434833490543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1074
+        width: 163
+        height: 145
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2210e585f28fc4280800000000000000
+      internalID: -9057591868319203038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1075
+        width: 155
+        height: 146
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b808b8cbe0bef5d60800000000000000
+      internalID: 7881276321446985867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1074
+        width: 153
+        height: 148
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32427a0d4b0c25b00800000000000000
+      internalID: 815926365334742051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_4
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1075
+        width: 152
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1882a8589a0df3bc0800000000000000
+      internalID: -3801090133968934783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 818
+        width: 155
+        height: 148
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a8c0e7463d03770800000000000000
+      internalID: 8588596917960477249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 818
+        width: 171
+        height: 146
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0bd3c66d27bea20800000000000000
+      internalID: 3092691834384527529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 819
+        width: 173
+        height: 144
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4b5f2020cbe4ab0800000000000000
+      internalID: -5021869817645910859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 819
+        width: 164
+        height: 144
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f475f1c4b8ccff730800000000000000
+      internalID: 4035168689796896591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_9
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 819
+        width: 159
+        height: 146
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f35e19b277a5490800000000000000
+      internalID: -7756756379177238754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 563
+        width: 158
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2702556dbfc2912a0800000000000000
+      internalID: -6766327505003143054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 563
+        width: 156
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b581d963ba504e0800000000000000
+      internalID: -2016017007126226064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_12
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 563
+        width: 162
+        height: 146
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087e717d8be04fd70800000000000000
+      internalID: 9075895336103831424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_13
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 563
+        width: 170
+        height: 144
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d4f1db0ed5733d0800000000000000
+      internalID: -3227007388160668375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_14
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 563
+        width: 168
+        height: 144
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a04de2e9ffb06920800000000000000
+      internalID: 2981594033294229666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 307
+        width: 156
+        height: 145
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d93ec17acd25390800000000000000
+      internalID: -7830954191741543135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 306
+        width: 153
+        height: 148
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04754ab7dd60c4ba0800000000000000
+      internalID: -6103495846661957824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_17
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 307
+        width: 152
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcb8b3f5ed359400800000000000000
+      internalID: 330238205527375065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_18
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 307
+        width: 156
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3917d89a10dc81f50800000000000000
+      internalID: 6852452240067490195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_19
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 306
+        width: 170
+        height: 146
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70c4836019616150800000000000000
+      internalID: 5864083708923134078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 172
+        height: 144
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e316937d3743f30800000000000000
+      internalID: 4554392491396251219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 51
+        width: 165
+        height: 144
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a25931a6286a9620800000000000000
+      internalID: 2781650234977637025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_22
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 51
+        width: 160
+        height: 146
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a932309f5e8c610800000000000000
+      internalID: 1641814921838828123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_23
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 51
+        width: 157
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8ef1d37833569c0800000000000000
+      internalID: -3934682043499157292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoagachado_24
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 51
+        width: 155
+        height: 147
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593696fb6f343a920800000000000000
+      internalID: 3000316503811253141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FemFuerte-avanzarapuntandoagachado_0: -2345434833490543
+      FemFuerte-avanzarapuntandoagachado_1: -9057591868319203038
+      FemFuerte-avanzarapuntandoagachado_10: -6766327505003143054
+      FemFuerte-avanzarapuntandoagachado_11: -2016017007126226064
+      FemFuerte-avanzarapuntandoagachado_12: 9075895336103831424
+      FemFuerte-avanzarapuntandoagachado_13: -3227007388160668375
+      FemFuerte-avanzarapuntandoagachado_14: 2981594033294229666
+      FemFuerte-avanzarapuntandoagachado_15: -7830954191741543135
+      FemFuerte-avanzarapuntandoagachado_16: -6103495846661957824
+      FemFuerte-avanzarapuntandoagachado_17: 330238205527375065
+      FemFuerte-avanzarapuntandoagachado_18: 6852452240067490195
+      FemFuerte-avanzarapuntandoagachado_19: 5864083708923134078
+      FemFuerte-avanzarapuntandoagachado_2: 7881276321446985867
+      FemFuerte-avanzarapuntandoagachado_20: 4554392491396251219
+      FemFuerte-avanzarapuntandoagachado_21: 2781650234977637025
+      FemFuerte-avanzarapuntandoagachado_22: 1641814921838828123
+      FemFuerte-avanzarapuntandoagachado_23: -3934682043499157292
+      FemFuerte-avanzarapuntandoagachado_24: 3000316503811253141
+      FemFuerte-avanzarapuntandoagachado_3: 815926365334742051
+      FemFuerte-avanzarapuntandoagachado_4: -3801090133968934783
+      FemFuerte-avanzarapuntandoagachado_5: 8588596917960477249
+      FemFuerte-avanzarapuntandoagachado_6: 3092691834384527529
+      FemFuerte-avanzarapuntandoagachado_7: -5021869817645910859
+      FemFuerte-avanzarapuntandoagachado_8: 4035168689796896591
+      FemFuerte-avanzarapuntandoagachado_9: -7756756379177238754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

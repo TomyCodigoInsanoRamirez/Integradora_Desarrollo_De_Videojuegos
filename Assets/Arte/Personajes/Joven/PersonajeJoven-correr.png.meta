@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 4b975e83430da64498affe92526c0d99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1768141260035967834
+    second: PersonajeJoven-correr_0
+  - first:
+      213: 1920540169790160734
+    second: PersonajeJoven-correr_1
+  - first:
+      213: -335294448636630404
+    second: PersonajeJoven-correr_2
+  - first:
+      213: -4044907601672671386
+    second: PersonajeJoven-correr_3
+  - first:
+      213: -8422400828681511566
+    second: PersonajeJoven-correr_4
+  - first:
+      213: 6532041251188576986
+    second: PersonajeJoven-correr_5
+  - first:
+      213: -2661914303643173764
+    second: PersonajeJoven-correr_6
+  - first:
+      213: 1629195730530874774
+    second: PersonajeJoven-correr_7
+  - first:
+      213: -7421983243234950771
+    second: PersonajeJoven-correr_8
+  - first:
+      213: -1522610223762062441
+    second: PersonajeJoven-correr_9
+  - first:
+      213: -4137512476581393693
+    second: PersonajeJoven-correr_10
+  - first:
+      213: -4362799197020754251
+    second: PersonajeJoven-correr_11
+  - first:
+      213: 2673411609672965694
+    second: PersonajeJoven-correr_12
+  - first:
+      213: 2527165281285728597
+    second: PersonajeJoven-correr_13
+  - first:
+      213: -5786045131549050593
+    second: PersonajeJoven-correr_14
+  - first:
+      213: 1962496849728255579
+    second: PersonajeJoven-correr_15
+  - first:
+      213: 1765989722793909699
+    second: PersonajeJoven-correr_16
+  - first:
+      213: 971200052199040271
+    second: PersonajeJoven-correr_17
+  - first:
+      213: 8619741967139328983
+    second: PersonajeJoven-correr_18
+  - first:
+      213: -8627863917361757428
+    second: PersonajeJoven-correr_19
+  - first:
+      213: 8586603674554118964
+    second: PersonajeJoven-correr_20
+  - first:
+      213: -5117565205625114132
+    second: PersonajeJoven-correr_21
+  - first:
+      213: -2790915965609069626
+    second: PersonajeJoven-correr_22
+  - first:
+      213: 8286990736361509374
+    second: PersonajeJoven-correr_23
+  - first:
+      213: 4560403607474808552
+    second: PersonajeJoven-correr_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 119
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1053
+        width: 164
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bc725ab13b98810800000000000000
+      internalID: 1768141260035967834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1053
+        width: 165
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ff535eb1127aa10800000000000000
+      internalID: 1920540169790160734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1055
+        width: 179
+        height: 195
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6ad5b97bc85bf0800000000000000
+      internalID: -335294448636630404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_3
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1062
+        width: 186
+        height: 188
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fe50597f99dd7c0800000000000000
+      internalID: -4044907601672671386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1054
+        width: 181
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d9b72f11f9d1b80800000000000000
+      internalID: -8422400828681511566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 798
+        width: 163
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad21b43e8e876aa50800000000000000
+      internalID: 6532041251188576986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 801
+        width: 173
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c31d45b0bfe0bd0800000000000000
+      internalID: -2661914303643173764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 805
+        width: 184
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69530e392e01c9610800000000000000
+      internalID: 1629195730530874774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_8
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 797
+        width: 168
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81441a4091dff890800000000000000
+      internalID: -7421983243234950771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_9
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 797
+        width: 166
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793c841911a9edae0800000000000000
+      internalID: -1522610223762062441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 544
+        width: 184
+        height: 194
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea8e93f25a9496c0800000000000000
+      internalID: -4137512476581393693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 549
+        width: 186
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bee733de393473c0800000000000000
+      internalID: -4362799197020754251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_12
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 542
+        width: 163
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e56f4d1bdd91520800000000000000
+      internalID: 2673411609672965694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_13
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 542
+        width: 160
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596cbf0f6b421320800000000000000
+      internalID: 2527165281285728597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_14
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 543
+        width: 174
+        height: 196
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19f3afcb96d3bfa0800000000000000
+      internalID: -5786045131549050593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 289
+        width: 184
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5630e0bc703c3b10800000000000000
+      internalID: 1962496849728255579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 285
+        width: 163
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd1f18db4e028810800000000000000
+      internalID: 1765989722793909699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_17
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 285
+        width: 163
+        height: 194
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f052a254d456a7d00800000000000000
+      internalID: 971200052199040271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 286
+        width: 180
+        height: 196
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3ddd656a97f9770800000000000000
+      internalID: 8619741967139328983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_19
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 287
+        width: 181
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c030e33ca7ba34880800000000000000
+      internalID: -8627863917361757428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 30
+        width: 164
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433bcd85c8eb92770800000000000000
+      internalID: 8586603674554118964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 30
+        width: 160
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1f0db3f81caf8b0800000000000000
+      internalID: -5117565205625114132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 38
+        width: 182
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3b7e757bca449d0800000000000000
+      internalID: -2790915965609069626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_23
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 30
+        width: 179
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1d7c91b2e410370800000000000000
+      internalID: 8286990736361509374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-correr_24
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 29
+        width: 164
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e622ff3beec94f30800000000000000
+      internalID: 4560403607474808552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PersonajeJoven-correr_0: 1768141260035967834
+      PersonajeJoven-correr_1: 1920540169790160734
+      PersonajeJoven-correr_10: -4137512476581393693
+      PersonajeJoven-correr_11: -4362799197020754251
+      PersonajeJoven-correr_12: 2673411609672965694
+      PersonajeJoven-correr_13: 2527165281285728597
+      PersonajeJoven-correr_14: -5786045131549050593
+      PersonajeJoven-correr_15: 1962496849728255579
+      PersonajeJoven-correr_16: 1765989722793909699
+      PersonajeJoven-correr_17: 971200052199040271
+      PersonajeJoven-correr_18: 8619741967139328983
+      PersonajeJoven-correr_19: -8627863917361757428
+      PersonajeJoven-correr_2: -335294448636630404
+      PersonajeJoven-correr_20: 8586603674554118964
+      PersonajeJoven-correr_21: -5117565205625114132
+      PersonajeJoven-correr_22: -2790915965609069626
+      PersonajeJoven-correr_23: 8286990736361509374
+      PersonajeJoven-correr_24: 4560403607474808552
+      PersonajeJoven-correr_3: -4044907601672671386
+      PersonajeJoven-correr_4: -8422400828681511566
+      PersonajeJoven-correr_5: 6532041251188576986
+      PersonajeJoven-correr_6: -2661914303643173764
+      PersonajeJoven-correr_7: 1629195730530874774
+      PersonajeJoven-correr_8: -7421983243234950771
+      PersonajeJoven-correr_9: -1522610223762062441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

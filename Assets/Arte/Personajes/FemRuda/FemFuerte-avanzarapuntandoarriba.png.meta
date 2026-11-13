@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 5b2e146d1ebb7d846b1b17c5e933ad47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5307185933799239726
+    second: FemFuerte-avanzarapuntandoarriba_0
+  - first:
+      213: -6394901392598425573
+    second: FemFuerte-avanzarapuntandoarriba_1
+  - first:
+      213: 3088556948822850499
+    second: FemFuerte-avanzarapuntandoarriba_2
+  - first:
+      213: 1204129248579261315
+    second: FemFuerte-avanzarapuntandoarriba_3
+  - first:
+      213: 2570495166924892160
+    second: FemFuerte-avanzarapuntandoarriba_4
+  - first:
+      213: -7455765280595713105
+    second: FemFuerte-avanzarapuntandoarriba_5
+  - first:
+      213: -7398653012232644712
+    second: FemFuerte-avanzarapuntandoarriba_6
+  - first:
+      213: -6698686768301793816
+    second: FemFuerte-avanzarapuntandoarriba_7
+  - first:
+      213: -5476906854146523943
+    second: FemFuerte-avanzarapuntandoarriba_8
+  - first:
+      213: -3741419845690222124
+    second: FemFuerte-avanzarapuntandoarriba_9
+  - first:
+      213: 3444004836143148343
+    second: FemFuerte-avanzarapuntandoarriba_10
+  - first:
+      213: -8049577331275072965
+    second: FemFuerte-avanzarapuntandoarriba_11
+  - first:
+      213: -3356810625882212882
+    second: FemFuerte-avanzarapuntandoarriba_12
+  - first:
+      213: 6145511970592965598
+    second: FemFuerte-avanzarapuntandoarriba_13
+  - first:
+      213: 6469391853402694271
+    second: FemFuerte-avanzarapuntandoarriba_14
+  - first:
+      213: -6276494059446569714
+    second: FemFuerte-avanzarapuntandoarriba_15
+  - first:
+      213: -9193470847301185738
+    second: FemFuerte-avanzarapuntandoarriba_16
+  - first:
+      213: 4159311106711451904
+    second: FemFuerte-avanzarapuntandoarriba_17
+  - first:
+      213: 6604194704412978952
+    second: FemFuerte-avanzarapuntandoarriba_18
+  - first:
+      213: -6327495958098085757
+    second: FemFuerte-avanzarapuntandoarriba_19
+  - first:
+      213: -9219169393693510568
+    second: FemFuerte-avanzarapuntandoarriba_20
+  - first:
+      213: 1800507968340377406
+    second: FemFuerte-avanzarapuntandoarriba_21
+  - first:
+      213: 5405214046690707119
+    second: FemFuerte-avanzarapuntandoarriba_22
+  - first:
+      213: 1288837131874248659
+    second: FemFuerte-avanzarapuntandoarriba_23
+  - first:
+      213: -6805960865439613757
+    second: FemFuerte-avanzarapuntandoarriba_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 106
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1031
+        width: 98
+        height: 240
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20bd05fc79e6a940800000000000000
+      internalID: 5307185933799239726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1031
+        width: 97
+        height: 240
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b102588a01fb047a0800000000000000
+      internalID: -6394901392598425573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1031
+        width: 107
+        height: 238
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb762b5e22ccda20800000000000000
+      internalID: 3088556948822850499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_3
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1031
+        width: 123
+        height: 236
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383993dfb2de5b010800000000000000
+      internalID: 1204129248579261315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_4
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1030
+        width: 111
+        height: 238
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008aa693cbb3ca320800000000000000
+      internalID: 2570495166924892160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 773
+        width: 99
+        height: 241
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3e669cafcc78890800000000000000
+      internalID: -7455765280595713105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 773
+        width: 97
+        height: 242
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897df7df844b25990800000000000000
+      internalID: -7398653012232644712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_7
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 774
+        width: 108
+        height: 239
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed13c910eb7903a0800000000000000
+      internalID: -6698686768301793816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_8
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 773
+        width: 125
+        height: 238
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcb1baeb3e1ef3b0800000000000000
+      internalID: -5476906854146523943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_9
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 775
+        width: 110
+        height: 237
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d99906297ec31cc0800000000000000
+      internalID: -3741419845690222124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 519
+        width: 98
+        height: 239
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2a0fb6209bcf20800000000000000
+      internalID: 3444004836143148343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 518
+        width: 97
+        height: 241
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aff41d0182a4090800000000000000
+      internalID: -8049577331275072965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 519
+        width: 113
+        height: 238
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5b80a55863a61d0800000000000000
+      internalID: -3356810625882212882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 519
+        width: 121
+        height: 236
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3ca12b39e394550800000000000000
+      internalID: 6145511970592965598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_14
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 517
+        width: 110
+        height: 239
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72afd64d95e7c950800000000000000
+      internalID: 6469391853402694271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 261
+        width: 99
+        height: 241
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0576df38e965e8a0800000000000000
+      internalID: -6276494059446569714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 261
+        width: 97
+        height: 242
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f04b539fa3a6080800000000000000
+      internalID: -9193470847301185738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_17
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 261
+        width: 102
+        height: 241
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0097fd12a67d8b930800000000000000
+      internalID: 4159311106711451904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_18
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 262
+        width: 128
+        height: 238
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f2d08d710d6ab50800000000000000
+      internalID: 6604194704412978952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_19
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 263
+        width: 110
+        height: 237
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388f7db53f73038a0800000000000000
+      internalID: -6327495958098085757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 98
+        height: 239
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854bebc184eee0080800000000000000
+      internalID: -9219169393693510568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 7
+        width: 97
+        height: 240
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f303c2570bcf810800000000000000
+      internalID: 1800507968340377406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_22
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 7
+        width: 98
+        height: 239
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa683f3998d230b40800000000000000
+      internalID: 5405214046690707119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_23
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 7
+        width: 123
+        height: 236
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7a2bafa8ed2e110800000000000000
+      internalID: 1288837131874248659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-avanzarapuntandoarriba_24
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 5
+        width: 111
+        height: 238
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccf24407ae5c81a0800000000000000
+      internalID: -6805960865439613757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FemFuerte-avanzarapuntandoarriba_0: 5307185933799239726
+      FemFuerte-avanzarapuntandoarriba_1: -6394901392598425573
+      FemFuerte-avanzarapuntandoarriba_10: 3444004836143148343
+      FemFuerte-avanzarapuntandoarriba_11: -8049577331275072965
+      FemFuerte-avanzarapuntandoarriba_12: -3356810625882212882
+      FemFuerte-avanzarapuntandoarriba_13: 6145511970592965598
+      FemFuerte-avanzarapuntandoarriba_14: 6469391853402694271
+      FemFuerte-avanzarapuntandoarriba_15: -6276494059446569714
+      FemFuerte-avanzarapuntandoarriba_16: -9193470847301185738
+      FemFuerte-avanzarapuntandoarriba_17: 4159311106711451904
+      FemFuerte-avanzarapuntandoarriba_18: 6604194704412978952
+      FemFuerte-avanzarapuntandoarriba_19: -6327495958098085757
+      FemFuerte-avanzarapuntandoarriba_2: 3088556948822850499
+      FemFuerte-avanzarapuntandoarriba_20: -9219169393693510568
+      FemFuerte-avanzarapuntandoarriba_21: 1800507968340377406
+      FemFuerte-avanzarapuntandoarriba_22: 5405214046690707119
+      FemFuerte-avanzarapuntandoarriba_23: 1288837131874248659
+      FemFuerte-avanzarapuntandoarriba_24: -6805960865439613757
+      FemFuerte-avanzarapuntandoarriba_3: 1204129248579261315
+      FemFuerte-avanzarapuntandoarriba_4: 2570495166924892160
+      FemFuerte-avanzarapuntandoarriba_5: -7455765280595713105
+      FemFuerte-avanzarapuntandoarriba_6: -7398653012232644712
+      FemFuerte-avanzarapuntandoarriba_7: -6698686768301793816
+      FemFuerte-avanzarapuntandoarriba_8: -5476906854146523943
+      FemFuerte-avanzarapuntandoarriba_9: -3741419845690222124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

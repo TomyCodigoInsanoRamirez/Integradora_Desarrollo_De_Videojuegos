@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 917c3ec2b65b2cc498072f7910d9bc77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3409338388748957791
+    second: FeminaAudif-salto_0
+  - first:
+      213: -1842536565056321742
+    second: FeminaAudif-salto_1
+  - first:
+      213: 1453639438130997939
+    second: FeminaAudif-salto_2
+  - first:
+      213: 7521699155709162260
+    second: FeminaAudif-salto_3
+  - first:
+      213: 1157594250402440003
+    second: FeminaAudif-salto_4
+  - first:
+      213: -8259017774281841107
+    second: FeminaAudif-salto_5
+  - first:
+      213: -7944629180132265964
+    second: FeminaAudif-salto_6
+  - first:
+      213: 635425705978003986
+    second: FeminaAudif-salto_7
+  - first:
+      213: 1045863468764209872
+    second: FeminaAudif-salto_8
+  - first:
+      213: 2279322567497728775
+    second: FeminaAudif-salto_9
+  - first:
+      213: -4382820608580768301
+    second: FeminaAudif-salto_10
+  - first:
+      213: 8095408010931803457
+    second: FeminaAudif-salto_11
+  - first:
+      213: -3319757723854743545
+    second: FeminaAudif-salto_12
+  - first:
+      213: -7876746848478312374
+    second: FeminaAudif-salto_13
+  - first:
+      213: 8851302438808930879
+    second: FeminaAudif-salto_14
+  - first:
+      213: 4014534784730367345
+    second: FeminaAudif-salto_15
+  - first:
+      213: -3595187742493081906
+    second: FeminaAudif-salto_16
+  - first:
+      213: 2431432028928490398
+    second: FeminaAudif-salto_17
+  - first:
+      213: -4793129832196953137
+    second: FeminaAudif-salto_18
+  - first:
+      213: -7380618380211159277
+    second: FeminaAudif-salto_19
+  - first:
+      213: 2078605006154568165
+    second: FeminaAudif-salto_20
+  - first:
+      213: 13923129566326684
+    second: FeminaAudif-salto_21
+  - first:
+      213: 5764913591598505173
+    second: FeminaAudif-salto_22
+  - first:
+      213: -4975217864127237034
+    second: FeminaAudif-salto_23
+  - first:
+      213: -5138129892385046173
+    second: FeminaAudif-salto_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 103
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FeminaAudif-salto_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1052
+        width: 95
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a704838cc89fa0d0800000000000000
+      internalID: -3409338388748957791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1052
+        width: 95
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237462a91cefd66e0800000000000000
+      internalID: -1842536565056321742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1052
+        width: 96
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baeb450e5d5c2410800000000000000
+      internalID: 1453639438130997939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1052
+        width: 96
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413766bc781726860800000000000000
+      internalID: 7521699155709162260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_4
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1052
+        width: 96
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343a54966d9901010800000000000000
+      internalID: 1157594250402440003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 796
+        width: 97
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d262b4aa713126d80800000000000000
+      internalID: -8259017774281841107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 796
+        width: 108
+        height: 177
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41073066ad10fb190800000000000000
+      internalID: -7944629180132265964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 796
+        width: 115
+        height: 170
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21288fd105c71d800800000000000000
+      internalID: 635425705978003986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_8
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 796
+        width: 120
+        height: 164
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2af3b9847a38e00800000000000000
+      internalID: 1045863468764209872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_9
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 796
+        width: 117
+        height: 165
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703cb3c7cc7c1af10800000000000000
+      internalID: 2279322567497728775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 549
+        width: 89
+        height: 195
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd284fa0e71d23c0800000000000000
+      internalID: -4382820608580768301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 583
+        width: 126
+        height: 175
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1451173d1baa85070800000000000000
+      internalID: 8095408010931803457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 639
+        width: 175
+        height: 106
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708574160f9dde1d0800000000000000
+      internalID: -3319757723854743545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 633
+        width: 131
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48c5ce597c20b290800000000000000
+      internalID: -7876746848478312374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_14
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 630
+        width: 125
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a41c00ca426da70800000000000000
+      internalID: 8851302438808930879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 396
+        width: 150
+        height: 117
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1758d46ed1e76b730800000000000000
+      internalID: 4014534784730367345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 336
+        width: 136
+        height: 163
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece7cdbdbc35b1ec0800000000000000
+      internalID: -3595187742493081906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_17
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 284
+        width: 135
+        height: 178
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b3acb4c8e2eb120800000000000000
+      internalID: 2431432028928490398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_18
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 284
+        width: 140
+        height: 166
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcba29d00d16b7db0800000000000000
+      internalID: -4793129832196953137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_19
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 284
+        width: 128
+        height: 163
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f7bc8ffa6c29990800000000000000
+      internalID: -7380618380211159277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 28
+        width: 112
+        height: 168
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1113c7d30b8dc10800000000000000
+      internalID: 2078605006154568165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 28
+        width: 106
+        height: 174
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f66f73307713000800000000000000
+      internalID: 13923129566326684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_22
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 28
+        width: 97
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcdc042e56110050800000000000000
+      internalID: 5764913591598505173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_23
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 28
+        width: 95
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654b48066b974fab0800000000000000
+      internalID: -4975217864127237034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-salto_24
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 28
+        width: 95
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361c29af512b1b8b0800000000000000
+      internalID: -5138129892385046173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FeminaAudif-salto_0: -3409338388748957791
+      FeminaAudif-salto_1: -1842536565056321742
+      FeminaAudif-salto_10: -4382820608580768301
+      FeminaAudif-salto_11: 8095408010931803457
+      FeminaAudif-salto_12: -3319757723854743545
+      FeminaAudif-salto_13: -7876746848478312374
+      FeminaAudif-salto_14: 8851302438808930879
+      FeminaAudif-salto_15: 4014534784730367345
+      FeminaAudif-salto_16: -3595187742493081906
+      FeminaAudif-salto_17: 2431432028928490398
+      FeminaAudif-salto_18: -4793129832196953137
+      FeminaAudif-salto_19: -7380618380211159277
+      FeminaAudif-salto_2: 1453639438130997939
+      FeminaAudif-salto_20: 2078605006154568165
+      FeminaAudif-salto_21: 13923129566326684
+      FeminaAudif-salto_22: 5764913591598505173
+      FeminaAudif-salto_23: -4975217864127237034
+      FeminaAudif-salto_24: -5138129892385046173
+      FeminaAudif-salto_3: 7521699155709162260
+      FeminaAudif-salto_4: 1157594250402440003
+      FeminaAudif-salto_5: -8259017774281841107
+      FeminaAudif-salto_6: -7944629180132265964
+      FeminaAudif-salto_7: 635425705978003986
+      FeminaAudif-salto_8: 1045863468764209872
+      FeminaAudif-salto_9: 2279322567497728775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

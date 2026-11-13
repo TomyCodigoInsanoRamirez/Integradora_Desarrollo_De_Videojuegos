@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: a922a32547ad72041914c4042fe086de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -785491984623606892
+    second: FeminaAudif-correr_0
+  - first:
+      213: 5216873761982880993
+    second: FeminaAudif-correr_1
+  - first:
+      213: 4520468092375680382
+    second: FeminaAudif-correr_2
+  - first:
+      213: -1270149156983932095
+    second: FeminaAudif-correr_3
+  - first:
+      213: 3881675155473701592
+    second: FeminaAudif-correr_4
+  - first:
+      213: 2508441158008943772
+    second: FeminaAudif-correr_5
+  - first:
+      213: 1497540485329599582
+    second: FeminaAudif-correr_6
+  - first:
+      213: -6119998069400337358
+    second: FeminaAudif-correr_7
+  - first:
+      213: -7403398182225170340
+    second: FeminaAudif-correr_8
+  - first:
+      213: 72293282315192785
+    second: FeminaAudif-correr_9
+  - first:
+      213: 5036368828316558977
+    second: FeminaAudif-correr_10
+  - first:
+      213: 5497747619555545585
+    second: FeminaAudif-correr_11
+  - first:
+      213: 7315482595337310701
+    second: FeminaAudif-correr_12
+  - first:
+      213: -6202986500181567037
+    second: FeminaAudif-correr_13
+  - first:
+      213: -3914445936039630794
+    second: FeminaAudif-correr_14
+  - first:
+      213: 1339735451617887348
+    second: FeminaAudif-correr_15
+  - first:
+      213: -4958701827817953600
+    second: FeminaAudif-correr_16
+  - first:
+      213: 6579417798650859327
+    second: FeminaAudif-correr_17
+  - first:
+      213: 4964325186719396778
+    second: FeminaAudif-correr_18
+  - first:
+      213: 8403481321796971984
+    second: FeminaAudif-correr_19
+  - first:
+      213: 6392424792784478154
+    second: FeminaAudif-correr_20
+  - first:
+      213: -4967008536643983455
+    second: FeminaAudif-correr_21
+  - first:
+      213: -4332253391671339681
+    second: FeminaAudif-correr_22
+  - first:
+      213: -7664388225016398583
+    second: FeminaAudif-correr_23
+  - first:
+      213: 2690319977632706656
+    second: FeminaAudif-correr_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FeminaAudif-correr_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1032
+        width: 193
+        height: 223
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493e792a33f5915f0800000000000000
+      internalID: -785491984623606892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1031
+        width: 176
+        height: 219
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec9b0ddb0f066840800000000000000
+      internalID: 5216873761982880993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1033
+        width: 190
+        height: 224
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e754a8097cdebbe30800000000000000
+      internalID: 4520468092375680382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1041
+        width: 200
+        height: 219
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf53e32168f5ee0800000000000000
+      internalID: -1270149156983932095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_4
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1032
+        width: 187
+        height: 223
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da1877ecfa7ed530800000000000000
+      internalID: 3881675155473701592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 776
+        width: 177
+        height: 220
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94b71361f5cfc220800000000000000
+      internalID: 2508441158008943772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 785
+        width: 209
+        height: 219
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c36d8132558c410800000000000000
+      internalID: 1497540485329599582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 776
+        width: 192
+        height: 223
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23401575e26611ba0800000000000000
+      internalID: -6119998069400337358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_8
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 775
+        width: 174
+        height: 222
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5032b10498d14990800000000000000
+      internalID: -7403398182225170340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_9
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 793
+        width: 198
+        height: 211
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d94b047b56d00100800000000000000
+      internalID: 72293282315192785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 521
+        width: 187
+        height: 222
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186a8a9f3c6c4e540800000000000000
+      internalID: 5036368828316558977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 520
+        width: 178
+        height: 218
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f19b58e45ceb4c40800000000000000
+      internalID: 5497747619555545585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_12
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 536
+        width: 207
+        height: 212
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de112af49a0d58560800000000000000
+      internalID: 7315482595337310701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 520
+        width: 192
+        height: 223
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9522694a09ae9a0800000000000000
+      internalID: -6202986500181567037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_14
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 520
+        width: 178
+        height: 217
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638e2e929281da9c0800000000000000
+      internalID: -3914445936039630794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 265
+        width: 195
+        height: 224
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4748ea68b42b79210800000000000000
+      internalID: 1339735451617887348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 266
+        width: 204
+        height: 225
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6a4ddb5f62f2bb0800000000000000
+      internalID: -4958701827817953600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 264
+        width: 176
+        height: 218
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f877de0a9ce4b50800000000000000
+      internalID: 6579417798650859327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 264
+        width: 177
+        height: 224
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa33fe78473d4e440800000000000000
+      internalID: 4964325186719396778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_19
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 265
+        width: 197
+        height: 225
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda6561db92f9470800000000000000
+      internalID: 8403481321796971984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 8
+        width: 177
+        height: 218
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf91530b7476b850800000000000000
+      internalID: 6392424792784478154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 182
+        height: 223
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7a0016d04a11bb0800000000000000
+      internalID: -4967008536643983455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 17
+        width: 209
+        height: 219
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55d2785e7eb0e3c0800000000000000
+      internalID: -4332253391671339681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_23
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 7
+        width: 180
+        height: 220
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90df53b548f92a590800000000000000
+      internalID: -7664388225016398583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-correr_24
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 7
+        width: 177
+        height: 224
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0603fe604cfe55520800000000000000
+      internalID: 2690319977632706656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FeminaAudif-correr_0: -785491984623606892
+      FeminaAudif-correr_1: 5216873761982880993
+      FeminaAudif-correr_10: 5036368828316558977
+      FeminaAudif-correr_11: 5497747619555545585
+      FeminaAudif-correr_12: 7315482595337310701
+      FeminaAudif-correr_13: -6202986500181567037
+      FeminaAudif-correr_14: -3914445936039630794
+      FeminaAudif-correr_15: 1339735451617887348
+      FeminaAudif-correr_16: -4958701827817953600
+      FeminaAudif-correr_17: 6579417798650859327
+      FeminaAudif-correr_18: 4964325186719396778
+      FeminaAudif-correr_19: 8403481321796971984
+      FeminaAudif-correr_2: 4520468092375680382
+      FeminaAudif-correr_20: 6392424792784478154
+      FeminaAudif-correr_21: -4967008536643983455
+      FeminaAudif-correr_22: -4332253391671339681
+      FeminaAudif-correr_23: -7664388225016398583
+      FeminaAudif-correr_24: 2690319977632706656
+      FeminaAudif-correr_3: -1270149156983932095
+      FeminaAudif-correr_4: 3881675155473701592
+      FeminaAudif-correr_5: 2508441158008943772
+      FeminaAudif-correr_6: 1497540485329599582
+      FeminaAudif-correr_7: -6119998069400337358
+      FeminaAudif-correr_8: -7403398182225170340
+      FeminaAudif-correr_9: 72293282315192785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

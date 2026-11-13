@@ -1,0 +1,1770 @@
+fileFormatVersion: 2
+guid: 758ff0376d29e5e45b9b7fe8d3c6cadd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5035731772140465993
+    second: fx_fog_band_horizontal_0
+  - first:
+      213: -8641067661123612853
+    second: fx_fog_band_horizontal_1
+  - first:
+      213: 1674711809987228577
+    second: fx_fog_band_horizontal_2
+  - first:
+      213: -1709532287657481995
+    second: fx_fog_band_horizontal_3
+  - first:
+      213: 1755560932066309222
+    second: fx_fog_band_horizontal_4
+  - first:
+      213: -3131292307606227764
+    second: fx_fog_band_horizontal_5
+  - first:
+      213: 3635557649682333594
+    second: fx_fog_band_horizontal_6
+  - first:
+      213: -8817179690838569566
+    second: fx_fog_band_horizontal_7
+  - first:
+      213: -6070944696259149321
+    second: fx_fog_band_horizontal_8
+  - first:
+      213: -468405479413572556
+    second: fx_fog_band_horizontal_9
+  - first:
+      213: 1080408022556036340
+    second: fx_fog_band_horizontal_10
+  - first:
+      213: 3201698095378039778
+    second: fx_fog_band_horizontal_11
+  - first:
+      213: -3898718419785636890
+    second: fx_fog_band_horizontal_12
+  - first:
+      213: 5353800763002763603
+    second: fx_fog_band_horizontal_13
+  - first:
+      213: 5960439143971615268
+    second: fx_fog_band_horizontal_14
+  - first:
+      213: 4649811199981925704
+    second: fx_fog_band_horizontal_15
+  - first:
+      213: -5949711489795118946
+    second: fx_fog_band_horizontal_16
+  - first:
+      213: 5881734046109074748
+    second: fx_fog_band_horizontal_17
+  - first:
+      213: 3628969690226864014
+    second: fx_fog_band_horizontal_18
+  - first:
+      213: -1132799367308484869
+    second: fx_fog_band_horizontal_19
+  - first:
+      213: 8990820944076227573
+    second: fx_fog_band_horizontal_20
+  - first:
+      213: 364698746102221188
+    second: fx_fog_band_horizontal_21
+  - first:
+      213: -5407420917397105231
+    second: fx_fog_band_horizontal_22
+  - first:
+      213: 8678520969991738215
+    second: fx_fog_band_horizontal_23
+  - first:
+      213: 2584441619873849141
+    second: fx_fog_band_horizontal_24
+  - first:
+      213: 123533318239963747
+    second: fx_fog_band_horizontal_25
+  - first:
+      213: -6116346113172701651
+    second: fx_fog_band_horizontal_26
+  - first:
+      213: 9034089872597955899
+    second: fx_fog_band_horizontal_27
+  - first:
+      213: 2869287641059147963
+    second: fx_fog_band_horizontal_28
+  - first:
+      213: 6251133758940313762
+    second: fx_fog_band_horizontal_29
+  - first:
+      213: -3827556489791549773
+    second: fx_fog_band_horizontal_30
+  - first:
+      213: -4651877556581899080
+    second: fx_fog_band_horizontal_31
+  - first:
+      213: -1029431420286827920
+    second: fx_fog_band_horizontal_32
+  - first:
+      213: 2798725531875225314
+    second: fx_fog_band_horizontal_33
+  - first:
+      213: 8343809230023106251
+    second: fx_fog_band_horizontal_34
+  - first:
+      213: -8405990800323012709
+    second: fx_fog_band_horizontal_35
+  - first:
+      213: -5170461854709625556
+    second: fx_fog_band_horizontal_36
+  - first:
+      213: 629320954698999595
+    second: fx_fog_band_horizontal_37
+  - first:
+      213: -6203197266264865463
+    second: fx_fog_band_horizontal_38
+  - first:
+      213: 8107463382352366870
+    second: fx_fog_band_horizontal_39
+  - first:
+      213: -6199654166904514856
+    second: fx_fog_band_horizontal_40
+  - first:
+      213: -4489467053052558954
+    second: fx_fog_band_horizontal_41
+  - first:
+      213: 6123461013069652172
+    second: fx_fog_band_horizontal_42
+  - first:
+      213: -74198580819189512
+    second: fx_fog_band_horizontal_43
+  - first:
+      213: 6740148109412305415
+    second: fx_fog_band_horizontal_44
+  - first:
+      213: 3628302615815831978
+    second: fx_fog_band_horizontal_45
+  - first:
+      213: 2966808476607916056
+    second: fx_fog_band_horizontal_46
+  - first:
+      213: -3121269760953102744
+    second: fx_fog_band_horizontal_47
+  - first:
+      213: -566108977304151489
+    second: fx_fog_band_horizontal_48
+  - first:
+      213: 7183316935279146882
+    second: fx_fog_band_horizontal_49
+  - first:
+      213: -3367202148908119487
+    second: fx_fog_band_horizontal_50
+  - first:
+      213: 8547148771406558402
+    second: fx_fog_band_horizontal_51
+  - first:
+      213: 582307534230384804
+    second: fx_fog_band_horizontal_52
+  - first:
+      213: -2251274262168327965
+    second: fx_fog_band_horizontal_53
+  - first:
+      213: 9048540092882685120
+    second: fx_fog_band_horizontal_54
+  - first:
+      213: 8212933689035655814
+    second: fx_fog_band_horizontal_55
+  - first:
+      213: -7818038532033362313
+    second: fx_fog_band_horizontal_56
+  - first:
+      213: -3992836961793815123
+    second: fx_fog_band_horizontal_57
+  - first:
+      213: -8030137516234068583
+    second: fx_fog_band_horizontal_58
+  - first:
+      213: -5021901761511675419
+    second: fx_fog_band_horizontal_59
+  - first:
+      213: -3806091141205829121
+    second: fx_fog_band_horizontal_60
+  - first:
+      213: 4410777501001310116
+    second: fx_fog_band_horizontal_61
+  - first:
+      213: 6792753169395045008
+    second: fx_fog_band_horizontal_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 474
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fa496cd5382e540800000000000000
+      internalID: 5035731772140465993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 474
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f8c9a9eb2c41880800000000000000
+      internalID: -8641067661123612853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 458
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3b077a485cd3710800000000000000
+      internalID: 1674711809987228577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_3
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 466
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f86d1e11758648e0800000000000000
+      internalID: -1709532287657481995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_4
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 474
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664bd59cd510d5810800000000000000
+      internalID: 1755560932066309222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_5
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 459
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4b73d8c3a6b84d0800000000000000
+      internalID: -3131292307606227764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ff4cd9b68147230800000000000000
+      internalID: 3635557649682333594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_7
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 459
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad47ce59c513a580800000000000000
+      internalID: -8817179690838569566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_8
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 458
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f18e68c6fbafbba0800000000000000
+      internalID: -6070944696259149321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 458
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c15bcb2b3ef79f0800000000000000
+      internalID: -468405479413572556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_10
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 458
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc4fec4f516efe00800000000000000
+      internalID: 1080408022556036340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_11
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 458
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e38d055477be6c20800000000000000
+      internalID: 3201698095378039778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_12
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 461
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3a765e048f4e9c0800000000000000
+      internalID: -3898718419785636890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_13
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 458
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359bef4ad658c4a40800000000000000
+      internalID: 5353800763002763603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 179
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422f2c952dbb7b250800000000000000
+      internalID: 5960439143971615268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8453e8f86a2778040800000000000000
+      internalID: 4649811199981925704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98a3b64ce06e6da0800000000000000
+      internalID: -5949711489795118946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 179
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3507a1c3fd10a150800000000000000
+      internalID: 5881734046109074748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fa1a6c4b0bc5230800000000000000
+      internalID: 3628969690226864014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe5acd2afc7740f0800000000000000
+      internalID: -1132799367308484869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f34ec26300d5cc70800000000000000
+      internalID: 8990820944076227573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_21
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 171
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489047bc39baf0500800000000000000
+      internalID: 364698746102221188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_22
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5578b435bf4f4b0800000000000000
+      internalID: -5407420917397105231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 179
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763d22867dc407870800000000000000
+      internalID: 8678520969991738215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_24
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fd057d5f7cdd320800000000000000
+      internalID: 2584441619873849141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 178
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a4e9ff5e0e6b100800000000000000
+      internalID: 123533318239963747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_26
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2efff8ad9f5e1ba0800000000000000
+      internalID: -6116346113172701651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_27
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 171
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35b72ddfd88f5d70800000000000000
+      internalID: 9034089872597955899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_28
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0cfbb48e1c1d720800000000000000
+      internalID: 2869287641059147963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_29
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8f619a80d70c650800000000000000
+      internalID: 6251133758940313762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_30
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 179
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3becb3cd6a9c1eac0800000000000000
+      internalID: -3827556489791549773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_31
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 179
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4e25d4206317fb0800000000000000
+      internalID: -4651877556581899080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_32
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0728d21d399b6b1f0800000000000000
+      internalID: -1029431420286827920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_33
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee2d3ffa0217d620800000000000000
+      internalID: 2798725531875225314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_34
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 167
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce172d894a2bc370800000000000000
+      internalID: 8343809230023106251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_35
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 171
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b979b8967ebe75b80800000000000000
+      internalID: -8405990800323012709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_36
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 171
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d43516654de38b0800000000000000
+      internalID: -5170461854709625556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_37
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 171
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b272b82f21ccbb800800000000000000
+      internalID: 629320954698999595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_38
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 179
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945cb98c3f0d9e9a0800000000000000
+      internalID: -6203197266264865463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_39
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 171
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d8996bdfe738070800000000000000
+      internalID: 8107463382352366870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_40
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 179
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6d263e16766f9a0800000000000000
+      internalID: -6199654166904514856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_41
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 179
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918bff508532b1c0800000000000000
+      internalID: -4489467053052558954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_42
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc068ff0957eaf450800000000000000
+      internalID: 6123461013069652172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_43
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 166
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f02f6ba8c468fef0800000000000000
+      internalID: -74198580819189512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_44
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 171
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a8a03aef0d98d50800000000000000
+      internalID: 6740148109412305415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_45
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1c25961025a5230800000000000000
+      internalID: 3628302615815831978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_46
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81825d437983c2920800000000000000
+      internalID: 2966808476607916056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_47
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ec83a80b50fa4d0800000000000000
+      internalID: -3121269760953102744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_48
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a50af62e6c428f0800000000000000
+      internalID: -566108977304151489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_49
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2877c5c91b440b360800000000000000
+      internalID: 7183316935279146882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_50
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 171
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a466b5c7b4541d0800000000000000
+      internalID: -3367202148908119487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_51
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 179
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4ba1ad5829d9670800000000000000
+      internalID: 8547148771406558402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_52
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0f5dffd95c41800800000000000000
+      internalID: 582307534230384804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 163
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e82a7f7cfdd1c0e0800000000000000
+      internalID: -2251274262168327965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_54
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc0724f54fd29d70800000000000000
+      internalID: 9048540092882685120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_55
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a0fca1da33af170800000000000000
+      internalID: 8212933689035655814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_56
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c5d9706fb08390800000000000000
+      internalID: -7818038532033362313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_57
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 155
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadca3e20f79698c0800000000000000
+      internalID: -3992836961793815123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_58
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99da45779783f8090800000000000000
+      internalID: -8030137516234068583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_59
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 163
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9203084fe9e4ab0800000000000000
+      internalID: -5021901761511675419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_60
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff95aa9c54c0e2bc0800000000000000
+      internalID: -3806091141205829121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_61
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afd77294ca363d30800000000000000
+      internalID: 4410777501001310116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_fog_band_horizontal_62
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09253bc9405b44e50800000000000000
+      internalID: 6792753169395045008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fx_fog_band_horizontal_0: 5035731772140465993
+      fx_fog_band_horizontal_1: -8641067661123612853
+      fx_fog_band_horizontal_10: 1080408022556036340
+      fx_fog_band_horizontal_11: 3201698095378039778
+      fx_fog_band_horizontal_12: -3898718419785636890
+      fx_fog_band_horizontal_13: 5353800763002763603
+      fx_fog_band_horizontal_14: 5960439143971615268
+      fx_fog_band_horizontal_15: 4649811199981925704
+      fx_fog_band_horizontal_16: -5949711489795118946
+      fx_fog_band_horizontal_17: 5881734046109074748
+      fx_fog_band_horizontal_18: 3628969690226864014
+      fx_fog_band_horizontal_19: -1132799367308484869
+      fx_fog_band_horizontal_2: 1674711809987228577
+      fx_fog_band_horizontal_20: 8990820944076227573
+      fx_fog_band_horizontal_21: 364698746102221188
+      fx_fog_band_horizontal_22: -5407420917397105231
+      fx_fog_band_horizontal_23: 8678520969991738215
+      fx_fog_band_horizontal_24: 2584441619873849141
+      fx_fog_band_horizontal_25: 123533318239963747
+      fx_fog_band_horizontal_26: -6116346113172701651
+      fx_fog_band_horizontal_27: 9034089872597955899
+      fx_fog_band_horizontal_28: 2869287641059147963
+      fx_fog_band_horizontal_29: 6251133758940313762
+      fx_fog_band_horizontal_3: -1709532287657481995
+      fx_fog_band_horizontal_30: -3827556489791549773
+      fx_fog_band_horizontal_31: -4651877556581899080
+      fx_fog_band_horizontal_32: -1029431420286827920
+      fx_fog_band_horizontal_33: 2798725531875225314
+      fx_fog_band_horizontal_34: 8343809230023106251
+      fx_fog_band_horizontal_35: -8405990800323012709
+      fx_fog_band_horizontal_36: -5170461854709625556
+      fx_fog_band_horizontal_37: 629320954698999595
+      fx_fog_band_horizontal_38: -6203197266264865463
+      fx_fog_band_horizontal_39: 8107463382352366870
+      fx_fog_band_horizontal_4: 1755560932066309222
+      fx_fog_band_horizontal_40: -6199654166904514856
+      fx_fog_band_horizontal_41: -4489467053052558954
+      fx_fog_band_horizontal_42: 6123461013069652172
+      fx_fog_band_horizontal_43: -74198580819189512
+      fx_fog_band_horizontal_44: 6740148109412305415
+      fx_fog_band_horizontal_45: 3628302615815831978
+      fx_fog_band_horizontal_46: 2966808476607916056
+      fx_fog_band_horizontal_47: -3121269760953102744
+      fx_fog_band_horizontal_48: -566108977304151489
+      fx_fog_band_horizontal_49: 7183316935279146882
+      fx_fog_band_horizontal_5: -3131292307606227764
+      fx_fog_band_horizontal_50: -3367202148908119487
+      fx_fog_band_horizontal_51: 8547148771406558402
+      fx_fog_band_horizontal_52: 582307534230384804
+      fx_fog_band_horizontal_53: -2251274262168327965
+      fx_fog_band_horizontal_54: 9048540092882685120
+      fx_fog_band_horizontal_55: 8212933689035655814
+      fx_fog_band_horizontal_56: -7818038532033362313
+      fx_fog_band_horizontal_57: -3992836961793815123
+      fx_fog_band_horizontal_58: -8030137516234068583
+      fx_fog_band_horizontal_59: -5021901761511675419
+      fx_fog_band_horizontal_6: 3635557649682333594
+      fx_fog_band_horizontal_60: -3806091141205829121
+      fx_fog_band_horizontal_61: 4410777501001310116
+      fx_fog_band_horizontal_62: 6792753169395045008
+      fx_fog_band_horizontal_7: -8817179690838569566
+      fx_fog_band_horizontal_8: -6070944696259149321
+      fx_fog_band_horizontal_9: -468405479413572556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

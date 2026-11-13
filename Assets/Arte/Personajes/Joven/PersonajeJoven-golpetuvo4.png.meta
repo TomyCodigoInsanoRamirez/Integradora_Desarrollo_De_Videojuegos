@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 535be89874571f048b437c02d1928877
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8621851683631016732
+    second: PersonajeJoven-golpetuvo4_0
+  - first:
+      213: -772510042565708003
+    second: PersonajeJoven-golpetuvo4_1
+  - first:
+      213: 6916769165286639532
+    second: PersonajeJoven-golpetuvo4_2
+  - first:
+      213: 5469999721595117897
+    second: PersonajeJoven-golpetuvo4_3
+  - first:
+      213: -2244546878783962804
+    second: PersonajeJoven-golpetuvo4_4
+  - first:
+      213: -4430708708222196320
+    second: PersonajeJoven-golpetuvo4_5
+  - first:
+      213: -1077292419569587166
+    second: PersonajeJoven-golpetuvo4_6
+  - first:
+      213: 2484034961813018984
+    second: PersonajeJoven-golpetuvo4_7
+  - first:
+      213: 7433992754210814922
+    second: PersonajeJoven-golpetuvo4_8
+  - first:
+      213: 6236237050385916226
+    second: PersonajeJoven-golpetuvo4_9
+  - first:
+      213: -5918156950477688491
+    second: PersonajeJoven-golpetuvo4_10
+  - first:
+      213: 6477193475595530150
+    second: PersonajeJoven-golpetuvo4_11
+  - first:
+      213: -5249939123387716113
+    second: PersonajeJoven-golpetuvo4_12
+  - first:
+      213: -7538634399801892536
+    second: PersonajeJoven-golpetuvo4_13
+  - first:
+      213: -6886275851021959714
+    second: PersonajeJoven-golpetuvo4_14
+  - first:
+      213: -3355598990005887324
+    second: PersonajeJoven-golpetuvo4_15
+  - first:
+      213: -35734544512535151
+    second: PersonajeJoven-golpetuvo4_16
+  - first:
+      213: -1347409097282141380
+    second: PersonajeJoven-golpetuvo4_17
+  - first:
+      213: 260556714252603888
+    second: PersonajeJoven-golpetuvo4_18
+  - first:
+      213: -349999848153881968
+    second: PersonajeJoven-golpetuvo4_19
+  - first:
+      213: -4220132235684674427
+    second: PersonajeJoven-golpetuvo4_20
+  - first:
+      213: -1963843430978922072
+    second: PersonajeJoven-golpetuvo4_21
+  - first:
+      213: -1074580228676984176
+    second: PersonajeJoven-golpetuvo4_22
+  - first:
+      213: -6938274108348875975
+    second: PersonajeJoven-golpetuvo4_23
+  - first:
+      213: -896387399797680079
+    second: PersonajeJoven-golpetuvo4_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1053
+        width: 113
+        height: 195
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4d1130397095880800000000000000
+      internalID: -8621851683631016732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1053
+        width: 113
+        height: 195
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17f27f853e7745f0800000000000000
+      internalID: -772510042565708003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1053
+        width: 109
+        height: 195
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca70942c8ec4dff50800000000000000
+      internalID: 6916769165286639532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1053
+        width: 109
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a927f3c759eb40800000000000000
+      internalID: 5469999721595117897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_4
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1053
+        width: 124
+        height: 188
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41ce508184c9d0e0800000000000000
+      internalID: -2244546878783962804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 797
+        width: 86
+        height: 181
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5af2f97e5f282c0800000000000000
+      internalID: -4430708708222196320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 797
+        width: 140
+        height: 177
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c655c8040bc01f0800000000000000
+      internalID: -1077292419569587166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 797
+        width: 146
+        height: 177
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869148403a0197220800000000000000
+      internalID: 2484034961813018984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_8
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 797
+        width: 148
+        height: 177
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb3091e509da2760800000000000000
+      internalID: 7433992754210814922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 797
+        width: 133
+        height: 180
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e16b6e809b8650800000000000000
+      internalID: 6236237050385916226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 541
+        width: 85
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551b4c9fb9b7edda0800000000000000
+      internalID: -5918156950477688491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 541
+        width: 126
+        height: 213
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af695ef52d93e950800000000000000
+      internalID: 6477193475595530150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 541
+        width: 107
+        height: 224
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedac02ce287427b0800000000000000
+      internalID: -5249939123387716113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 541
+        width: 106
+        height: 207
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841a44c64f3616790800000000000000
+      internalID: -7538634399801892536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_14
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 541
+        width: 107
+        height: 207
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd3c7a39980f60a0800000000000000
+      internalID: -6886275851021959714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 285
+        width: 107
+        height: 204
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae1a005f748e61d0800000000000000
+      internalID: -3355598990005887324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 285
+        width: 94
+        height: 228
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195be100f9b018ff0800000000000000
+      internalID: -35734544512535151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 285
+        width: 85
+        height: 213
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c334e5d909a0d4de0800000000000000
+      internalID: -1347409097282141380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_18
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 285
+        width: 108
+        height: 194
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f19edc73fead9300800000000000000
+      internalID: 260556714252603888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_19
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 285
+        width: 114
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092e8531efc842bf0800000000000000
+      internalID: -349999848153881968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 29
+        width: 115
+        height: 194
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58407d247141f65c0800000000000000
+      internalID: -4220132235684674427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 115
+        height: 194
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9540eedc60fb4e0800000000000000
+      internalID: -1963843430978922072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_22
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 29
+        width: 115
+        height: 195
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092ec03b9f25611f0800000000000000
+      internalID: -1074580228676984176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_23
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 29
+        width: 114
+        height: 195
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b3391857c46bf90800000000000000
+      internalID: -6938274108348875975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-golpetuvo4_24
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 29
+        width: 113
+        height: 195
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1385cedb8646f83f0800000000000000
+      internalID: -896387399797680079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PersonajeJoven-golpetuvo4_0: -8621851683631016732
+      PersonajeJoven-golpetuvo4_1: -772510042565708003
+      PersonajeJoven-golpetuvo4_10: -5918156950477688491
+      PersonajeJoven-golpetuvo4_11: 6477193475595530150
+      PersonajeJoven-golpetuvo4_12: -5249939123387716113
+      PersonajeJoven-golpetuvo4_13: -7538634399801892536
+      PersonajeJoven-golpetuvo4_14: -6886275851021959714
+      PersonajeJoven-golpetuvo4_15: -3355598990005887324
+      PersonajeJoven-golpetuvo4_16: -35734544512535151
+      PersonajeJoven-golpetuvo4_17: -1347409097282141380
+      PersonajeJoven-golpetuvo4_18: 260556714252603888
+      PersonajeJoven-golpetuvo4_19: -349999848153881968
+      PersonajeJoven-golpetuvo4_2: 6916769165286639532
+      PersonajeJoven-golpetuvo4_20: -4220132235684674427
+      PersonajeJoven-golpetuvo4_21: -1963843430978922072
+      PersonajeJoven-golpetuvo4_22: -1074580228676984176
+      PersonajeJoven-golpetuvo4_23: -6938274108348875975
+      PersonajeJoven-golpetuvo4_24: -896387399797680079
+      PersonajeJoven-golpetuvo4_3: 5469999721595117897
+      PersonajeJoven-golpetuvo4_4: -2244546878783962804
+      PersonajeJoven-golpetuvo4_5: -4430708708222196320
+      PersonajeJoven-golpetuvo4_6: -1077292419569587166
+      PersonajeJoven-golpetuvo4_7: 2484034961813018984
+      PersonajeJoven-golpetuvo4_8: 7433992754210814922
+      PersonajeJoven-golpetuvo4_9: 6236237050385916226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

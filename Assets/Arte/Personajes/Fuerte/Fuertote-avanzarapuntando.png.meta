@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: d6823de50b99e6c46a4b61ac53a3d909
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4925974622623687271
+    second: Fuertote-avanzarapuntando_0
+  - first:
+      213: 7019232174590542108
+    second: Fuertote-avanzarapuntando_1
+  - first:
+      213: 6232094699587881582
+    second: Fuertote-avanzarapuntando_2
+  - first:
+      213: -2688159079291851724
+    second: Fuertote-avanzarapuntando_3
+  - first:
+      213: 1514525325333402296
+    second: Fuertote-avanzarapuntando_4
+  - first:
+      213: 3314882179121338643
+    second: Fuertote-avanzarapuntando_5
+  - first:
+      213: 7256880835810755352
+    second: Fuertote-avanzarapuntando_6
+  - first:
+      213: -7564740071200271117
+    second: Fuertote-avanzarapuntando_7
+  - first:
+      213: -4048575038135356297
+    second: Fuertote-avanzarapuntando_8
+  - first:
+      213: -7258788882705341612
+    second: Fuertote-avanzarapuntando_9
+  - first:
+      213: 7638042063752721039
+    second: Fuertote-avanzarapuntando_10
+  - first:
+      213: 7913816257393944291
+    second: Fuertote-avanzarapuntando_11
+  - first:
+      213: 3102882765878057218
+    second: Fuertote-avanzarapuntando_12
+  - first:
+      213: -967835184801327673
+    second: Fuertote-avanzarapuntando_13
+  - first:
+      213: 8778135604279906307
+    second: Fuertote-avanzarapuntando_14
+  - first:
+      213: 7318949583407859580
+    second: Fuertote-avanzarapuntando_15
+  - first:
+      213: 2241141722420652083
+    second: Fuertote-avanzarapuntando_16
+  - first:
+      213: -7410083619752849102
+    second: Fuertote-avanzarapuntando_17
+  - first:
+      213: -27358466868558584
+    second: Fuertote-avanzarapuntando_18
+  - first:
+      213: -5793039739975065398
+    second: Fuertote-avanzarapuntando_19
+  - first:
+      213: 8745569888685272477
+    second: Fuertote-avanzarapuntando_20
+  - first:
+      213: -5548555838202235644
+    second: Fuertote-avanzarapuntando_21
+  - first:
+      213: 6812929648593875178
+    second: Fuertote-avanzarapuntando_22
+  - first:
+      213: -8056715715233484720
+    second: Fuertote-avanzarapuntando_23
+  - first:
+      213: -7348472212411733900
+    second: Fuertote-avanzarapuntando_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 98
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1059
+        width: 174
+        height: 178
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762e21202d39c5440800000000000000
+      internalID: 4925974622623687271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1059
+        width: 176
+        height: 178
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11467a2972596160800000000000000
+      internalID: 7019232174590542108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1060
+        width: 172
+        height: 179
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ac7873c19dc7650800000000000000
+      internalID: 6232094699587881582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_3
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1059
+        width: 172
+        height: 182
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c61135f8db1bad0800000000000000
+      internalID: -2688159079291851724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_4
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1060
+        width: 172
+        height: 181
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b294d352cca40510800000000000000
+      internalID: 1514525325333402296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 804
+        width: 172
+        height: 180
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319dcc667c3d00e20800000000000000
+      internalID: 3314882179121338643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 804
+        width: 171
+        height: 178
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81307dbebae95b460800000000000000
+      internalID: 7256880835810755352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 803
+        width: 171
+        height: 179
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4d1f52cf4a40790800000000000000
+      internalID: -7564740071200271117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_8
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 803
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774bd6df37290d7c0800000000000000
+      internalID: -4048575038135356297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_9
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 803
+        width: 171
+        height: 183
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4532bca48f9934b90800000000000000
+      internalID: -7258788882705341612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 547
+        width: 171
+        height: 182
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82f875f9c6cff960800000000000000
+      internalID: 7638042063752721039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 547
+        width: 171
+        height: 180
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e66da7f4f583dd60800000000000000
+      internalID: 7913816257393944291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 548
+        width: 173
+        height: 178
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209d7df8f67af0b20800000000000000
+      internalID: 3102882765878057218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_13
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 548
+        width: 171
+        height: 180
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5dac8f60f8192f0800000000000000
+      internalID: -967835184801327673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_14
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 548
+        width: 171
+        height: 182
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3001053d2d332d970800000000000000
+      internalID: 8778135604279906307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 292
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77c4006ed1229560800000000000000
+      internalID: 7318949583407859580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 292
+        width: 171
+        height: 178
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338a030c5822a1f10800000000000000
+      internalID: 2241141722420652083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 291
+        width: 171
+        height: 178
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231d0b845381a2990800000000000000
+      internalID: -7410083619752849102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_18
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 291
+        width: 171
+        height: 180
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80543bc8e9dce9ff0800000000000000
+      internalID: -27358466868558584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_19
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 290
+        width: 172
+        height: 184
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0a011ac0dfa9fa0800000000000000
+      internalID: -5793039739975065398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 171
+        height: 182
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d207d4a718e5970800000000000000
+      internalID: 8745569888685272477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 35
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4053987dcd19ff2b0800000000000000
+      internalID: -5548555838202235644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_22
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 35
+        width: 176
+        height: 179
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae03a204b636c8e50800000000000000
+      internalID: 6812929648593875178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_23
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 36
+        width: 171
+        height: 179
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05073394ebbc03090800000000000000
+      internalID: -8056715715233484720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuertote-avanzarapuntando_24
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 36
+        width: 171
+        height: 180
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ae59e47bf40a90800000000000000
+      internalID: -7348472212411733900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fuertote-avanzarapuntando_0: 4925974622623687271
+      Fuertote-avanzarapuntando_1: 7019232174590542108
+      Fuertote-avanzarapuntando_10: 7638042063752721039
+      Fuertote-avanzarapuntando_11: 7913816257393944291
+      Fuertote-avanzarapuntando_12: 3102882765878057218
+      Fuertote-avanzarapuntando_13: -967835184801327673
+      Fuertote-avanzarapuntando_14: 8778135604279906307
+      Fuertote-avanzarapuntando_15: 7318949583407859580
+      Fuertote-avanzarapuntando_16: 2241141722420652083
+      Fuertote-avanzarapuntando_17: -7410083619752849102
+      Fuertote-avanzarapuntando_18: -27358466868558584
+      Fuertote-avanzarapuntando_19: -5793039739975065398
+      Fuertote-avanzarapuntando_2: 6232094699587881582
+      Fuertote-avanzarapuntando_20: 8745569888685272477
+      Fuertote-avanzarapuntando_21: -5548555838202235644
+      Fuertote-avanzarapuntando_22: 6812929648593875178
+      Fuertote-avanzarapuntando_23: -8056715715233484720
+      Fuertote-avanzarapuntando_24: -7348472212411733900
+      Fuertote-avanzarapuntando_3: -2688159079291851724
+      Fuertote-avanzarapuntando_4: 1514525325333402296
+      Fuertote-avanzarapuntando_5: 3314882179121338643
+      Fuertote-avanzarapuntando_6: 7256880835810755352
+      Fuertote-avanzarapuntando_7: -7564740071200271117
+      Fuertote-avanzarapuntando_8: -4048575038135356297
+      Fuertote-avanzarapuntando_9: -7258788882705341612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

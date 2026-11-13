@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: f5d34de04df8add4d9615db4841c4c91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -142943496255502235
+    second: FemFuerteIdle_0
+  - first:
+      213: -2279193686619524845
+    second: FemFuerteIdle_1
+  - first:
+      213: -809133224868232242
+    second: FemFuerteIdle_2
+  - first:
+      213: -7032398963497812343
+    second: FemFuerteIdle_3
+  - first:
+      213: 7020723278135012253
+    second: FemFuerteIdle_4
+  - first:
+      213: -1054726888310593865
+    second: FemFuerteIdle_5
+  - first:
+      213: -7367087524499375475
+    second: FemFuerteIdle_6
+  - first:
+      213: -2685881476459156143
+    second: FemFuerteIdle_7
+  - first:
+      213: 4026762593436761432
+    second: FemFuerteIdle_8
+  - first:
+      213: -2131483656191780208
+    second: FemFuerteIdle_9
+  - first:
+      213: -163151004626567980
+    second: FemFuerteIdle_10
+  - first:
+      213: 8198549224252176104
+    second: FemFuerteIdle_11
+  - first:
+      213: -3465582625066523830
+    second: FemFuerteIdle_12
+  - first:
+      213: 2624212946312703861
+    second: FemFuerteIdle_13
+  - first:
+      213: -1109185034820646002
+    second: FemFuerteIdle_14
+  - first:
+      213: 1386037844331990251
+    second: FemFuerteIdle_15
+  - first:
+      213: -8876498278280435045
+    second: FemFuerteIdle_16
+  - first:
+      213: -8635378198887857329
+    second: FemFuerteIdle_17
+  - first:
+      213: 6676273380151454614
+    second: FemFuerteIdle_18
+  - first:
+      213: -7815607138307453218
+    second: FemFuerteIdle_19
+  - first:
+      213: -9161805596288902524
+    second: FemFuerteIdle_20
+  - first:
+      213: -5293044594673764821
+    second: FemFuerteIdle_21
+  - first:
+      213: 3505865864204633320
+    second: FemFuerteIdle_22
+  - first:
+      213: -1509550525612483377
+    second: FemFuerteIdle_23
+  - first:
+      213: 2237833676014213180
+    second: FemFuerteIdle_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemFuerteIdle_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1075
+        width: 91
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5680db2c5a9240ef0800000000000000
+      internalID: -142943496255502235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1075
+        width: 90
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311fabeea6dae50e0800000000000000
+      internalID: -2279193686619524845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1075
+        width: 91
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec343c37e9165c4f0800000000000000
+      internalID: -809133224868232242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1075
+        width: 91
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e33e5e666e76e90800000000000000
+      internalID: -7032398963497812343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1075
+        width: 90
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bad83cf9e9e6160800000000000000
+      internalID: 7020723278135012253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 819
+        width: 90
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a137bb7bdc51f0800000000000000
+      internalID: -1054726888310593865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 819
+        width: 90
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ab001dde8d2c990800000000000000
+      internalID: -7367087524499375475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 819
+        width: 91
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15da9de0705d9bad0800000000000000
+      internalID: -2685881476459156143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_8
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 819
+        width: 91
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85df0a87e3fe1e730800000000000000
+      internalID: 4026762593436761432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 819
+        width: 92
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a532468e27b62e0800000000000000
+      internalID: -2131483656191780208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 563
+        width: 93
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc3c74960f5cbdf0800000000000000
+      internalID: -163151004626567980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 563
+        width: 94
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6fa19e41917c170800000000000000
+      internalID: 8198549224252176104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_12
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 563
+        width: 95
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43e425c6f6c7efc0800000000000000
+      internalID: -3465582625066523830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_13
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 563
+        width: 96
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f23ff55c31b6420800000000000000
+      internalID: 2624212946312703861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_14
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 563
+        width: 97
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b065966126b90f0800000000000000
+      internalID: -1109185034820646002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 307
+        width: 95
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec08ac63123c3310800000000000000
+      internalID: 1386037844331990251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 307
+        width: 95
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a6ab978d750d480800000000000000
+      internalID: -8876498278280435045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_17
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 307
+        width: 95
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f430322c749f82880800000000000000
+      internalID: -8635378198887857329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_18
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 307
+        width: 94
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69be25f4443e6ac50800000000000000
+      internalID: 6676273380151454614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 307
+        width: 93
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede4d2177b2698390800000000000000
+      internalID: -7815607138307453218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 51
+        width: 92
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a930cf95abad080800000000000000
+      internalID: -9161805596288902524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 51
+        width: 91
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b263b222cf35b86b0800000000000000
+      internalID: -5293044594673764821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_22
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 51
+        width: 91
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4c51abd6657a030800000000000000
+      internalID: 3505865864204633320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_23
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 51
+        width: 91
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc1d5e7bcffc0be0800000000000000
+      internalID: -1509550525612483377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerteIdle_24
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 51
+        width: 90
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38db3d2fd16e0f10800000000000000
+      internalID: 2237833676014213180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FemFuerteIdle_0: -142943496255502235
+      FemFuerteIdle_1: -2279193686619524845
+      FemFuerteIdle_10: -163151004626567980
+      FemFuerteIdle_11: 8198549224252176104
+      FemFuerteIdle_12: -3465582625066523830
+      FemFuerteIdle_13: 2624212946312703861
+      FemFuerteIdle_14: -1109185034820646002
+      FemFuerteIdle_15: 1386037844331990251
+      FemFuerteIdle_16: -8876498278280435045
+      FemFuerteIdle_17: -8635378198887857329
+      FemFuerteIdle_18: 6676273380151454614
+      FemFuerteIdle_19: -7815607138307453218
+      FemFuerteIdle_2: -809133224868232242
+      FemFuerteIdle_20: -9161805596288902524
+      FemFuerteIdle_21: -5293044594673764821
+      FemFuerteIdle_22: 3505865864204633320
+      FemFuerteIdle_23: -1509550525612483377
+      FemFuerteIdle_24: 2237833676014213180
+      FemFuerteIdle_3: -7032398963497812343
+      FemFuerteIdle_4: 7020723278135012253
+      FemFuerteIdle_5: -1054726888310593865
+      FemFuerteIdle_6: -7367087524499375475
+      FemFuerteIdle_7: -2685881476459156143
+      FemFuerteIdle_8: 4026762593436761432
+      FemFuerteIdle_9: -2131483656191780208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

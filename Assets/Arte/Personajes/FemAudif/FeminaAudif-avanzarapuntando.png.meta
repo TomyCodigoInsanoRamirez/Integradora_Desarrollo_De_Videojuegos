@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 795367df6d509644899c49b9c9376437
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3176690762280496057
+    second: FeminaAudif-avanzarapuntando_0
+  - first:
+      213: -2946111759506124433
+    second: FeminaAudif-avanzarapuntando_1
+  - first:
+      213: 7829394129857760451
+    second: FeminaAudif-avanzarapuntando_2
+  - first:
+      213: -1311084408336112480
+    second: FeminaAudif-avanzarapuntando_3
+  - first:
+      213: 8351226102229242395
+    second: FeminaAudif-avanzarapuntando_4
+  - first:
+      213: -2127936040656267739
+    second: FeminaAudif-avanzarapuntando_5
+  - first:
+      213: 5475009527712723095
+    second: FeminaAudif-avanzarapuntando_6
+  - first:
+      213: -5525299064179025159
+    second: FeminaAudif-avanzarapuntando_7
+  - first:
+      213: -1731951762544323797
+    second: FeminaAudif-avanzarapuntando_8
+  - first:
+      213: -1429010159148256197
+    second: FeminaAudif-avanzarapuntando_9
+  - first:
+      213: 6573624182468987768
+    second: FeminaAudif-avanzarapuntando_10
+  - first:
+      213: -4610977194435219028
+    second: FeminaAudif-avanzarapuntando_11
+  - first:
+      213: -8893228017935532924
+    second: FeminaAudif-avanzarapuntando_12
+  - first:
+      213: 4898493134925336319
+    second: FeminaAudif-avanzarapuntando_13
+  - first:
+      213: -1356782838179512663
+    second: FeminaAudif-avanzarapuntando_14
+  - first:
+      213: -125255356718547883
+    second: FeminaAudif-avanzarapuntando_15
+  - first:
+      213: 5875238480684851630
+    second: FeminaAudif-avanzarapuntando_16
+  - first:
+      213: 3310876984783664135
+    second: FeminaAudif-avanzarapuntando_17
+  - first:
+      213: -4665277111007644354
+    second: FeminaAudif-avanzarapuntando_18
+  - first:
+      213: -5330262567914851288
+    second: FeminaAudif-avanzarapuntando_19
+  - first:
+      213: -2813530881738907658
+    second: FeminaAudif-avanzarapuntando_20
+  - first:
+      213: -8951038959183684946
+    second: FeminaAudif-avanzarapuntando_21
+  - first:
+      213: 960104153257212605
+    second: FeminaAudif-avanzarapuntando_22
+  - first:
+      213: 4077636866899529065
+    second: FeminaAudif-avanzarapuntando_23
+  - first:
+      213: 2415015359092246649
+    second: FeminaAudif-avanzarapuntando_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 104
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1051
+        width: 164
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744910125902ae3d0800000000000000
+      internalID: -3176690762280496057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1052
+        width: 162
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f615902c6fe4d17d0800000000000000
+      internalID: -2946111759506124433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1053
+        width: 145
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc43bcaa7897ac60800000000000000
+      internalID: 7829394129857760451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1053
+        width: 137
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4a2925da71ecde0800000000000000
+      internalID: -1311084408336112480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1053
+        width: 137
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12185ea4e385e370800000000000000
+      internalID: 8351226102229242395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 797
+        width: 144
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5269eeff17d0872e0800000000000000
+      internalID: -2127936040656267739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 797
+        width: 161
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790323958242bfb40800000000000000
+      internalID: 5475009527712723095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 795
+        width: 159
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa9fc186c13253b0800000000000000
+      internalID: -5525299064179025159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_8
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 795
+        width: 142
+        height: 192
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b231f695c0fd6f7e0800000000000000
+      internalID: -1731951762544323797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_9
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 795
+        width: 136
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b343b8bd4d22b2ce0800000000000000
+      internalID: -1429010159148256197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 539
+        width: 144
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b4bfa8d543a3b50800000000000000
+      internalID: 6573624182468987768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 540
+        width: 154
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1f242fba48200c0800000000000000
+      internalID: -4610977194435219028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_12
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 540
+        width: 162
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cb66c6c38e49480800000000000000
+      internalID: -8893228017935532924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 541
+        width: 146
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe0ae98d81faf340800000000000000
+      internalID: 4898493134925336319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_14
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 541
+        width: 137
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeb6fc723dbb2de0800000000000000
+      internalID: -1356782838179512663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 285
+        width: 137
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c739caae0034ef0800000000000000
+      internalID: -125255356718547883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 285
+        width: 150
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea12de3154a098150800000000000000
+      internalID: 5875238480684851630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 284
+        width: 162
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704fb0d631992fd20800000000000000
+      internalID: 3310876984783664135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_18
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 284
+        width: 159
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35f0ab6f2b914fb0800000000000000
+      internalID: -4665277111007644354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_19
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 283
+        width: 137
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824bfd77f6a1706b0800000000000000
+      internalID: -5330262567914851288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 28
+        width: 136
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff5c5dd19454f8d0800000000000000
+      internalID: -2813530881738907658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 28
+        width: 144
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa9c23cd7587c380800000000000000
+      internalID: -8951038959183684946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_22
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 28
+        width: 159
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaf54af3a9f25d00800000000000000
+      internalID: 960104153257212605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_23
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 29
+        width: 161
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d459e402da69830800000000000000
+      internalID: 4077636866899529065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeminaAudif-avanzarapuntando_24
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 29
+        width: 144
+        height: 189
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9784ecd7cabd38120800000000000000
+      internalID: 2415015359092246649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FeminaAudif-avanzarapuntando_0: -3176690762280496057
+      FeminaAudif-avanzarapuntando_1: -2946111759506124433
+      FeminaAudif-avanzarapuntando_10: 6573624182468987768
+      FeminaAudif-avanzarapuntando_11: -4610977194435219028
+      FeminaAudif-avanzarapuntando_12: -8893228017935532924
+      FeminaAudif-avanzarapuntando_13: 4898493134925336319
+      FeminaAudif-avanzarapuntando_14: -1356782838179512663
+      FeminaAudif-avanzarapuntando_15: -125255356718547883
+      FeminaAudif-avanzarapuntando_16: 5875238480684851630
+      FeminaAudif-avanzarapuntando_17: 3310876984783664135
+      FeminaAudif-avanzarapuntando_18: -4665277111007644354
+      FeminaAudif-avanzarapuntando_19: -5330262567914851288
+      FeminaAudif-avanzarapuntando_2: 7829394129857760451
+      FeminaAudif-avanzarapuntando_20: -2813530881738907658
+      FeminaAudif-avanzarapuntando_21: -8951038959183684946
+      FeminaAudif-avanzarapuntando_22: 960104153257212605
+      FeminaAudif-avanzarapuntando_23: 4077636866899529065
+      FeminaAudif-avanzarapuntando_24: 2415015359092246649
+      FeminaAudif-avanzarapuntando_3: -1311084408336112480
+      FeminaAudif-avanzarapuntando_4: 8351226102229242395
+      FeminaAudif-avanzarapuntando_5: -2127936040656267739
+      FeminaAudif-avanzarapuntando_6: 5475009527712723095
+      FeminaAudif-avanzarapuntando_7: -5525299064179025159
+      FeminaAudif-avanzarapuntando_8: -1731951762544323797
+      FeminaAudif-avanzarapuntando_9: -1429010159148256197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 6cc754f4a87e8224e9b5770108365604
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8547736820847468951
+    second: FuertoteAvanzarUpApuntando_0
+  - first:
+      213: 6580730436533324180
+    second: FuertoteAvanzarUpApuntando_1
+  - first:
+      213: -1046432858362287972
+    second: FuertoteAvanzarUpApuntando_2
+  - first:
+      213: 9091071318564375945
+    second: FuertoteAvanzarUpApuntando_3
+  - first:
+      213: -3835760317545166344
+    second: FuertoteAvanzarUpApuntando_4
+  - first:
+      213: -2023836709646064478
+    second: FuertoteAvanzarUpApuntando_5
+  - first:
+      213: -5193115699824852016
+    second: FuertoteAvanzarUpApuntando_6
+  - first:
+      213: 3936047585333091770
+    second: FuertoteAvanzarUpApuntando_7
+  - first:
+      213: -2572885348380462137
+    second: FuertoteAvanzarUpApuntando_8
+  - first:
+      213: -7643859082437873482
+    second: FuertoteAvanzarUpApuntando_9
+  - first:
+      213: 2764256664408182876
+    second: FuertoteAvanzarUpApuntando_10
+  - first:
+      213: 1792872104516142070
+    second: FuertoteAvanzarUpApuntando_11
+  - first:
+      213: 6750867051860923854
+    second: FuertoteAvanzarUpApuntando_12
+  - first:
+      213: -2545565494935422336
+    second: FuertoteAvanzarUpApuntando_13
+  - first:
+      213: -574744484358610269
+    second: FuertoteAvanzarUpApuntando_14
+  - first:
+      213: -5801811586275642877
+    second: FuertoteAvanzarUpApuntando_15
+  - first:
+      213: -8358836175027492301
+    second: FuertoteAvanzarUpApuntando_16
+  - first:
+      213: 1159612620149539278
+    second: FuertoteAvanzarUpApuntando_17
+  - first:
+      213: -8827271110251132388
+    second: FuertoteAvanzarUpApuntando_18
+  - first:
+      213: 6175872435405560696
+    second: FuertoteAvanzarUpApuntando_19
+  - first:
+      213: 1336077928023885335
+    second: FuertoteAvanzarUpApuntando_20
+  - first:
+      213: -436928398276096029
+    second: FuertoteAvanzarUpApuntando_21
+  - first:
+      213: 4400732281621438816
+    second: FuertoteAvanzarUpApuntando_22
+  - first:
+      213: 5634702369309520570
+    second: FuertoteAvanzarUpApuntando_23
+  - first:
+      213: 8284847294708951403
+    second: FuertoteAvanzarUpApuntando_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 87
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1051
+        width: 98
+        height: 199
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e1cd736a6506980800000000000000
+      internalID: -8547736820847468951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1051
+        width: 99
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4998b204773735b50800000000000000
+      internalID: 6580730436533324180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1051
+        width: 100
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98e40c0cd25a71f0800000000000000
+      internalID: -1046432858362287972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_3
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1051
+        width: 111
+        height: 199
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d85ca9239f92e70800000000000000
+      internalID: 9091071318564375945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_4
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1053
+        width: 99
+        height: 196
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f94e2d5054a4cac0800000000000000
+      internalID: -3835760317545166344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 796
+        width: 99
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4a62e3c33e9e3e0800000000000000
+      internalID: -2023836709646064478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 797
+        width: 100
+        height: 197
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d38f6a09c85ee7b0800000000000000
+      internalID: -5193115699824852016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 796
+        width: 105
+        height: 196
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd10debc66af9630800000000000000
+      internalID: 3936047585333091770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_8
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 795
+        width: 99
+        height: 199
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3b9f948664b4cd0800000000000000
+      internalID: -2572885348380462137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 795
+        width: 100
+        height: 202
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0b526d9ae8be590800000000000000
+      internalID: -7643859082437873482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 539
+        width: 105
+        height: 199
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c505e066acc9c5620800000000000000
+      internalID: 2764256664408182876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 540
+        width: 104
+        height: 197
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f344651eaf81e810800000000000000
+      internalID: 1792872104516142070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 540
+        width: 100
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec51f08e0d5efad50800000000000000
+      internalID: 6750867051860923854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_13
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 541
+        width: 100
+        height: 198
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08af1e95ba55cacd0800000000000000
+      internalID: -2545565494935422336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_14
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 540
+        width: 107
+        height: 197
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2a035cfe81608f0800000000000000
+      internalID: -574744484358610269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 283
+        width: 99
+        height: 198
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3027b420a13db7fa0800000000000000
+      internalID: -5801811586275642877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 283
+        width: 99
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a2dcb29c27ffb80800000000000000
+      internalID: -8358836175027492301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 283
+        width: 99
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1c21db885c71010800000000000000
+      internalID: 1159612620149539278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_18
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 283
+        width: 106
+        height: 198
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ac961b1bb3f7580800000000000000
+      internalID: -8827271110251132388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_19
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 284
+        width: 99
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b9972424b15b550800000000000000
+      internalID: 6175872435405560696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 29
+        width: 100
+        height: 199
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7168a14fbc3ba8210800000000000000
+      internalID: 1336077928023885335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_21
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 29
+        width: 108
+        height: 196
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef097ccfe7bfe9f0800000000000000
+      internalID: -436928398276096029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_22
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 27
+        width: 99
+        height: 197
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061e3ada1ba821d30800000000000000
+      internalID: 4400732281621438816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_23
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 27
+        width: 99
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2feb173fb723e40800000000000000
+      internalID: 5634702369309520570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuertoteAvanzarUpApuntando_24
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 27
+        width: 100
+        height: 200
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ab7338b0b9f270800000000000000
+      internalID: 8284847294708951403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FuertoteAvanzarUpApuntando_0: -8547736820847468951
+      FuertoteAvanzarUpApuntando_1: 6580730436533324180
+      FuertoteAvanzarUpApuntando_10: 2764256664408182876
+      FuertoteAvanzarUpApuntando_11: 1792872104516142070
+      FuertoteAvanzarUpApuntando_12: 6750867051860923854
+      FuertoteAvanzarUpApuntando_13: -2545565494935422336
+      FuertoteAvanzarUpApuntando_14: -574744484358610269
+      FuertoteAvanzarUpApuntando_15: -5801811586275642877
+      FuertoteAvanzarUpApuntando_16: -8358836175027492301
+      FuertoteAvanzarUpApuntando_17: 1159612620149539278
+      FuertoteAvanzarUpApuntando_18: -8827271110251132388
+      FuertoteAvanzarUpApuntando_19: 6175872435405560696
+      FuertoteAvanzarUpApuntando_2: -1046432858362287972
+      FuertoteAvanzarUpApuntando_20: 1336077928023885335
+      FuertoteAvanzarUpApuntando_21: -436928398276096029
+      FuertoteAvanzarUpApuntando_22: 4400732281621438816
+      FuertoteAvanzarUpApuntando_23: 5634702369309520570
+      FuertoteAvanzarUpApuntando_24: 8284847294708951403
+      FuertoteAvanzarUpApuntando_3: 9091071318564375945
+      FuertoteAvanzarUpApuntando_4: -3835760317545166344
+      FuertoteAvanzarUpApuntando_5: -2023836709646064478
+      FuertoteAvanzarUpApuntando_6: -5193115699824852016
+      FuertoteAvanzarUpApuntando_7: 3936047585333091770
+      FuertoteAvanzarUpApuntando_8: -2572885348380462137
+      FuertoteAvanzarUpApuntando_9: -7643859082437873482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

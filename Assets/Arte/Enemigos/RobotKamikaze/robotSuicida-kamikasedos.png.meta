@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: fdb8a843b571c9046bd502fdf61a693a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5697090986511359098
+    second: robotSuicida-kamikasedos_0
+  - first:
+      213: -513582601588998452
+    second: robotSuicida-kamikasedos_1
+  - first:
+      213: -749419145397879559
+    second: robotSuicida-kamikasedos_2
+  - first:
+      213: 793564436765885500
+    second: robotSuicida-kamikasedos_3
+  - first:
+      213: -9109430873253330379
+    second: robotSuicida-kamikasedos_4
+  - first:
+      213: 8682314329216630320
+    second: robotSuicida-kamikasedos_5
+  - first:
+      213: 591613151184718131
+    second: robotSuicida-kamikasedos_6
+  - first:
+      213: 2892079818281930135
+    second: robotSuicida-kamikasedos_7
+  - first:
+      213: 5557051275459045781
+    second: robotSuicida-kamikasedos_8
+  - first:
+      213: -1141338273596983805
+    second: robotSuicida-kamikasedos_9
+  - first:
+      213: -1428289936935371305
+    second: robotSuicida-kamikasedos_10
+  - first:
+      213: 7421467587422044061
+    second: robotSuicida-kamikasedos_11
+  - first:
+      213: 524723848623746144
+    second: robotSuicida-kamikasedos_12
+  - first:
+      213: 5636121734541659364
+    second: robotSuicida-kamikasedos_13
+  - first:
+      213: 1429634507351803579
+    second: robotSuicida-kamikasedos_14
+  - first:
+      213: 7681292174758655915
+    second: robotSuicida-kamikasedos_15
+  - first:
+      213: 1880557655134797192
+    second: robotSuicida-kamikasedos_16
+  - first:
+      213: -6772018969346653151
+    second: robotSuicida-kamikasedos_17
+  - first:
+      213: 5066181089504225391
+    second: robotSuicida-kamikasedos_18
+  - first:
+      213: 6175390333927969417
+    second: robotSuicida-kamikasedos_19
+  - first:
+      213: 6413741844300960722
+    second: robotSuicida-kamikasedos_20
+  - first:
+      213: 3618391651589190471
+    second: robotSuicida-kamikasedos_21
+  - first:
+      213: -6585476461294636663
+    second: robotSuicida-kamikasedos_22
+  - first:
+      213: 357695550387308238
+    second: robotSuicida-kamikasedos_23
+  - first:
+      213: 4787373632759897123
+    second: robotSuicida-kamikasedos_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1058
+        width: 163
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68329e7aeeddfe0b0800000000000000
+      internalID: -5697090986511359098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1058
+        width: 122
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce777d48536fd8f0800000000000000
+      internalID: -513582601588998452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1058
+        width: 155
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcbea202478995f0800000000000000
+      internalID: -749419145397879559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1068
+        width: 195
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3440d796ae430b00800000000000000
+      internalID: 793564436765885500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_4
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1058
+        width: 161
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53242c572ecc49180800000000000000
+      internalID: -9109430873253330379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 802
+        width: 95
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ebd3da1e6cd7870800000000000000
+      internalID: 8682314329216630320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 813
+        width: 181
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33980d8c605d53800800000000000000
+      internalID: 591613151184718131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 803
+        width: 164
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d45c6954bb22820800000000000000
+      internalID: 2892079818281930135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 802
+        width: 99
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5992e5841bc9e1d40800000000000000
+      internalID: 5557051275459045781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_9
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 820
+        width: 174
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b1b123e62920f0800000000000000
+      internalID: -1141338273596983805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 549
+        width: 189
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddb3b8aed1bd2ce0800000000000000
+      internalID: -1428289936935371305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 546
+        width: 142
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fbd5c33795ef660800000000000000
+      internalID: 7421467587422044061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 545
+        width: 98
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ce46a6f81384700800000000000000
+      internalID: 524723848623746144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 546
+        width: 107
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc63a2bd6873e40800000000000000
+      internalID: 5636121734541659364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_14
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 546
+        width: 168
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb64859820517d310800000000000000
+      internalID: 1429634507351803579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 298
+        width: 221
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba73a74298e699a60800000000000000
+      internalID: 7681292174758655915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 304
+        width: 224
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d73f54935191a10800000000000000
+      internalID: 1880557655134797192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 309
+        width: 227
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124c2e780a4f402a0800000000000000
+      internalID: -6772018969346653151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_18
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 312
+        width: 229
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6863bfebd0be4640800000000000000
+      internalID: 5066181089504225391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_19
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 319
+        width: 232
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98258234ac463b550800000000000000
+      internalID: 6175390333927969417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 66
+        width: 236
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d31e96d930320950800000000000000
+      internalID: 6413741844300960722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 71
+        width: 238
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743763b390c173230800000000000000
+      internalID: 3618391651589190471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 75
+        width: 241
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98136dfbc00bb94a0800000000000000
+      internalID: -6585476461294636663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_23
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 81
+        width: 245
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6c29a353ac6f400800000000000000
+      internalID: 357695550387308238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotSuicida-kamikasedos_24
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 84
+        width: 245
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c99b354fa207240800000000000000
+      internalID: 4787373632759897123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f9121b870beb34945b4d374d84125e6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      robotSuicida-kamikasedos_0: -5697090986511359098
+      robotSuicida-kamikasedos_1: -513582601588998452
+      robotSuicida-kamikasedos_10: -1428289936935371305
+      robotSuicida-kamikasedos_11: 7421467587422044061
+      robotSuicida-kamikasedos_12: 524723848623746144
+      robotSuicida-kamikasedos_13: 5636121734541659364
+      robotSuicida-kamikasedos_14: 1429634507351803579
+      robotSuicida-kamikasedos_15: 7681292174758655915
+      robotSuicida-kamikasedos_16: 1880557655134797192
+      robotSuicida-kamikasedos_17: -6772018969346653151
+      robotSuicida-kamikasedos_18: 5066181089504225391
+      robotSuicida-kamikasedos_19: 6175390333927969417
+      robotSuicida-kamikasedos_2: -749419145397879559
+      robotSuicida-kamikasedos_20: 6413741844300960722
+      robotSuicida-kamikasedos_21: 3618391651589190471
+      robotSuicida-kamikasedos_22: -6585476461294636663
+      robotSuicida-kamikasedos_23: 357695550387308238
+      robotSuicida-kamikasedos_24: 4787373632759897123
+      robotSuicida-kamikasedos_3: 793564436765885500
+      robotSuicida-kamikasedos_4: -9109430873253330379
+      robotSuicida-kamikasedos_5: 8682314329216630320
+      robotSuicida-kamikasedos_6: 591613151184718131
+      robotSuicida-kamikasedos_7: 2892079818281930135
+      robotSuicida-kamikasedos_8: 5557051275459045781
+      robotSuicida-kamikasedos_9: -1141338273596983805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

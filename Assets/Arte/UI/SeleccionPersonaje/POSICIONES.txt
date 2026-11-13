@@ -1,0 +1,22 @@
+Posiciones en píxeles sobre marco_completo.png (1672 x 941), origen arriba a la izquierda.
+Orden de capas en Unity (de atrás hacia adelante): Retratos -> Marco -> Etiquetas -> Placas.
+Tip: Canvas Scaler con Reference Resolution 1672x941 y anclas arriba-izquierda; así las coordenadas coinciden 1:1.
+
+RETRATOS (x, y, ancho, alto)
+  retrato_hank_tank.png   104, 292, 336, 488
+  retrato_vixen.png       484, 292, 338, 488
+  retrato_blaze.png       863, 292, 339, 488
+  retrato_dash.png       1246, 292, 341, 488
+
+ETIQUETAS (x, y, ancho, alto) — amarillo o gris en la misma posición
+  tag_P1_*.png   158, 190, 244, 108
+  tag_P2_*.png   538, 190, 236, 108
+  tag_P3_*.png   913, 190, 234, 108
+  tag_P4_*.png  1288, 190, 234, 108
+
+PLACAS (x, y, ancho, alto)
+  placa_hank_tank.png   136, 760, 284, 97
+  placa_vixen.png       530, 760, 257, 97
+  placa_blaze.png       896, 760, 266, 97
+  placa_dash.png       1270, 760, 272, 97
+  placa_vacia.png -> placa sin texto por si quieres poner el nombre con TextMeshPro

@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 3277037756c74a647bb785c333abb837
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8404074301894061830
+    second: PersonajeJoven-salto_0
+  - first:
+      213: -8621759075230923015
+    second: PersonajeJoven-salto_1
+  - first:
+      213: -1852336447059753737
+    second: PersonajeJoven-salto_2
+  - first:
+      213: -5369254428619099781
+    second: PersonajeJoven-salto_3
+  - first:
+      213: -3533289961010006339
+    second: PersonajeJoven-salto_4
+  - first:
+      213: 2360536644305672465
+    second: PersonajeJoven-salto_5
+  - first:
+      213: -3797685929533219040
+    second: PersonajeJoven-salto_6
+  - first:
+      213: -2136436123005025678
+    second: PersonajeJoven-salto_7
+  - first:
+      213: -2961542521480872494
+    second: PersonajeJoven-salto_8
+  - first:
+      213: 735912827292418473
+    second: PersonajeJoven-salto_9
+  - first:
+      213: -5421721027640089858
+    second: PersonajeJoven-salto_10
+  - first:
+      213: 6575406766586692809
+    second: PersonajeJoven-salto_11
+  - first:
+      213: 7549027491452778599
+    second: PersonajeJoven-salto_12
+  - first:
+      213: -6849644082357205430
+    second: PersonajeJoven-salto_13
+  - first:
+      213: 6408008387260980509
+    second: PersonajeJoven-salto_14
+  - first:
+      213: 330507380745203347
+    second: PersonajeJoven-salto_15
+  - first:
+      213: -1442221903600860699
+    second: PersonajeJoven-salto_16
+  - first:
+      213: 2121446157484083460
+    second: PersonajeJoven-salto_17
+  - first:
+      213: 4620635883259009387
+    second: PersonajeJoven-salto_18
+  - first:
+      213: -263125020308631063
+    second: PersonajeJoven-salto_19
+  - first:
+      213: 3201095616808470725
+    second: PersonajeJoven-salto_20
+  - first:
+      213: 6911478686829747245
+    second: PersonajeJoven-salto_21
+  - first:
+      213: 437457606717018223
+    second: PersonajeJoven-salto_22
+  - first:
+      213: 4558287166046867955
+    second: PersonajeJoven-salto_23
+  - first:
+      213: -8478547899166522768
+    second: PersonajeJoven-salto_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 106
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1055
+        width: 79
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f62660d0541a470800000000000000
+      internalID: 8404074301894061830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1055
+        width: 79
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f64cd51dcb595880800000000000000
+      internalID: -8621759075230923015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1055
+        width: 84
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f48e74c0dd2b46e0800000000000000
+      internalID: -1852336447059753737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_3
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1055
+        width: 101
+        height: 179
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7137717b839c75b0800000000000000
+      internalID: -5369254428619099781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1055
+        width: 114
+        height: 169
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db67b89208b37fec0800000000000000
+      internalID: -3533289961010006339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 799
+        width: 124
+        height: 163
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119d123429f42c020800000000000000
+      internalID: 2360536644305672465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 799
+        width: 129
+        height: 160
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f5ca1a4c8eb4bc0800000000000000
+      internalID: -3797685929533219040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_7
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 799
+        width: 132
+        height: 160
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27209fa5aaad952e0800000000000000
+      internalID: -2136436123005025678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_8
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 799
+        width: 131
+        height: 178
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddfae384cc76e6d0800000000000000
+      internalID: -2961542521480872494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_9
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 833
+        width: 131
+        height: 173
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a10b6041dc763a00800000000000000
+      internalID: 735912827292418473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 619
+        width: 162
+        height: 120
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef22f3c637d22c4b0800000000000000
+      internalID: -5421721027640089858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 643
+        width: 152
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c48910cd99804b50800000000000000
+      internalID: 6575406766586692809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_12
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 629
+        width: 129
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76873bbc18883c860800000000000000
+      internalID: 7549027491452778599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_13
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 659
+        width: 146
+        height: 110
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a460e318ffc21f0a0800000000000000
+      internalID: -6849644082357205430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_14
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 657
+        width: 157
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d1a685da1dde850800000000000000
+      internalID: 6408008387260980509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 364
+        width: 118
+        height: 145
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e66f036b2369400800000000000000
+      internalID: 330507380745203347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_16
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 299
+        width: 129
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e14594e1d23cfbe0800000000000000
+      internalID: -1442221903600860699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 287
+        width: 138
+        height: 168
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409c4f25a04e07d10800000000000000
+      internalID: 2121446157484083460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_18
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 287
+        width: 129
+        height: 161
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69931acadbcf1040800000000000000
+      internalID: 4620635883259009387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_19
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 287
+        width: 127
+        height: 160
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e19cf82031395cf0800000000000000
+      internalID: -263125020308631063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 31
+        width: 117
+        height: 174
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8cdebd0839c6c20800000000000000
+      internalID: 3201095616808470725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 31
+        width: 104
+        height: 183
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c9b214f318aef50800000000000000
+      internalID: 6911478686829747245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_22
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 31
+        width: 88
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6019a42069221600800000000000000
+      internalID: 437457606717018223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_23
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 31
+        width: 80
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11274d60a424f30800000000000000
+      internalID: 4558287166046867955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajeJoven-salto_24
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 31
+        width: 79
+        height: 193
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0728b036b95265a80800000000000000
+      internalID: -8478547899166522768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PersonajeJoven-salto_0: 8404074301894061830
+      PersonajeJoven-salto_1: -8621759075230923015
+      PersonajeJoven-salto_10: -5421721027640089858
+      PersonajeJoven-salto_11: 6575406766586692809
+      PersonajeJoven-salto_12: 7549027491452778599
+      PersonajeJoven-salto_13: -6849644082357205430
+      PersonajeJoven-salto_14: 6408008387260980509
+      PersonajeJoven-salto_15: 330507380745203347
+      PersonajeJoven-salto_16: -1442221903600860699
+      PersonajeJoven-salto_17: 2121446157484083460
+      PersonajeJoven-salto_18: 4620635883259009387
+      PersonajeJoven-salto_19: -263125020308631063
+      PersonajeJoven-salto_2: -1852336447059753737
+      PersonajeJoven-salto_20: 3201095616808470725
+      PersonajeJoven-salto_21: 6911478686829747245
+      PersonajeJoven-salto_22: 437457606717018223
+      PersonajeJoven-salto_23: 4558287166046867955
+      PersonajeJoven-salto_24: -8478547899166522768
+      PersonajeJoven-salto_3: -5369254428619099781
+      PersonajeJoven-salto_4: -3533289961010006339
+      PersonajeJoven-salto_5: 2360536644305672465
+      PersonajeJoven-salto_6: -3797685929533219040
+      PersonajeJoven-salto_7: -2136436123005025678
+      PersonajeJoven-salto_8: -2961542521480872494
+      PersonajeJoven-salto_9: 735912827292418473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: d195766fe1d7de843aac28900832d7ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2896849272467872275
+    second: FemFuerte-salto_0
+  - first:
+      213: -6815319333768491451
+    second: FemFuerte-salto_1
+  - first:
+      213: -7411080045004959713
+    second: FemFuerte-salto_2
+  - first:
+      213: -7223095180746694874
+    second: FemFuerte-salto_3
+  - first:
+      213: -931690786142414898
+    second: FemFuerte-salto_4
+  - first:
+      213: 7774931056118355983
+    second: FemFuerte-salto_5
+  - first:
+      213: -5925292698036864051
+    second: FemFuerte-salto_6
+  - first:
+      213: -7018069930892103065
+    second: FemFuerte-salto_7
+  - first:
+      213: -8831647314479754759
+    second: FemFuerte-salto_8
+  - first:
+      213: 5021336159331530267
+    second: FemFuerte-salto_9
+  - first:
+      213: -9200690296557971716
+    second: FemFuerte-salto_10
+  - first:
+      213: -1407800216381540843
+    second: FemFuerte-salto_11
+  - first:
+      213: 8891941908693933608
+    second: FemFuerte-salto_12
+  - first:
+      213: 5111823459384183959
+    second: FemFuerte-salto_13
+  - first:
+      213: 1901485834464225442
+    second: FemFuerte-salto_14
+  - first:
+      213: 731045380572751255
+    second: FemFuerte-salto_15
+  - first:
+      213: -3876611390951481372
+    second: FemFuerte-salto_16
+  - first:
+      213: 4887161693680528987
+    second: FemFuerte-salto_17
+  - first:
+      213: -3349110764564855547
+    second: FemFuerte-salto_18
+  - first:
+      213: 4722922328267925873
+    second: FemFuerte-salto_19
+  - first:
+      213: 3132705986550805048
+    second: FemFuerte-salto_20
+  - first:
+      213: -6609063582352166568
+    second: FemFuerte-salto_21
+  - first:
+      213: 1819676010770684416
+    second: FemFuerte-salto_22
+  - first:
+      213: 1009372345291545267
+    second: FemFuerte-salto_23
+  - first:
+      213: -9020364104174738579
+    second: FemFuerte-salto_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 86
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemFuerte-salto_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1073
+        width: 59
+        height: 156
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31adb4da01da33820800000000000000
+      internalID: 2896849272467872275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1073
+        width: 59
+        height: 156
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e80efcc2f1b61a0800000000000000
+      internalID: -6815319333768491451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1073
+        width: 61
+        height: 155
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f105e73f6fd862990800000000000000
+      internalID: -7411080045004959713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_3
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1073
+        width: 78
+        height: 150
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fd1c4e33962cb90800000000000000
+      internalID: -7223095180746694874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_4
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1073
+        width: 95
+        height: 141
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec71a739a28f113f0800000000000000
+      internalID: -931690786142414898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 817
+        width: 104
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0856192a9a16eb60800000000000000
+      internalID: 7774931056118355983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 817
+        width: 108
+        height: 128
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbfb474fa125cda0800000000000000
+      internalID: -5925292698036864051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 817
+        width: 108
+        height: 129
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7627358c49eca9e90800000000000000
+      internalID: -7018069930892103065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_8
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 818
+        width: 112
+        height: 149
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d6ee3f8faf6580800000000000000
+      internalID: -8831647314479754759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_9
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 867
+        width: 141
+        height: 103
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16b7caf1ae5fa540800000000000000
+      internalID: 5021336159331530267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 637
+        width: 147
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf657413ce4905080800000000000000
+      internalID: -9200690296557971716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 636
+        width: 116
+        height: 123
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5163cdb792d767ce0800000000000000
+      internalID: -1407800216381540843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 636
+        width: 107
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e5c1fed06866b70800000000000000
+      internalID: 8891941908693933608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 656
+        width: 125
+        height: 113
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c4a1b4a58d0f640800000000000000
+      internalID: 5111823459384183959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_14
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 648
+        width: 137
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a86dacba4f636a10800000000000000
+      internalID: 1901485834464225442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 366
+        width: 119
+        height: 120
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795aabf76e1352a00800000000000000
+      internalID: 731045380572751255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 305
+        width: 118
+        height: 151
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef9a16aa72833ac0800000000000000
+      internalID: -3876611390951481372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 305
+        width: 118
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e69b7caafa2d340800000000000000
+      internalID: 4887161693680528987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_18
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 305
+        width: 118
+        height: 129
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505cca401819581d0800000000000000
+      internalID: -3349110764564855547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 305
+        width: 97
+        height: 131
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179ab2e95d03b8140800000000000000
+      internalID: 4722922328267925873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 49
+        width: 86
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832b91a3f7b997b20800000000000000
+      internalID: 3132705986550805048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 49
+        width: 75
+        height: 148
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851bdeb20b3e744a0800000000000000
+      internalID: -6609063582352166568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_22
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 49
+        width: 68
+        height: 154
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a5944d0b9c04910800000000000000
+      internalID: 1819676010770684416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_23
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 49
+        width: 59
+        height: 156
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba9437dcc2020e00800000000000000
+      internalID: 1009372345291545267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemFuerte-salto_24
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 49
+        width: 59
+        height: 156
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63eaf1a3aa31d280800000000000000
+      internalID: -9020364104174738579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FemFuerte-salto_0: 2896849272467872275
+      FemFuerte-salto_1: -6815319333768491451
+      FemFuerte-salto_10: -9200690296557971716
+      FemFuerte-salto_11: -1407800216381540843
+      FemFuerte-salto_12: 8891941908693933608
+      FemFuerte-salto_13: 5111823459384183959
+      FemFuerte-salto_14: 1901485834464225442
+      FemFuerte-salto_15: 731045380572751255
+      FemFuerte-salto_16: -3876611390951481372
+      FemFuerte-salto_17: 4887161693680528987
+      FemFuerte-salto_18: -3349110764564855547
+      FemFuerte-salto_19: 4722922328267925873
+      FemFuerte-salto_2: -7411080045004959713
+      FemFuerte-salto_20: 3132705986550805048
+      FemFuerte-salto_21: -6609063582352166568
+      FemFuerte-salto_22: 1819676010770684416
+      FemFuerte-salto_23: 1009372345291545267
+      FemFuerte-salto_24: -9020364104174738579
+      FemFuerte-salto_3: -7223095180746694874
+      FemFuerte-salto_4: -931690786142414898
+      FemFuerte-salto_5: 7774931056118355983
+      FemFuerte-salto_6: -5925292698036864051
+      FemFuerte-salto_7: -7018069930892103065
+      FemFuerte-salto_8: -8831647314479754759
+      FemFuerte-salto_9: 5021336159331530267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

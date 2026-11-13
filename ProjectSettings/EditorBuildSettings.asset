@@ -6,7 +6,25 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 7ee890c1cfea94741a20323c707869cb
+  - enabled: 1
+    path: Assets/Scenes/SeleccionPersonaje.unity
+    guid: f656185b0827e6d4f97e5576c4f3aecb
+  - enabled: 1
+    path: Assets/Scenes/Cinematica.unity
+    guid: c41fa1f68e4ac4d4dbc25f7ec5ade5c6
+  - enabled: 1
+    path: Assets/Scenes/Carga.unity
+    guid: afca19292b4f5f74db8454ec01856131
+  - enabled: 1
+    path: Assets/Scenes/Nivel1.unity
+    guid: f3eb847a52851324fbdafd25cb9d03f7
+  - enabled: 1
+    path: Assets/Scenes/Pruebas/EscenaDePruebas.unity
+    guid: c7b7aef3f2bdbb5428b4b45444d14508
+  - enabled: 0
+    path: Assets/Scenes/Pruebas/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
