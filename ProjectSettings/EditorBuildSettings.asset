@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Nivel1.unity
     guid: f3eb847a52851324fbdafd25cb9d03f7
   - enabled: 1
+    path: Assets/Scenes/Nivel2.unity
+    guid: 08337ee674d8cae4eb6820940d104c43
+  - enabled: 1
     path: Assets/Scenes/Pruebas/EscenaDePruebas.unity
     guid: c7b7aef3f2bdbb5428b4b45444d14508
   - enabled: 0

@@ -14,7 +14,7 @@ using UnityEngine;
 // Al 20%: se rompe el blindaje (partículas) y recibe +25% de daño.
 // La arena (JefeArena) lo activa, le da los límites y se entera de su derrota con el evento Derrotado.
 [RequireComponent(typeof(Rigidbody2D))]
-public class JefeCentinela : MonoBehaviour, IDamageable
+public class JefeCentinela : JefeBase
 {
     public enum Estado { Inactivo, Idle, Caminar, Ataque, Aturdido, Alarma, Muerte }
     private enum TipoAtaque { Ninguno, Rafaga, Embestida, Drones }
@@ -122,15 +122,12 @@ public class JefeCentinela : MonoBehaviour, IDamageable
     [SerializeField] private AudioClip sonidoMuerte;
 
     // Eventos para la arena y la barra de vida
-    public event Action<float, float> VidaCambio;   // (vida actual, vida máxima)
-    public event Action Derrotado;
-    public event Action<float> ChocoConPared;       // dirección del choque: -1 izquierda, 1 derecha
 
-    public string Nombre => nombre;
-    public float Vida => vida;
-    public float VidaMaxima => vidaMaxima;
+    public override string Nombre => nombre;
+    public override float Vida => vida;
+    public override float VidaMaxima => vidaMaxima;
     public Estado EstadoActual => estado;
-    public bool EnFase2 => fase2;
+    public override bool EnFase2 => fase2;
 
     // Parámetros del Animator
     private static readonly int PCaminando = Animator.StringToHash("Caminando");
@@ -243,13 +240,13 @@ public class JefeCentinela : MonoBehaviour, IDamageable
     // ---------------------------------------------------------------- API para la arena
 
     // Límites en X de la arena: si choca con ellos durante la embestida, queda aturdido
-    public void ConfigurarArena(float izquierda, float derecha)
+    public override void ConfigurarArena(float izquierda, float derecha)
     {
         limiteIzq = izquierda;
         limiteDer = derecha;
     }
 
-    public void Activar(Transform objetivo)
+    public override void Activar(Transform objetivo)
     {
         if (estado != Estado.Inactivo) return;
         jugador = objetivo;
@@ -262,12 +259,12 @@ public class JefeCentinela : MonoBehaviour, IDamageable
         listoEn[TipoAtaque.Rafaga] = Time.time + 1.2f;
         listoEn[TipoAtaque.Embestida] = Time.time + 2.5f;
         listoEn[TipoAtaque.Drones] = Time.time;
-        VidaCambio?.Invoke(vida, vidaMaxima);
+        AvisarVida(vida, vidaMaxima);
         CambiarRutina(RutinaIdle(0.8f));
     }
 
     // Vuelve al estado inicial (el jugador murió y reaparece en el checkpoint)
-    public void Reiniciar()
+    public override void Reiniciar()
     {
         if (rutina != null) StopCoroutine(rutina);
         rutina = null;
@@ -290,15 +287,15 @@ public class JefeCentinela : MonoBehaviour, IDamageable
             animator.SetTrigger(PReiniciar);
         }
         Mirar(mirarIzquierdaAlInicio);
-        VidaCambio?.Invoke(vida, vidaMaxima);
+        AvisarVida(vida, vidaMaxima);
     }
 
     // ---------------------------------------------------------------- Daño
 
-    public void TakeDamage(float amount) => RecibirDanio(amount, false);
+    public override void TakeDamage(float amount) => RecibirDanio(amount, false);
 
     // Explosiones de barriles: daño alto, con su propio multiplicador
-    public void RecibirDanioExplosion(float amount) => RecibirDanio(amount * multiplicadorExplosiones, false);
+    public override void RecibirDanioExplosion(float amount) => RecibirDanio(amount * multiplicadorExplosiones, false);
 
     // Lo llama el panel de la espalda (solo activo mientras está aturdido)
     public void RecibirDanioPanel(float amount) => RecibirDanio(amount, true);
@@ -313,7 +310,7 @@ public class JefeCentinela : MonoBehaviour, IDamageable
 
         vida = Mathf.Max(0f, vida - amount * mult);
         flash = 1f;
-        VidaCambio?.Invoke(vida, vidaMaxima);
+        AvisarVida(vida, vidaMaxima);
 
         if (vida <= 0f) { Morir(); return; }
 
@@ -358,7 +355,7 @@ public class JefeCentinela : MonoBehaviour, IDamageable
         CameraFollow.Shake(0.45f, 0.6f);
         if (prefabExplosionMuerte != null && colliderCuerpo != null)
             Instantiate(prefabExplosionMuerte, colliderCuerpo.bounds.center, Quaternion.identity);
-        Derrotado?.Invoke();
+        AvisarDerrota();
     }
 
     // ---------------------------------------------------------------- Ciclo
@@ -594,7 +591,7 @@ public class JefeCentinela : MonoBehaviour, IDamageable
 
         if (chocara)
         {
-            ChocoConPared?.Invoke(dir);
+            AvisarChoque(dir);
             rutina = StartCoroutine(RutinaAturdido());
             yield break;
         }

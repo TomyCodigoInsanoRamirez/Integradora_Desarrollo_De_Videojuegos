@@ -12,7 +12,7 @@ using UnityEngine;
 public class JefeArena : MonoBehaviour
 {
     [Header("Jefe")]
-    [SerializeField] private JefeCentinela jefe;
+    [SerializeField] private JefeBase jefe;
 
     [Header("Límites de la arena (X)")]
     [SerializeField] private float limiteIzquierdo = 393f;

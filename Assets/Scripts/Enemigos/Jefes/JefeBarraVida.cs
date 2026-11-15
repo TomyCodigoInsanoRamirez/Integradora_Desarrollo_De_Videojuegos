@@ -31,7 +31,7 @@ public class JefeBarraVida : MonoBehaviour
     private Image imgDanio;
     private Image imgRetrato;
     private Text texto;
-    private JefeCentinela jefe;
+    private JefeBase jefe;
     private float objetivoAlpha;
     private float fraccion = 1f;
     private float fraccionDanio = 1f;
@@ -44,7 +44,7 @@ public class JefeBarraVida : MonoBehaviour
         grupo.alpha = 0f;
     }
 
-    public void Mostrar(JefeCentinela nuevoJefe)
+    public void Mostrar(JefeBase nuevoJefe)
     {
         if (jefe != null) jefe.VidaCambio -= AlCambiarVida;
         jefe = nuevoJefe;

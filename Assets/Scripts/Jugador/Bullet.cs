@@ -49,6 +49,9 @@ public class Bullet : MonoBehaviour
     {
         if (isEnemyBullet)
         {
+            // Las coberturas frenan las balas enemigas
+            if (other.GetComponent<Cobertura>() != null) { Destroy(gameObject); return; }
+
             PlayerHealth playerHealth = other.GetComponent<PlayerHealth>();
             if (playerHealth == null) return;
 

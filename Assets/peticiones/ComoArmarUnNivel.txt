@@ -1,0 +1,166 @@
+CÓMO SE ARMA UN NIVEL - GUÍA PARA GENERAR EL ARTE DE UN NIVEL NUEVO
+====================================================================
+
+PARA QUIEN LEA ESTO (otra IA o un artista):
+Vas a generar los recursos gráficos para un nivel nuevo de un videojuego. Este documento
+explica cómo están armados los niveles, qué piezas hacen falta y en qué formato entregarlas.
+Cuando te pidan "genera los elementos para hacer otro nivel" (por ejemplo "el nivel 2 en una
+fábrica"), significa: entregar TODAS las piezas de la sección 4 con el tema que te indiquen,
+cumpliendo las reglas de las secciones 2, 3 y 5.
+
+
+1. EL JUEGO
+-----------
+- Run and gun 2D de desplazamiento lateral (estilo arcade de disparos), en PIXEL ART.
+- Se juega de izquierda a derecha. El jugador corre, salta, se agacha, dispara y golpea con un tubo.
+- Ambientación: mundo postapocalíptico invadido por robots, DE NOCHE. Paleta fría (azules,
+  grises, verdes apagados), metal oxidado, verde militar, luces cálidas puntuales (faroles, fuego).
+- Motor: Unity, cámara ortográfica. La pantalla muestra unas 17.8 x 10 unidades del mundo (16:9).
+- El personaje mide unas 3 unidades de alto. Úsalo como referencia de escala para todo.
+- Un nivel mide unas 400 unidades de largo (unas 22 pantallas) y tiene varias ZONAS seguidas.
+  Ejemplo, el Nivel 1: bosque -> río que se cruza a pie -> bosque -> río -> camino de tierra ->
+  pueblo en ruinas -> arena del jefe al final.
+
+
+2. CÓMO SE CONSTRUYE LA IMAGEN (CAPAS)
+--------------------------------------
+El escenario NO es una sola imagen: se arma con capas que se mueven a distinta velocidad
+(efecto parallax) para dar profundidad. De atrás hacia adelante:
+
+  a) CIELO: una sola imagen fija a la cámara (no se desplaza). Puede tener luna, nubes, estrellas.
+  b) FONDO LEJANO: silueta del horizonte (colinas, ciudad lejana, montañas). Se mueve muy lento.
+     Debe poder REPETIRSE horizontalmente sin que se note la unión (tileable / seamless).
+  c) FONDO MEDIO: siluetas más cercanas (edificios, bosque, fábrica). También repetible.
+     Más elementos sueltos lejanos (torres, ruinas, árboles grandes) para variar.
+  d) DECORACIÓN DE FONDO: objetos apoyados detrás del camino del jugador (casas, autos,
+     postes, faroles, barriles, cercas). No estorban: el jugador pasa por delante.
+  e) SUELO: la franja por donde camina el jugador (ver sección 3). Repetible horizontalmente.
+  f) PRIMER PLANO: siluetas oscuras DELANTE del jugador, en la parte baja o en las esquinas
+     de la pantalla (ramas, pasto alto, escombros, juncos, troncos). Se mueven más rápido que
+     la cámara y dan sensación de profundidad. Deben ser oscuros/desaturados para no confundirse
+     con el juego.
+
+Velocidades de referencia (1 = pegado a la cámara, 0 = quieto en el mundo):
+cielo 1, lejano 0.65, árboles lejanos 0.55, medio 0.4, suelo y decoración 0, primer plano -0.25.
+
+
+3. EL SUELO Y LA LÍNEA DE CAMINADO (MUY IMPORTANTE)
+---------------------------------------------------
+- El suelo es una franja vista DE LADO con un poco de perspectiva (se ve un poco la superficie,
+  como una calle o un sendero). Textura de referencia: 1728 x 640 px, se muestra a 8.3 u de alto.
+- El jugador NO camina sobre el borde de arriba de la franja: camina DENTRO de ella. Sus pies
+  quedan a un 40-45% de la altura de la textura medido desde arriba (unas 1.3 u por debajo del borde
+  visible de arriba). La parte de arriba de la franja es "el fondo de la calle" y la de abajo,
+  tierra/relleno que se pierde en la oscuridad.
+- La textura TIENE QUE SER REPETIBLE en horizontal (el borde izquierdo debe continuar
+  perfectamente en el derecho), si no se ve una línea cada vez que se repite.
+- Cada zona tiene su suelo (bosque, asfalto, tierra, fábrica...). Además hacen falta PIEZAS
+  DE TRANSICIÓN entre suelos distintos y para orillas (ver reglas abajo).
+- Se pueden hacer zonas especiales como el RÍO del Nivel 1: el jugador baja por una orilla,
+  camina por el lecho con el agua tapándole las piernas y sube por la otra orilla.
+  Eso requiere: orilla izquierda, orilla derecha, superficie del agua (repetible) y el lecho.
+
+REGLAS VISUALES (las exige el director del juego):
+1. Nada de cortes abruptos entre zonas, y NADA de degradados o difuminados para unirlas.
+   Las uniones se tapan con bordes irregulares de pixel duro (bloques, rocas, pasto) que se
+   superponen, y con objetos encima (un arbusto, un escombro). Solo el cielo puede degradarse.
+2. Bordes de pixel duro: sin semitransparencias, sin antialiasing, sin brillos suaves
+   alrededor de los objetos.
+3. Todo lo repetible (suelos, fondos lejanos y medios, agua) debe ser seamless en horizontal.
+4. Los obstáculos dentro del camino del jugador son POCOS: el camino debe quedar libre.
+   Casas, autos y objetos grandes van SIEMPRE al fondo como decoración.
+
+
+4. LISTA DE PIEZAS PARA UN NIVEL NUEVO
+--------------------------------------
+Tamaños: "u" = unidades del juego. Densidad recomendada: 80 a 100 pixeles por unidad para el
+escenario y unos 64 px/u para objetos chicos. Si un tamaño no te cuadra, respeta la PROPORCIÓN.
+
+A) FONDOS (por cada zona del nivel, o compartidos)
+   1. Cielo ......................... 1536 x 864 px. Fijo, no repetible.
+   2. Fondo lejano .................. ~1600 x 768 px. REPETIBLE horizontal. Silueta del horizonte,
+                                      parte de abajo puede ser bruma/oscuridad.
+   3. Fondo medio ................... ~1600 x 768 px. REPETIBLE horizontal. Siluetas más cercanas.
+   4. 3 a 6 elementos lejanos sueltos (torre, ruina, chimenea, árbol grande), de 4 a 10 u de alto.
+   5. Banda de niebla horizontal .... 1920 x 640 px, repetible (opcional, da ambiente).
+
+B) SUELO (por cada zona)
+   6. Franja de suelo ............... 1728 x 640 px. REPETIBLE. Con la línea de caminado al 40-45% desde arriba.
+   7. Pieza de transición entre esta zona y la siguiente (borde irregular), 1920 x 640 px.
+   8. Si hay río/foso/desnivel: orilla izquierda, orilla derecha (1536 x 864 px) y superficie
+      del agua repetible.
+   9. Relleno: un color plano oscuro (4 x 4 px) para lo que queda debajo del suelo.
+
+C) DECORACIÓN DE FONDO (de 8 a 15 piezas por zona; van detrás del jugador)
+   10. Edificios / estructuras grandes: 6 a 10 u de ancho, 4 a 8 u de alto.
+   11. Objetos medianos: autos, contenedores, máquinas, cercas, letreros (1.5 a 5 u).
+   12. Objetos chicos: barriles, cajas, escombros, pasto, faroles (0.8 a 3 u).
+   Cada pieza en su propio PNG, apoyada en una base plana (la base es lo que toca el piso).
+
+D) PRIMER PLANO (5 a 8 piezas, siluetas OSCURAS)
+   13. Ramas o elementos que cuelgan desde arriba (esquinas), ~5 u.
+   14. Elementos bajos: pasto alto, escombro, juncos, tuberías (1.5 a 5 u de alto).
+
+E) ELEMENTOS DE JUEGO
+   15. Coberturas: 1 o 2 objetos bajos y sólidos detrás de los que el jugador se protege de
+       los disparos (sacos de arena, bloque de concreto, chapa), ~1.5 u de alto x 1.5-2.5 u.
+   16. Plataformas (si el nivel las usa): la superficie de pisada a 2.1 u del suelo (el salto
+       del jugador llega a 2.45 u). ~4.5 u de ancho, CON patas o soportes hasta el piso.
+   17. Barriles explosivos y otros peligros del tema (si los hay), con versión normal,
+       destello de advertencia y dañada.
+   18. Checkpoint (si hay jefe): objeto de ~3 u de alto con estado apagado (rojo) y encendido (verde).
+
+F) ENEMIGOS NUEVOS (si el nivel los trae)
+   19. Hojas de animación: cuadrícula regular de cuadros de 256 x 256 px, 5 cuadros por fila,
+       idealmente 25 cuadros por animación (5 x 5).
+       Animaciones típicas: idle, caminar/volar, disparar, ataque especial, recibir daño, morir.
+       REGLAS: el personaje a la MISMA ESCALA en todas las hojas, pies a la misma altura en
+       todos los cuadros, centrado en el cuadro, mirando a la DERECHA.
+       Tamaños de referencia: robot terrestre ~4.5 u de alto, dron ~1.4 u, kamikaze ~3 u.
+
+G) JEFE DEL NIVEL (si lo hay)
+   20. Igual que los enemigos, pero el jefe mide ~5 u de alto. Animaciones: idle, caminar,
+       aviso de ataque, cada ataque, aturdido, alarma/llamado, muerte.
+       Mejor con cuadros de 512 x 512 px (el de 256 se ve muy pixelado al escalarlo).
+   21. Arena del jefe: dos compuertas (~1.3 x 9 u; normal, golpeada, abollada) y elementos
+       que marquen que es zona de jefe (letreros, reflectores...).
+   22. Retrato del jefe para su barra de vida (cuadrado, ~300 x 300 px).
+
+H) OBJETOS RECOGIBLES (ya existen; solo si el tema pide otros)
+   Moneda (giro de 8 cuadros), kit de reparación (5 cuadros de brillo).
+
+
+5. FORMATO DE ENTREGA
+---------------------
+- PNG con FONDO TRANSPARENTE. Es lo más importante.
+  Si tu herramienta no puede hacer transparencia: fondo de UN SOLO color plano #FF00FF
+  (magenta puro), uniforme en toda la imagen, y entonces:
+    * nada de brillos, halos o resplandores pintados sobre el fondo (se vuelven manchas rosas),
+    * nada de líneas de 1 pixel separadas del cuerpo (mallas, cables, alambre),
+    * bordes duros, sin antialiasing contra el magenta.
+- Un objeto por archivo para la decoración. Las animaciones en una hoja con cuadrícula regular.
+- Si varios objetos van en una misma imagen, déjalos bien separados (al menos 40 px entre ellos).
+- Sin texto, marcas de agua, firmas, sombras proyectadas sobre el fondo ni reflejos en el piso.
+- Nombres de archivo descriptivos en minúsculas y con guion bajo, indicando la capa:
+    bg_sky_..., bg_far_..., bg_mid_..., distant_..., ground_..._side, borde_..., water_...,
+    structure_..., prop_..., extra_..., vegetation_..., foreground_..., fx_...
+  Ejemplos del Nivel 1: ground_forest_floor_side.png, bg_mid_ruined_town_silhouette.png,
+  prop_car_abandoned_sedan.png, foreground_branch_leaves_top_left.png.
+
+
+6. LO QUE NO HACE FALTA GENERAR
+-------------------------------
+Personajes jugables, balas del jugador, menús, pantalla de carga, HUD, efectos de explosión,
+monedas y kit (ya existen). La colocación en el nivel, colisiones, animaciones y lógica las
+hace quien programa el juego.
+
+
+7. PLANTILLA PARA PEDIR UN NIVEL (copiar y completar)
+-----------------------------------------------------
+"Genera los recursos de arte para el NIVEL __ de mi juego siguiendo la guía 'CÓMO SE ARMA
+UN NIVEL'. Tema: ______________ (ej.: fábrica abandonada de robots, de noche).
+Zonas en orden: 1) ______  2) ______  3) ______  4) ______ (arena del jefe al final).
+Zona especial (opcional): ______ (ej.: cinta transportadora, foso con ácido, puente).
+Enemigos nuevos: ______ (o 'ninguno, se reutilizan los del nivel 1').
+Jefe: ______ (descripción y ataques) o 'sin jefe'.
+Entrega la lista de la sección 4 completa para cada zona, con el formato de la sección 5."

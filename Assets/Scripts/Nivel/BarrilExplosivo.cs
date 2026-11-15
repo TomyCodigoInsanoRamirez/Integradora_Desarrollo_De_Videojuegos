@@ -118,7 +118,7 @@ public class BarrilExplosivo : MonoBehaviour, IDamageable
             var danio = hit.GetComponent<IDamageable>();
             if (danio == null) continue;
             // El jefe lo maneja con su propio multiplicador; los demás reciben el daño normal
-            var jefe = hit.GetComponentInParent<JefeCentinela>();
+            var jefe = hit.GetComponentInParent<JefeBase>();
             if (jefe != null) { if (yaDaniados.Add(jefe)) jefe.RecibirDanioExplosion(danioEnemigos); }
             else if (danio is Object o && yaDaniados.Add(o)) danio.TakeDamage(danioEnemigos);
         }
