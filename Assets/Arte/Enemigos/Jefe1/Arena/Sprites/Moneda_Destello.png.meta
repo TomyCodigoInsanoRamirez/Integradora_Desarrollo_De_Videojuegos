@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 1aa890b6af22bff4b91355c0bef5c67f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4968594482440385476
+    second: Moneda_Destello_0
+  - first:
+      213: -8637222297755246439
+    second: Moneda_Destello_1
+  - first:
+      213: -2486429344957069578
+    second: Moneda_Destello_2
+  - first:
+      213: 1202192932060310768
+    second: Moneda_Destello_3
+  - first:
+      213: -5821231071408627600
+    second: Moneda_Destello_4
+  - first:
+      213: 3363676819810219664
+    second: Moneda_Destello_5
+  - first:
+      213: -5193333947321571083
+    second: Moneda_Destello_6
+  - first:
+      213: -7985853956346191021
+    second: Moneda_Destello_7
+  - first:
+      213: 8389554335866418624
+    second: Moneda_Destello_8
+  - first:
+      213: 471502592123245035
+    second: Moneda_Destello_9
+  - first:
+      213: 8545643016060824329
+    second: Moneda_Destello_10
+  - first:
+      213: 8483904335949598551
+    second: Moneda_Destello_11
+  - first:
+      213: -1001587150463795482
+    second: Moneda_Destello_12
+  - first:
+      213: -7162009496329243494
+    second: Moneda_Destello_13
+  - first:
+      213: -4647980029241752827
+    second: Moneda_Destello_14
+  - first:
+      213: -6722600386446667015
+    second: Moneda_Destello_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moneda_Destello_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 210
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffedbd6ebd4614428d142e5f6b0e285
+      internalID: -4968594482440385476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda_Destello_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 210
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba11f5b263f4a4e95c23b89138b46c
+      internalID: -8637222297755246439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda_Destello_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 210
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d186a99531c8724d8d52bd2fad50778
+      internalID: -2486429344957069578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moneda_Destello_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 210
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b35767da242fb6469d406f0049812b0
+      internalID: 1202192932060310768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e9e57ede936fba4396c9c1273ac9252
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Moneda_Destello_0: -4968594482440385476
+      Moneda_Destello_1: -8637222297755246439
+      Moneda_Destello_10: 8545643016060824329
+      Moneda_Destello_11: 8483904335949598551
+      Moneda_Destello_12: -1001587150463795482
+      Moneda_Destello_13: -7162009496329243494
+      Moneda_Destello_14: -4647980029241752827
+      Moneda_Destello_15: -6722600386446667015
+      Moneda_Destello_2: -2486429344957069578
+      Moneda_Destello_3: 1202192932060310768
+      Moneda_Destello_4: -5821231071408627600
+      Moneda_Destello_5: 3363676819810219664
+      Moneda_Destello_6: -5193333947321571083
+      Moneda_Destello_7: -7985853956346191021
+      Moneda_Destello_8: 8389554335866418624
+      Moneda_Destello_9: 471502592123245035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

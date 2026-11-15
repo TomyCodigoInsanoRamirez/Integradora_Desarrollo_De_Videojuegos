@@ -111,3 +111,7 @@ InitTestScene*.unity*
 # Cinemática de inicio (336 MB): demasiado grande para git sin LFS. Se comparte aparte;
 # colocarla en Assets/Video/. Su .meta sí se versiona para que Unity conserve la referencia.
 /Assets/Video/CinematicaInicioFinal.mp4
+
+# Copias de recuperación que Unity crea solo si el editor se cierra de golpe. No son parte del proyecto.
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta

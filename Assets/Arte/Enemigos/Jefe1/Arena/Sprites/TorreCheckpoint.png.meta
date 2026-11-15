@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: d5890b1b990a99a4298884e7e692ec65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1488989851048036355
+    second: TorreCheckpoint_0
+  - first:
+      213: 190423576097839548
+    second: TorreCheckpoint_1
+  - first:
+      213: 4899474456924164196
+    second: TorreCheckpoint_2
+  - first:
+      213: -2612229567330908826
+    second: TorreCheckpoint_3
+  - first:
+      213: -748571073381515178
+    second: TorreCheckpoint_4
+  - first:
+      213: 6502360720422572130
+    second: TorreCheckpoint_5
+  - first:
+      213: 4657572704748417186
+    second: TorreCheckpoint_6
+  - first:
+      213: -1863334247708605571
+    second: TorreCheckpoint_7
+  - first:
+      213: -3116195623632729260
+    second: TorreCheckpoint_8
+  - first:
+      213: 5287944877170767655
+    second: TorreCheckpoint_9
+  - first:
+      213: -9167008413340191115
+    second: TorreCheckpoint_10
+  - first:
+      213: -1256163605463269604
+    second: TorreCheckpoint_11
+  - first:
+      213: -199155997026781452
+    second: TorreCheckpoint_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 176.25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TorreCheckpoint_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170
+        height: 572
+      alignment: 9
+      pivot: {x: 0.5, y: 0.007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8335a51f343045853ebc6d56cff94
+      internalID: 1488989851048036355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorreCheckpoint_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 170
+        height: 572
+      alignment: 9
+      pivot: {x: 0.5, y: 0.007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176c9d71f5736cf44acbea08dc5c41e8
+      internalID: 190423576097839548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorreCheckpoint_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 170
+        height: 572
+      alignment: 9
+      pivot: {x: 0.5, y: 0.007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d9145599987bd4ab360d5b8963f76c
+      internalID: 4899474456924164196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorreCheckpoint_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 170
+        height: 572
+      alignment: 9
+      pivot: {x: 0.5, y: 0.007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5509b1698492148b42cd3ea32698d9
+      internalID: -2612229567330908826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorreCheckpoint_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 170
+        height: 572
+      alignment: 9
+      pivot: {x: 0.5, y: 0.007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a29d165ea57854ab26dc7095b7d6e0
+      internalID: -748571073381515178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorreCheckpoint_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 170
+        height: 572
+      alignment: 9
+      pivot: {x: 0.5, y: 0.007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10eee6078e252d4fbed7df9cea73d16
+      internalID: 6502360720422572130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 78537fbfe5346dc4f8b7f1d8565ed017
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TorreCheckpoint_0: 1488989851048036355
+      TorreCheckpoint_1: 190423576097839548
+      TorreCheckpoint_10: -9167008413340191115
+      TorreCheckpoint_11: -1256163605463269604
+      TorreCheckpoint_12: -199155997026781452
+      TorreCheckpoint_2: 4899474456924164196
+      TorreCheckpoint_3: -2612229567330908826
+      TorreCheckpoint_4: -748571073381515178
+      TorreCheckpoint_5: 6502360720422572130
+      TorreCheckpoint_6: 4657572704748417186
+      TorreCheckpoint_7: -1863334247708605571
+      TorreCheckpoint_8: -3116195623632729260
+      TorreCheckpoint_9: 5287944877170767655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

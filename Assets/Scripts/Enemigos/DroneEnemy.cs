@@ -42,6 +42,12 @@ public class DroneEnemy : MonoBehaviour, IDamageable
     [Tooltip("Ángulos permitidos por debajo de la horizontal (grados): fuera de este rango no puede apuntar")]
     [SerializeField] private Vector2 aimAngleRange = new Vector2(35f, 88f);
     [SerializeField] private AudioClip burstSound;
+    [Tooltip("Zumbido de acercamiento. Quien crea el dron (EnemySpawnPoint, el jefe) lo empieza antes de que aparezca; si no, suena al aparecer")]
+    [SerializeField] private AudioClip aproximacionSound;
+    [Range(0f, 1f)] [SerializeField] private float aproximacionVolumen = 0.8f;
+
+    public AudioClip AproximacionSound => aproximacionSound;
+    public float AproximacionVolumen => aproximacionVolumen;
 
     [Header("Animación")]
     [SerializeField] private Animator animator;
@@ -56,6 +62,7 @@ public class DroneEnemy : MonoBehaviour, IDamageable
     private Transform player;
     private Collider2D playerCol;
     private AudioSource audioSource;
+    private bool aproximacionAsignada;
     private State state = State.Reposicionando;
     private float health;
     private float stateTime;
@@ -78,6 +85,23 @@ public class DroneEnemy : MonoBehaviour, IDamageable
         health = maxHealth;
         homePosition = transform.position;
         bobPhase = Random.Range(0f, Mathf.PI * 2f);
+    }
+
+    // Quien crea el dron le pasa el sonido que ya venía sonando (empezó antes de que apareciera)
+    public void UsarSonidoAcercamiento(SonidoAcercamiento sonido)
+    {
+        aproximacionAsignada = true;
+        if (sonido != null) sonido.Seguir(transform);
+    }
+
+    private void Start()
+    {
+        // Nadie le pasó el sonido: lo empieza él mismo al aparecer
+        if (!aproximacionAsignada && aproximacionSound != null)
+        {
+            var s = SonidoAcercamiento.Crear(aproximacionSound, transform.position, aproximacionVolumen);
+            if (s != null) s.Seguir(transform);
+        }
     }
 
     private void Update()

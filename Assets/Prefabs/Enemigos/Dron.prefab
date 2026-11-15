@@ -254,8 +254,12 @@ MonoBehaviour:
   burstDuration: 1.2
   spread: 5
   cooldown: 1.1
+  reaccionMinima: 1
+  reaccionMaxima: 2
   muzzleOffset: {x: 0.3, y: -1.15}
   aimAngleRange: {x: 35, y: 88}
   burstSound: {fileID: 8300000, guid: 9421631fb6f36b842b3137e3cb9c7bff, type: 3}
+  aproximacionSound: {fileID: 8300000, guid: 4b77b03e04474e246b784e26fc55d133, type: 3}
+  aproximacionVolumen: 0.8
   animator: {fileID: 6240816762050133048}
   spriteRenderer: {fileID: 5022251218350419854}

@@ -25,6 +25,11 @@ public class Bullet : MonoBehaviour
         speed = newSpeed;
     }
 
+    public void SetDamage(float newDamage)
+    {
+        damage = newDamage;
+    }
+
     public void SetIsEnemyBullet(bool value)
     {
         isEnemyBullet = value;

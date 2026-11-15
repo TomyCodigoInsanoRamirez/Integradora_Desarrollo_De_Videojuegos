@@ -1,0 +1,72 @@
+Necesito que implementes en Unity (usa el MCP de Unity) el jefe del nivel 1 de mi juego: el "Centinela de Acceso". Es un run and gun 2D de desplazamiento lateral, en pixel art, para Windows y Android.
+
+## 0. Antes de escribir nada, revisa el proyecto
+- Lee la estructura del proyecto, la versión de Unity, el render pipeline, el sistema de Input que se usa y los paquetes instalados (por ejemplo Cinemachine).
+- Averigua cómo está hecho el jugador (script, tag, layers, cómo recibe daño y cómo muere) y cómo se disparan los proyectiles de agua (script, prefab, layer, daño que hacen).
+- Busca si ya existen scripts base de vida, daño o enemigos, y REUTILÍZALOS. No crees un sistema paralelo de vida o daño.
+- Busca si ya existen: Dron Básico, barriles o botellas de combustible explosivos, monedas, kit de reparación, checkpoints, barra de UI y manager de audio. Usa lo que exista; lo que no exista, créalo en versión simple y dímelo en el reporte.
+- No inventes nombres de scripts, tags o layers: usa los reales que encuentres.
+
+## 1. Sprites
+Las hojas de sprite están en Assets/Arte/Enemigos/Jefe1. Corresponden a estas animaciones: idle, caminar, aviso de embestida, embestida, aturdido, muerte, disparo y alarma/llamado de drones.
+- Lee cuántos frames tiene cada hoja; no asumas un número fijo (cada hoja puede tener una cantidad distinta). Si hace falta, cortalas con el Sprite Editor en modo Multiple por cuadrícula.
+- Usa Point (no filter) y sin compresión, Pixels Per Unit coherente con el resto del juego.
+- Crea los AnimationClips y un Animator Controller con transiciones controladas por parámetros (triggers y bools). Marca como loop: idle, caminar y embestida. Sin loop: aviso de embestida, aturdido, muerte, disparo y alarma.
+- Detecta hacia qué lado miran los sprites y usa flipX para que siempre miren al jugador.
+- Si falta alguna hoja o alguna no se ve bien, avísame y usa un fallback temporal; no la inventes.
+- NO existe sprite de fase 2. La fase 2 se hace solo por código (ver sección 3).
+
+## 2. Datos del jefe (todo configurable desde el Inspector)
+- Vida máxima: 15, en la misma escala de daño que ya usa el juego (por ejemplo, un Dron Básico tiene 3 y un Robot Pesado 10).
+- Velocidad de caminar, velocidad de embestida, cooldowns de cada ataque, daño de cada ataque.
+- Multiplicador de daño recibido: x1 normal, x2 mientras está aturdido (el panel de refrigeración de la espalda queda expuesto).
+- Los barriles o botellas explosivos le hacen daño alto.
+
+## 3. Comportamiento: máquina de estados finitos (FSM)
+Estados: Inactivo (esperando al jugador) → Idle → Caminar/Perseguir → Ataque → Aturdido → Alarma → Muerte.
+El jefe se activa cuando el jugador entra en la zona de arena.
+Ataques (cada uno con una señal visual clara antes de ejecutarse):
+1. Ráfaga de ametralladora: dispara ráfagas horizontales lentas con la animación de disparo. Proyectil con pool o prefab simple. El jugador puede esquivarlas saltando o agachándose.
+2. Embestida: primero la animación de aviso (ojo y luz de alarma en rojo, ~0.8 s), después corre en línea recta hacia el jugador.
+   - Si choca contra la pared de la arena, pasa a Aturdido unos 3 segundos con efecto de chispas, y queda vulnerable (daño x2).
+   - Si no choca, se detiene con una breve recuperación.
+3. Llamado de drones (solo fase 2): reproduce la animación de alarma e invoca 2 Drones Básicos. Máximo 2 vivos a la vez.
+Elige el siguiente ataque por distancia y cooldown, sin repetir el mismo más de 2 veces seguidas.
+
+Fases:
+- Fase 1 (100% a 50% de vida): ráfagas y embestida, a ritmo constante y predecible.
+- Fase 2 (50% a 0%): al cruzar el 50% la transición es inmediata, con la animación de alarma, un pequeño temblor de cámara y estos cambios SOLO por código:
+  - tinte rojizo con pulso en el SpriteRenderer,
+  - +35% de velocidad,
+  - cooldowns -30%,
+  - añade el llamado de drones.
+- Al llegar al 20%: efecto de partículas (se rompe el blindaje) y recibe +25% de daño. Sin sprites nuevos.
+- Feedback al recibir daño: parpadeo blanco corto con color o shader, sin sprite extra.
+
+## 4. Arena y nivel
+- Zona de activación: al entrar, se bloquea la salida (barreras que se cierran) y la cámara amplía el área visible para ver al jefe completo (usa Cinemachine si ya está en el proyecto, si no, ajusta la cámara existente).
+- Limita la cámara a la arena durante la pelea.
+- Coloca 2 o 3 barriles o botellas de combustible explosivos en la arena y un par de plataformas bajas.
+- Checkpoint justo antes de la zona de activación.
+- Música de jefe y SFX (disparo, embestida, aturdido, muerte): deja AudioSources o referencias listas para asignar. Si no tengo los clips, no falla nada.
+
+## 5. UI
+- Barra de vida del jefe en la parte inferior o superior de la pantalla, visible solo durante la pelea, con el nombre "Centinela de Acceso". Respeta el estilo minimalista del HUD actual.
+
+## 6. Derrota del jefe
+- Reproduce la animación de muerte, desactiva sus colisiones y ataques, destruye a los drones que queden.
+- Suelta monedas extra y un kit de reparación.
+- Abre las barreras, restaura la cámara y activa el fin del nivel (o el evento que ya use el juego para pasar a la tienda o al siguiente nivel).
+
+## 7. Cómo trabajar
+- Organiza los archivos: scripts en Assets/Scripts/Enemigos/Jefe1, prefab del jefe en Assets/Prefabs/Enemigos, animaciones y controller dentro de Assets/Arte/Enemigos/Jefe1.
+- Crea primero un prefab "Jefe1_Centinela" con Rigidbody2D, colliders (cuerpo y hitbox del panel débil), el Animator, el SpriteRenderer y los scripts.
+- Código limpio y comentado en español, sin errores de compilación ni warnings nuevos. Consulta la consola de Unity después de cada cambio.
+- Prueba en Play Mode: que el jefe se active, recorra las fases, el aturdimiento funcione, el daño del jugador le haga efecto y muera correctamente. Haz capturas si puedes.
+- Si algo no está claro, o hay una decisión que cambie mucho el resultado (por ejemplo cómo se pasa de nivel), pregúntame antes de seguir en lugar de adivinar.
+
+## 8. Al terminar, dame un reporte corto
+- Qué archivos creaste o modificaste.
+- Qué reutilizaste del proyecto y qué tuviste que crear porque no existía.
+- Qué valores debo ajustar a mano en el Inspector (balance de vida, daño y cooldowns).
+- Qué quedó pendiente o con fallback (clips de audio, sprites faltantes).

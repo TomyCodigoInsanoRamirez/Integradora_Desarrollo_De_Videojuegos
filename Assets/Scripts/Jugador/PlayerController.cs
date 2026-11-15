@@ -213,7 +213,8 @@ public class PlayerController : MonoBehaviour
         Collider2D[] hits = Physics2D.OverlapCircleAll(checkPoint, groundCheckRadius);
         foreach (Collider2D hit in hits)
         {
-            if (hit != null && hit != col)
+            // Triggers (checkpoints, zonas, objetos) y colliders que el jugador atraviesa (el jefe) no son suelo
+            if (hit != null && hit != col && !hit.isTrigger && !Physics2D.GetIgnoreCollision(col, hit))
             {
                 isGrounded = true;
                 break;

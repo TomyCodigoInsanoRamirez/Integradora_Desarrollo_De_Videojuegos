@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: c66c9b11bbed456419188f82cbe28c3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8312369303578991710
+    second: Botiquin_0
+  - first:
+      213: 4460968669413399066
+    second: Botiquin_1
+  - first:
+      213: 2971147376586162246
+    second: Botiquin_2
+  - first:
+      213: -8129556544770275008
+    second: Botiquin_3
+  - first:
+      213: -1330759857661187705
+    second: Botiquin_4
+  - first:
+      213: -4193744959225440095
+    second: Botiquin_5
+  - first:
+      213: -671104903881530646
+    second: Botiquin_6
+  - first:
+      213: 380949921215206128
+    second: Botiquin_7
+  - first:
+      213: -8428740745366704414
+    second: Botiquin_8
+  - first:
+      213: -1698189840666732647
+    second: Botiquin_9
+  - first:
+      213: -6705873278942700999
+    second: Botiquin_10
+  - first:
+      213: 6679745957550570035
+    second: Botiquin_11
+  - first:
+      213: -2769257804863722763
+    second: Botiquin_12
+  - first:
+      213: 3541303247894526008
+    second: Botiquin_13
+  - first:
+      213: -1568703109676996104
+    second: Botiquin_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 307.69
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Botiquin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 258
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39637ad3075366b4891dfcd626b8943a
+      internalID: 8312369303578991710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botiquin_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 258
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311847634cdfe9744a3cca412fe8715c
+      internalID: 4460968669413399066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botiquin_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 258
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872d4f68de0a70d4eaca7d1598d0f47f
+      internalID: 2971147376586162246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botiquin_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 258
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882f0f5797f85cd439c68b8f3659cc70
+      internalID: -8129556544770275008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botiquin_4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 258
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a66a0efc4721594bb68275a0af4d5fb
+      internalID: -1330759857661187705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a348e4a7bfc1c9e48b30251acb5b9cbd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Botiquin_0: 8312369303578991710
+      Botiquin_1: 4460968669413399066
+      Botiquin_10: -6705873278942700999
+      Botiquin_11: 6679745957550570035
+      Botiquin_12: -2769257804863722763
+      Botiquin_13: 3541303247894526008
+      Botiquin_14: -1568703109676996104
+      Botiquin_2: 2971147376586162246
+      Botiquin_3: -8129556544770275008
+      Botiquin_4: -1330759857661187705
+      Botiquin_5: -4193744959225440095
+      Botiquin_6: -671104903881530646
+      Botiquin_7: 380949921215206128
+      Botiquin_8: -8428740745366704414
+      Botiquin_9: -1698189840666732647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

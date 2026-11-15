@@ -32,6 +32,14 @@ public class IndicadoresUI : MonoBehaviour
     private struct Aviso { public Vector3 posicion; public float fin; }
     private static readonly List<Aviso> avisos = new List<Aviso>();
 
+    private static IndicadoresUI instancia;
+
+    // Cambia hasta dónde hay "a dónde avanzar" (por ejemplo, al abrirse la salida tras el jefe)
+    public static void CambiarFinNivel(float x)
+    {
+        if (instancia != null) instancia.xFinNivel = x;
+    }
+
     // Muestra la flecha de advertencia apuntando hacia 'posicionMundo' durante 'duracion' segundos
     public static void Advertir(Vector3 posicionMundo, float duracion)
     {
@@ -50,6 +58,7 @@ public class IndicadoresUI : MonoBehaviour
 
     private void Awake()
     {
+        instancia = this;
         avisos.Clear();
         var canvasGO = new GameObject("Indicadores_Canvas");
         canvasGO.transform.SetParent(transform, false);

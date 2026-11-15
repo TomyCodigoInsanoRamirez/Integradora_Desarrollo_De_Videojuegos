@@ -29,6 +29,54 @@ public class CameraFollow : MonoBehaviour
         shakeTime = 0f;
     }
 
+    // Modo arena (pelea de jefe): la cámara se abre a otro tamaño y no sale de un rango en X
+    private static CameraFollow instancia;
+    private Camera cam;
+    private bool enArena;
+    private float arenaMinX, arenaMaxX, arenaCentroY;
+    private float tamanoNormal;
+    private float tamanoObjetivo;
+    private float velocidadZoom;   // unidades de tamaño por segundo
+
+    // Abre la cámara a 'tamano' y la limita a [minX, maxX] con el centro vertical en 'centroY'
+    public static void FijarArena(float minX, float maxX, float centroY, float tamano, float duracion)
+    {
+        if (instancia == null || instancia.cam == null) return;
+        var c = instancia;
+        if (!c.enArena) c.tamanoNormal = c.cam.orthographicSize;
+        c.enArena = true;
+        c.arenaMinX = minX;
+        c.arenaMaxX = maxX;
+        c.arenaCentroY = centroY;
+        c.IniciarZoom(tamano, duracion);
+    }
+
+    // Vuelve a seguir al jugador con el tamaño de antes de la arena
+    public static void LiberarArena(float duracion)
+    {
+        if (instancia == null || !instancia.enArena) return;
+        instancia.enArena = false;
+        instancia.IniciarZoom(instancia.tamanoNormal, duracion);
+    }
+
+    private void IniciarZoom(float tamano, float duracion)
+    {
+        tamanoObjetivo = tamano;
+        velocidadZoom = Mathf.Abs(tamano - cam.orthographicSize) / Mathf.Max(0.01f, duracion);
+    }
+
+    private void Awake()
+    {
+        instancia = this;
+        cam = GetComponent<Camera>();
+        tamanoObjetivo = -1f;
+    }
+
+    private void OnDestroy()
+    {
+        if (instancia == this) instancia = null;
+    }
+
     public void SetTarget(Transform newTarget)
     {
         target = newTarget;
@@ -54,6 +102,24 @@ public class CameraFollow : MonoBehaviour
             focusX,
             target.position.y + offset.y,
             transform.position.z);
+
+        // Zoom gradual hacia el tamaño pedido (arena o el normal al salir)
+        if (cam != null && tamanoObjetivo > 0f)
+        {
+            cam.orthographicSize = Mathf.MoveTowards(cam.orthographicSize, tamanoObjetivo, velocidadZoom * Time.deltaTime);
+            if (Mathf.Approximately(cam.orthographicSize, tamanoObjetivo)) tamanoObjetivo = -1f;
+        }
+
+        // En la arena la vista no sale de sus límites; si la arena es más angosta que la vista, se centra
+        if (enArena && cam != null)
+        {
+            float mitad = cam.orthographicSize * cam.aspect;
+            float x = (arenaMaxX - arenaMinX) <= mitad * 2f
+                ? (arenaMinX + arenaMaxX) * 0.5f
+                : Mathf.Clamp(targetPosition.x, arenaMinX + mitad, arenaMaxX - mitad);
+            targetPosition = new Vector3(x, arenaCentroY, targetPosition.z);
+            focusX = x;
+        }
 
         // El suavizado se calcula sin la sacudida, para que esta no altere el seguimiento
         if (!hasSmoothed) { smoothedPosition = transform.position; hasSmoothed = true; }

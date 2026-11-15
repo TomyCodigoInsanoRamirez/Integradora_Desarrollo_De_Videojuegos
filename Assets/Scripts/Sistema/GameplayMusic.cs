@@ -19,6 +19,18 @@ public class GameplayMusic : MonoBehaviour
     private float fadeT;       // progreso del fundido actual (0..1)
     private float fadeDuration;
 
+    // Silencio temporal (por ejemplo durante la música del jefe): multiplica el volumen
+    private float silencio = 1f;
+    private float silencioObjetivo = 1f;
+    private float silencioVelocidad = 1f;
+
+    // Baja (true) o recupera (false) la música del nivel con un fundido de 'duracion' segundos
+    public void Silenciar(bool silenciar, float duracion)
+    {
+        silencioObjetivo = silenciar ? 0f : 1f;
+        silencioVelocidad = 1f / Mathf.Max(0.01f, duracion);
+    }
+
     private void Awake()
     {
         sources = new AudioSource[2];
@@ -48,22 +60,24 @@ public class GameplayMusic : MonoBehaviour
     {
         AudioSource cur = sources[active];
         AudioSource prev = sources[1 - active];
+        silencio = Mathf.MoveTowards(silencio, silencioObjetivo, silencioVelocidad * Time.unscaledDeltaTime);
+        float vol = volume * silencio;
 
         // Avance del fundido: sube la pista actual y baja la anterior
         if (fadeT < 1f)
         {
             fadeT = fadeDuration > 0f ? Mathf.Clamp01(fadeT + Time.unscaledDeltaTime / fadeDuration) : 1f;
             float k = Mathf.SmoothStep(0f, 1f, fadeT);
-            cur.volume = volume * k;
+            cur.volume = vol * k;
             if (prev.isPlaying)
             {
-                prev.volume = volume * (1f - k);
+                prev.volume = vol * (1f - k);
                 if (fadeT >= 1f) prev.Stop();
             }
         }
         else
         {
-            cur.volume = volume;   // permite ajustar el volumen en vivo desde el Inspector
+            cur.volume = vol;   // permite ajustar el volumen en vivo desde el Inspector
         }
 
         // Cerca del final de la pista, empieza la siguiente

@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: d2daa2bf467dd144095f3eb4f90d900c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1103877054690036679
+    second: Boss nivel 1-advertenciaembestida_0
+  - first:
+      213: 7478602175745548141
+    second: Boss nivel 1-advertenciaembestida_1
+  - first:
+      213: 8047006531125356805
+    second: Boss nivel 1-advertenciaembestida_2
+  - first:
+      213: -3860334848090054429
+    second: Boss nivel 1-advertenciaembestida_3
+  - first:
+      213: -1728888117581336240
+    second: Boss nivel 1-advertenciaembestida_4
+  - first:
+      213: -1234061538845811056
+    second: Boss nivel 1-advertenciaembestida_5
+  - first:
+      213: -4981974490325003453
+    second: Boss nivel 1-advertenciaembestida_6
+  - first:
+      213: -6611687212146070616
+    second: Boss nivel 1-advertenciaembestida_7
+  - first:
+      213: -3022242082860866406
+    second: Boss nivel 1-advertenciaembestida_8
+  - first:
+      213: 3246564238676388605
+    second: Boss nivel 1-advertenciaembestida_9
+  - first:
+      213: -8781909802386452742
+    second: Boss nivel 1-advertenciaembestida_10
+  - first:
+      213: 342915712603082236
+    second: Boss nivel 1-advertenciaembestida_11
+  - first:
+      213: -2258568606354476034
+    second: Boss nivel 1-advertenciaembestida_12
+  - first:
+      213: 5433068961573529639
+    second: Boss nivel 1-advertenciaembestida_13
+  - first:
+      213: -353914131842743183
+    second: Boss nivel 1-advertenciaembestida_14
+  - first:
+      213: -4520125583588198606
+    second: Boss nivel 1-advertenciaembestida_15
+  - first:
+      213: -2490666103525443825
+    second: Boss nivel 1-advertenciaembestida_16
+  - first:
+      213: 7129300097323281458
+    second: Boss nivel 1-advertenciaembestida_17
+  - first:
+      213: -9099177697586186146
+    second: Boss nivel 1-advertenciaembestida_18
+  - first:
+      213: -6808532317097340677
+    second: Boss nivel 1-advertenciaembestida_19
+  - first:
+      213: 5469679137625282924
+    second: Boss nivel 1-advertenciaembestida_20
+  - first:
+      213: -5382547448330776842
+    second: Boss nivel 1-advertenciaembestida_21
+  - first:
+      213: 6911178216682722426
+    second: Boss nivel 1-advertenciaembestida_22
+  - first:
+      213: -5584236523763343966
+    second: Boss nivel 1-advertenciaembestida_23
+  - first:
+      213: -274622101553113473
+    second: Boss nivel 1-advertenciaembestida_24
+  - first:
+      213: 239905976540774273
+    second: Boss nivel 1-advertenciaembestida_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 119
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9552ffa620d60c144ac4d2c3a215718c
+      internalID: -553444903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece36e711d38e24fac0ed2a4cebf6d6
+      internalID: -1944971822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_02
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ef050177dc4f4c83aa1ee3425dadd
+      internalID: -523319510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_03
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1329ba1991836745960df7eb8e3a422
+      internalID: -1705798662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_04
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5b306382e9aae409708752316e5a05
+      internalID: -1040130778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ec553ae16b43478a841af5a14b4de
+      internalID: 216065696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_06
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4740a32abf1bf4f90accd484ca5669
+      internalID: 1856126055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_07
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41d9baabb3dd31469c407161b49596d
+      internalID: -1451356739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d133f4ef3ca544b9f96a4aeb11b313
+      internalID: 1840782064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_09
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3df0bd5e1326b841896fb2178547589
+      internalID: -745557893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539420b59d760734283005ed0d24c360
+      internalID: 46343186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0e9e1b3dc68554998f3a74c8bf69c2
+      internalID: -491780092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be1574bc0715314380776046e614bd9
+      internalID: 1239820766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de2f70a998e7714ca0f5b51cc513bfa
+      internalID: -1593747235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fac3e210fb13224683fe02f4d15750e
+      internalID: -1821563356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd6a581a8c9ccf419c6ce67dd2e4a89
+      internalID: -1756973462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be4e21682b5c3c4a956190018683328
+      internalID: 879409556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ecdf127ee3ae944b7c02c187be407e
+      internalID: -1834468260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d33bcce0e53804e9243ecbf3d59172
+      internalID: -1248852435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34b800f41ae9ea44b032c52e2d41fb5
+      internalID: 1343886897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dc29c13820627428a7e0112ab56412
+      internalID: -1099105482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cee3fb151675b49acc066ab47dc896
+      internalID: 456110556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f698a1d3a75af4dba83b958f054b7f
+      internalID: -2119305070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc586b8584e5eb43b7203eacaca8363
+      internalID: -1616250625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_AvisoEmbestida_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0.11328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8b3444d91625c44b7f82d2a37c5f0c
+      internalID: -1475370643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a236a770e407f344b9ced99a2ff05ba4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss nivel 1-advertenciaembestida_0: 1103877054690036679
+      Boss nivel 1-advertenciaembestida_1: 7478602175745548141
+      Boss nivel 1-advertenciaembestida_10: -8781909802386452742
+      Boss nivel 1-advertenciaembestida_11: 342915712603082236
+      Boss nivel 1-advertenciaembestida_12: -2258568606354476034
+      Boss nivel 1-advertenciaembestida_13: 5433068961573529639
+      Boss nivel 1-advertenciaembestida_14: -353914131842743183
+      Boss nivel 1-advertenciaembestida_15: -4520125583588198606
+      Boss nivel 1-advertenciaembestida_16: -2490666103525443825
+      Boss nivel 1-advertenciaembestida_17: 7129300097323281458
+      Boss nivel 1-advertenciaembestida_18: -9099177697586186146
+      Boss nivel 1-advertenciaembestida_19: -6808532317097340677
+      Boss nivel 1-advertenciaembestida_2: 8047006531125356805
+      Boss nivel 1-advertenciaembestida_20: 5469679137625282924
+      Boss nivel 1-advertenciaembestida_21: -5382547448330776842
+      Boss nivel 1-advertenciaembestida_22: 6911178216682722426
+      Boss nivel 1-advertenciaembestida_23: -5584236523763343966
+      Boss nivel 1-advertenciaembestida_24: -274622101553113473
+      Boss nivel 1-advertenciaembestida_25: 239905976540774273
+      Boss nivel 1-advertenciaembestida_3: -3860334848090054429
+      Boss nivel 1-advertenciaembestida_4: -1728888117581336240
+      Boss nivel 1-advertenciaembestida_5: -1234061538845811056
+      Boss nivel 1-advertenciaembestida_6: -4981974490325003453
+      Boss nivel 1-advertenciaembestida_7: -6611687212146070616
+      Boss nivel 1-advertenciaembestida_8: -3022242082860866406
+      Boss nivel 1-advertenciaembestida_9: 3246564238676388605
+      Jefe1_AvisoEmbestida_00: -553444903
+      Jefe1_AvisoEmbestida_01: -1944971822
+      Jefe1_AvisoEmbestida_02: -523319510
+      Jefe1_AvisoEmbestida_03: -1705798662
+      Jefe1_AvisoEmbestida_04: -1040130778
+      Jefe1_AvisoEmbestida_05: 216065696
+      Jefe1_AvisoEmbestida_06: 1856126055
+      Jefe1_AvisoEmbestida_07: -1451356739
+      Jefe1_AvisoEmbestida_08: 1840782064
+      Jefe1_AvisoEmbestida_09: -745557893
+      Jefe1_AvisoEmbestida_10: 46343186
+      Jefe1_AvisoEmbestida_11: -491780092
+      Jefe1_AvisoEmbestida_12: 1239820766
+      Jefe1_AvisoEmbestida_13: -1593747235
+      Jefe1_AvisoEmbestida_14: -1821563356
+      Jefe1_AvisoEmbestida_15: -1756973462
+      Jefe1_AvisoEmbestida_16: 879409556
+      Jefe1_AvisoEmbestida_17: -1834468260
+      Jefe1_AvisoEmbestida_18: -1248852435
+      Jefe1_AvisoEmbestida_19: 1343886897
+      Jefe1_AvisoEmbestida_20: -1099105482
+      Jefe1_AvisoEmbestida_21: 456110556
+      Jefe1_AvisoEmbestida_22: -2119305070
+      Jefe1_AvisoEmbestida_23: -1616250625
+      Jefe1_AvisoEmbestida_24: -1475370643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

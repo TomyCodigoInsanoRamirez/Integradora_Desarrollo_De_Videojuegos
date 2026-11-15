@@ -1,0 +1,141 @@
+PETICIÓN DE ARTE - JEFE DEL NIVEL 1 ("CENTINELA DE ACCESO")
+==========================================================
+
+Este archivo lista el arte que haría falta para que la pelea del jefe se vea terminada.
+Hoy la pelea funciona completa, pero varias piezas son provisionales (hechas por código
+o reutilizadas de otra cosa). Está ordenado por prioridad: lo de arriba es lo que más se nota.
+
+REGLAS GENERALES (para todo lo que se entregue)
+-----------------------------------------------
+- Formato: PNG con transparencia, sin fondo (nada de magenta ni blanco de fondo).
+- Estilo: el mismo pixel art del juego (noche, tonos azulados, metal oxidado, verde militar).
+- Hojas de animación: cuadrícula regular, TODOS los cuadros del mismo tamaño,
+  y el personaje dibujado SIEMPRE A LA MISMA ESCALA en todas las hojas.
+  (Las hojas actuales del jefe no lo cumplen: en "disparo" el robot es ~23% más grande
+  que en "idle" y en "caminar" ~9% más grande; lo compensé en Unity, pero conviene corregirlo.)
+- Los pies (o la base del objeto) siempre a la misma altura dentro del cuadro.
+- Mirando a la DERECHA (el juego los voltea por código).
+- Densidad de pixel: unos 64 pixeles por unidad del juego (el jugador está a 56 y el dron a 71).
+  Abajo indico el tamaño en el juego ("u" = unidades) y el tamaño en pixeles recomendado.
+  Como referencia: el jugador mide unas 3 u de alto.
+
+
+PRIORIDAD ALTA
+==============
+
+1) Hoja "aturdido" del jefe  (FALTA - hoy uso un cuadro congelado del aviso de embestida)
+   - Qué pasa en el juego: choca de frente contra la compuerta de la arena y queda
+     aturdido 3 segundos. En ese momento el panel de refrigeración de la ESPALDA
+     (el radiador naranja) queda expuesto y recibe el doble de daño.
+   - Lo ideal: el robot tambaleándose / encorvado, con chispas saliendo del cuerpo,
+     la luz de la cabeza parpadeando y el radiador de la espalda más brillante o abierto
+     (para que el jugador entienda que ahí debe disparar).
+   - Cuadros: 8 a 12, en bucle (se repite mientras dura el aturdimiento).
+   - Opcional: 3 a 4 cuadros extra de "recuperarse" (se endereza) al terminar.
+   - Mismo formato que las otras hojas del jefe: cuadros de 256x256, 5 por fila.
+
+2) Hojas del jefe a mayor resolución  (OPCIONAL pero es lo que más mejoraría el aspecto)
+   - Hoy el jefe está a 33 px por unidad (se escala x3 en el juego), así que se ve con
+     pixeles mucho más gruesos que el jugador, los drones y el escenario.
+   - Si se pueden rehacer/exportar las 8 hojas (idle, caminar, aviso de embestida,
+     embestida, aturdido, disparo, alarma/llamado de drones, muerte) con cuadros de
+     512x512 px y el robot de unos 330 px de alto, quedaría a la par del resto.
+   - Si se hacen, mantener exactamente la misma cantidad de cuadros y el mismo orden.
+
+3) Compuerta / barrera de la arena  (PROVISIONAL - hecha por código)
+   - Qué hace: dos compuertas (izquierda y derecha) que caen desde arriba y encierran
+     al jugador con el jefe; al ganar suben. El jefe choca contra ellas en la embestida.
+   - Tamaño en el juego: 1.25 u de ancho x 9 u de alto  ->  ~80 x 576 px.
+   - Idea: compuerta o persiana metálica industrial/militar, con franjas de peligro
+     amarillo-negro abajo, remaches, algo de óxido. Que se lea como "pared que bloquea".
+   - Extra deseable: una versión "golpeada" (abollada) o 2-3 cuadros de vibración para
+     cuando el jefe choca contra ella.
+   - Opcional: el marco/riel fijo por donde baja (puede ser una pieza aparte), y luces
+     de alerta rojas que se encienden al cerrarse.
+
+4) Plataformas bajas  (PROVISIONAL - hechas por código; hoy flotan sin soporte)
+   - Qué hacen: el jugador se sube para esquivar la embestida (se pasan desde abajo).
+   - Tamaño: 4 u de ancho x 0.6 u de grosor  ->  ~256 x 40 px. La superficie de arriba
+     debe ser plana y el borde superior es donde pisa el jugador.
+   - Idea: pasarela de metal/andamio con rejilla y franja de peligro, CON patas o soportes
+     que bajen hasta el suelo (unas 2.5 u de alto -> la pieza completa ~256 x 200 px,
+     o la pasarela y las patas por separado).
+   - Debe combinar con el pueblo en ruinas (puede ser un andamio de obra abandonado,
+     un tablón sobre bidones, una pasarela de un camión, etc.).
+
+
+PRIORIDAD MEDIA
+===============
+
+5) Barril / bidón de combustible explosivo  (PROVISIONAL - es el barril oxidado del
+   escenario pintado de naranja)
+   - Tamaño: ~0.9 u de ancho x 1.6 u de alto  ->  ~58 x 104 px.
+   - Debe distinguirse claramente de los barriles decorativos del fondo: rojo o amarillo,
+     símbolo de inflamable/peligro, quizá una pequeña fuga o goteo.
+   - Deseable: 2-3 cuadros de "parpadeo" o una versión dañada (por si luego hacemos que
+     aguante más de un disparo).
+
+6) Bala del jefe  (PROVISIONAL - usa la misma bala del jugador)
+   - Las balas del jefe son lentas y van en línea recta horizontal: el jugador debe verlas
+     venir para agacharse o saltar. Tienen que verse diferentes a las del jugador.
+   - Tamaño: ~0.5 x 0.25 u  ->  ~32 x 16 px. Mirando a la derecha.
+   - Idea: proyectil de ametralladora pesada, brillante (rojo/naranja) con estela corta.
+   - 2 a 4 cuadros en bucle (brillo/pulso).
+
+7) Moneda  (PROVISIONAL - hecha por código, sin animación)
+   - El jefe suelta 12 al morir; también servirán para la tienda.
+   - Tamaño: 0.5 u  ->  ~32 x 32 px.
+   - Animación de giro: 6 a 8 cuadros en bucle. Opcional: 3-4 cuadros de brillo al recogerla.
+
+8) Kit de reparación  (PROVISIONAL - hecho por código)
+   - El jefe lo suelta al morir; recupera vida.
+   - Tamaño: ~0.8 x 0.65 u  ->  ~52 x 42 px.
+   - Idea: caja de herramientas o maletín militar con cruz / llave inglesa, que se lea
+     como "curación". Opcional: 2-4 cuadros de brillo para que llame la atención.
+
+9) Checkpoint  (HOY ES INVISIBLE)
+   - Está justo antes de la arena; si el jugador muere en la pelea, reaparece ahí.
+   - Tamaño: ~1 u de ancho x 2.5 u de alto  ->  ~64 x 160 px.
+   - Dos estados: apagado y encendido (por ejemplo una baliza/radio con luz roja que pasa
+     a verde, o una bandera). Opcional: 3-4 cuadros de "se activa".
+
+
+PRIORIDAD BAJA (pulido)
+=======================
+
+10) Efectos
+   - Chispas de aturdimiento: 4-6 cuadros, ~32 x 32 px cada uno (hoy son partículas genéricas).
+   - Pedazos de blindaje que se desprenden al 20% de vida: 3-5 piezas sueltas de placa
+     verde militar, ~16-32 px (hoy son partículas genéricas de escombro).
+   - Polvo/humo al frenar o al chocar en la embestida: 5-6 cuadros, ~96 x 48 px.
+   - Onda/destello de alarma para la fase 2 (cuando se pone rojo): opcional.
+
+11) UI de la barra de vida del jefe
+   - Hoy es una barra simple (fondo oscuro, relleno rojo) con el nombre arriba; funciona
+     bien con el estilo minimalista del HUD.
+   - Si se quiere más identidad: un marco delgado para la barra (~900 x 24 px en pantalla)
+     y un ícono/retrato pequeño de la cabeza del Centinela (~64 x 64 px).
+
+12) Ambientación de la arena (opcional)
+   - Algo que marque que es "el acceso" que custodia el Centinela: un letrero de
+     "ZONA RESTRINGIDA" / "ACCESO", reflectores, alambre de púas, sacos de arena.
+     Va de decoración en el fondo (no debe estorbar el paso del jugador).
+
+
+AUDIO (no es arte, pero hoy también falta)
+=========================================
+Los campos ya existen en el Inspector; si se consiguen, solo hay que asignarlos:
+música del jefe, aviso de embestida, embestida (carrera), choque contra la pared,
+aturdido (bucle corto), alarma, muerte/explosión del jefe, compuerta cerrándose y abriéndose,
+explosión del barril, recoger moneda, recoger kit y activar checkpoint.
+
+
+DÓNDE PONER LOS ARCHIVOS
+========================
+- Hojas del jefe y efectos del jefe:  Assets/Arte/Enemigos/Jefe1/
+- Compuerta, plataformas, barril, moneda, kit, checkpoint:  Assets/Arte/Enemigos/Jefe1/Arena/
+  (pueden reemplazar a los provisionales que ya están ahí con el MISMO nombre de archivo,
+  así Unity los cambia sin tocar la escena: Compuerta.png, Plataforma.png,
+  Moneda.png, KitReparacion.png. OJO: los provisionales están configurados a 32 px por
+  unidad; al reemplazarlos hay que ajustar el "Pixels Per Unit" o se verán al doble de
+  tamaño. Avísenle a Claude cuando estén y lo ajusta junto con colliders y animaciones.)

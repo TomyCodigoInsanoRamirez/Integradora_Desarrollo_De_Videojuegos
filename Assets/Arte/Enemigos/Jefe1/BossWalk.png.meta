@@ -1,0 +1,807 @@
+fileFormatVersion: 2
+guid: d73936fc96f868e4e92b56cdb6411676
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6102251819196971422
+    second: Boss nivel 1-boss_walk_0
+  - first:
+      213: -1431699326903371208
+    second: Boss nivel 1-boss_walk_1
+  - first:
+      213: 5592676196822676601
+    second: Boss nivel 1-boss_walk_2
+  - first:
+      213: 9176690575985284224
+    second: Boss nivel 1-boss_walk_3
+  - first:
+      213: 7959442790780372407
+    second: Boss nivel 1-boss_walk_4
+  - first:
+      213: -3617466270087742794
+    second: Boss nivel 1-boss_walk_5
+  - first:
+      213: 6763622120878611522
+    second: Boss nivel 1-boss_walk_6
+  - first:
+      213: -3460424927321667116
+    second: Boss nivel 1-boss_walk_7
+  - first:
+      213: -386773423256794434
+    second: Boss nivel 1-boss_walk_8
+  - first:
+      213: 7470388529368874489
+    second: Boss nivel 1-boss_walk_9
+  - first:
+      213: 8493628692177582338
+    second: Boss nivel 1-boss_walk_10
+  - first:
+      213: -1790894818446489383
+    second: Boss nivel 1-boss_walk_11
+  - first:
+      213: 7558327372321402540
+    second: Boss nivel 1-boss_walk_12
+  - first:
+      213: 6662767849141488451
+    second: Boss nivel 1-boss_walk_13
+  - first:
+      213: -7462896701088253770
+    second: Boss nivel 1-boss_walk_14
+  - first:
+      213: 6798383579903386022
+    second: Boss nivel 1-boss_walk_15
+  - first:
+      213: -2225318618928070095
+    second: Boss nivel 1-boss_walk_16
+  - first:
+      213: 7272191279678794770
+    second: Boss nivel 1-boss_walk_17
+  - first:
+      213: -8088597579061253134
+    second: Boss nivel 1-boss_walk_18
+  - first:
+      213: 2856424677954941574
+    second: Boss nivel 1-boss_walk_19
+  - first:
+      213: 5941484838567544874
+    second: Boss nivel 1-boss_walk_20
+  - first:
+      213: -3129065979719637218
+    second: Boss nivel 1-boss_walk_21
+  - first:
+      213: -7897776829534163655
+    second: Boss nivel 1-boss_walk_22
+  - first:
+      213: 4135017405998980541
+    second: Boss nivel 1-boss_walk_23
+  - first:
+      213: -6653800428197755789
+    second: Boss nivel 1-boss_walk_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 109
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jefe1_Caminar_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba47d81e970e6244a0ae2be92640708
+      internalID: -1555894305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2bfb008fa3c614ea97cb5ad53dbe18
+      internalID: 1342374884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_02
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5ffa1c6563af84b83dba68d3804132
+      internalID: 1325188572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_03
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ad9ff78654d4d4dbc2fe6c7d9e1225
+      internalID: 618780915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_04
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6268be36740b4db952659d73956f2
+      internalID: 755364256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64964f3abd744f842a11923a45baa509
+      internalID: -1383737085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_06
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470dc07f900c8af43887fb8e2f9e1caa
+      internalID: -1510421392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_07
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd147316b489eba40bb62e9b32dc44c0
+      internalID: -1121562681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b367cb29c6f2c84a93e128ab2bc4c7f
+      internalID: 307388557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_09
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7fbad7d2e071245ad72adf52f2fb56
+      internalID: -1464792751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24af4370caff334d990132154c99f5d
+      internalID: 31639383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78637573d82dfdb4cb7b868d6de469e0
+      internalID: 184737836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6128822fa814ff4b9fac5db16961d49
+      internalID: -850257264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ef657421ab5e46ad4575afb34a77d
+      internalID: 30217713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2710b7ab0e60d084395b57c4dc0ace32
+      internalID: 1182540720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6536c4b9f293dec4eab447a39ce08d64
+      internalID: 861084734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a04195ae30f2d4fbbab8727ad15d14
+      internalID: -834461374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f855e2e2463e04b4683657205c249226
+      internalID: 115960604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f8b3e675bbf641941555f4c2d4f46
+      internalID: 2091790747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041be26a0ddb60b4db7b965ca50f967c
+      internalID: 7283411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befb99e732dc7c349a059c0db3657268
+      internalID: 2019421770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b319782dfdd38a54687beaab87d1e71c
+      internalID: -1515279850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b97bae4c606394a86e0a895c91bdf3
+      internalID: -184489729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c4c70a8e34e047be6ffa901233f91
+      internalID: 1930257309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Caminar_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.12890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b925a7861e6893d4c8d4c424a36584ae
+      internalID: -264125928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0ed18b2ca407e7245941e127b3c76bd7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss nivel 1-boss_walk_0: 6102251819196971422
+      Boss nivel 1-boss_walk_1: -1431699326903371208
+      Boss nivel 1-boss_walk_10: 8493628692177582338
+      Boss nivel 1-boss_walk_11: -1790894818446489383
+      Boss nivel 1-boss_walk_12: 7558327372321402540
+      Boss nivel 1-boss_walk_13: 6662767849141488451
+      Boss nivel 1-boss_walk_14: -7462896701088253770
+      Boss nivel 1-boss_walk_15: 6798383579903386022
+      Boss nivel 1-boss_walk_16: -2225318618928070095
+      Boss nivel 1-boss_walk_17: 7272191279678794770
+      Boss nivel 1-boss_walk_18: -8088597579061253134
+      Boss nivel 1-boss_walk_19: 2856424677954941574
+      Boss nivel 1-boss_walk_2: 5592676196822676601
+      Boss nivel 1-boss_walk_20: 5941484838567544874
+      Boss nivel 1-boss_walk_21: -3129065979719637218
+      Boss nivel 1-boss_walk_22: -7897776829534163655
+      Boss nivel 1-boss_walk_23: 4135017405998980541
+      Boss nivel 1-boss_walk_24: -6653800428197755789
+      Boss nivel 1-boss_walk_3: 9176690575985284224
+      Boss nivel 1-boss_walk_4: 7959442790780372407
+      Boss nivel 1-boss_walk_5: -3617466270087742794
+      Boss nivel 1-boss_walk_6: 6763622120878611522
+      Boss nivel 1-boss_walk_7: -3460424927321667116
+      Boss nivel 1-boss_walk_8: -386773423256794434
+      Boss nivel 1-boss_walk_9: 7470388529368874489
+      Jefe1_Caminar_00: -1555894305
+      Jefe1_Caminar_01: 1342374884
+      Jefe1_Caminar_02: 1325188572
+      Jefe1_Caminar_03: 618780915
+      Jefe1_Caminar_04: 755364256
+      Jefe1_Caminar_05: -1383737085
+      Jefe1_Caminar_06: -1510421392
+      Jefe1_Caminar_07: -1121562681
+      Jefe1_Caminar_08: 307388557
+      Jefe1_Caminar_09: -1464792751
+      Jefe1_Caminar_10: 31639383
+      Jefe1_Caminar_11: 184737836
+      Jefe1_Caminar_12: -850257264
+      Jefe1_Caminar_13: 30217713
+      Jefe1_Caminar_14: 1182540720
+      Jefe1_Caminar_15: 861084734
+      Jefe1_Caminar_16: -834461374
+      Jefe1_Caminar_17: 115960604
+      Jefe1_Caminar_18: 2091790747
+      Jefe1_Caminar_19: 7283411
+      Jefe1_Caminar_20: 2019421770
+      Jefe1_Caminar_21: -1515279850
+      Jefe1_Caminar_22: -184489729
+      Jefe1_Caminar_23: 1930257309
+      Jefe1_Caminar_24: -264125928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

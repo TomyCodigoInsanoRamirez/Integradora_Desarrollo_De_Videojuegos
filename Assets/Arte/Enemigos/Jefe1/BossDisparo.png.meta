@@ -1,0 +1,903 @@
+fileFormatVersion: 2
+guid: d9bcb4b62ec91354a80cd18833d62aa4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5942444844842463018
+    second: Boss nivel 1-disparo_0
+  - first:
+      213: -1643654829564850174
+    second: Boss nivel 1-disparo_1
+  - first:
+      213: -8734486169850568854
+    second: Boss nivel 1-disparo_2
+  - first:
+      213: -2902199008264993334
+    second: Boss nivel 1-disparo_3
+  - first:
+      213: 8213184769802617817
+    second: Boss nivel 1-disparo_4
+  - first:
+      213: 6248432813782563235
+    second: Boss nivel 1-disparo_5
+  - first:
+      213: 7364242647812531934
+    second: Boss nivel 1-disparo_6
+  - first:
+      213: -7987593606070300973
+    second: Boss nivel 1-disparo_7
+  - first:
+      213: 9071372248421032084
+    second: Boss nivel 1-disparo_8
+  - first:
+      213: -7299134120364478160
+    second: Boss nivel 1-disparo_9
+  - first:
+      213: -2043242237336845606
+    second: Boss nivel 1-disparo_10
+  - first:
+      213: -6309574450591880335
+    second: Boss nivel 1-disparo_11
+  - first:
+      213: -3894368405454420152
+    second: Boss nivel 1-disparo_12
+  - first:
+      213: 8630109362284662348
+    second: Boss nivel 1-disparo_13
+  - first:
+      213: 717007324021496760
+    second: Boss nivel 1-disparo_14
+  - first:
+      213: -4560421142627570641
+    second: Boss nivel 1-disparo_15
+  - first:
+      213: -3130896105905870486
+    second: Boss nivel 1-disparo_16
+  - first:
+      213: -2484740446009908933
+    second: Boss nivel 1-disparo_17
+  - first:
+      213: -5006193830794228797
+    second: Boss nivel 1-disparo_18
+  - first:
+      213: -8928705440772350978
+    second: Boss nivel 1-disparo_19
+  - first:
+      213: 3768148637966022057
+    second: Boss nivel 1-disparo_20
+  - first:
+      213: 864693425458933868
+    second: Boss nivel 1-disparo_21
+  - first:
+      213: -174662921586119742
+    second: Boss nivel 1-disparo_22
+  - first:
+      213: 2993163821364707706
+    second: Boss nivel 1-disparo_23
+  - first:
+      213: 6265422270756288565
+    second: Boss nivel 1-disparo_24
+  - first:
+      213: 1988814963462602433
+    second: Boss nivel 1-disparo_25
+  - first:
+      213: -3123009894762672081
+    second: Boss nivel 1-disparo_26
+  - first:
+      213: 1108185535492148032
+    second: Boss nivel 1-disparo_27
+  - first:
+      213: 3880761974934574008
+    second: Boss nivel 1-disparo_28
+  - first:
+      213: 2031377402512930206
+    second: Boss nivel 1-disparo_29
+  - first:
+      213: -3852342465474825723
+    second: Boss nivel 1-disparo_30
+  - first:
+      213: 4022333287185710495
+    second: Boss nivel 1-disparo_31
+  - first:
+      213: -7203846735112006201
+    second: Boss nivel 1-disparo_32
+  - first:
+      213: -2428269213654859842
+    second: Boss nivel 1-disparo_33
+  - first:
+      213: -894741161113883109
+    second: Boss nivel 1-disparo_34
+  - first:
+      213: 2897737576171205584
+    second: Boss nivel 1-disparo_35
+  - first:
+      213: -5571937020653723399
+    second: Boss nivel 1-disparo_36
+  - first:
+      213: 8956943244355785115
+    second: Boss nivel 1-disparo_37
+  - first:
+      213: 2326418748241570550
+    second: Boss nivel 1-disparo_38
+  - first:
+      213: -3097395405054473829
+    second: Boss nivel 1-disparo_39
+  - first:
+      213: -1772286208350020292
+    second: Boss nivel 1-disparo_40
+  - first:
+      213: 6239420803934032950
+    second: Boss nivel 1-disparo_41
+  - first:
+      213: 2217868042483778553
+    second: Boss nivel 1-disparo_42
+  - first:
+      213: 952337744838579896
+    second: Boss nivel 1-disparo_43
+  - first:
+      213: 3461724532393407243
+    second: Boss nivel 1-disparo_44
+  - first:
+      213: -4234760499654417412
+    second: Boss nivel 1-disparo_45
+  - first:
+      213: 324712068106729627
+    second: Boss nivel 1-disparo_46
+  - first:
+      213: 6309083551103355671
+    second: Boss nivel 1-disparo_47
+  - first:
+      213: -7512489177623419115
+    second: Boss nivel 1-disparo_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 123
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jefe1_Disparo_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8459e4d360a0f74797d2825aceefcd2
+      internalID: -867846024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a227a8bd4eae8740be7255bb682192f
+      internalID: -1330240114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_02
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaf0772822a5ae40a9207864ad658c4
+      internalID: -1776406146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_03
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe41cb6cd478049881cb3997925a96
+      internalID: -251226235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_04
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798607e22618bba4390d65bed9a8cbf2
+      internalID: -1051429901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47bd6222d0f53945bc101fffa759d29
+      internalID: -64992781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_06
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35f98179cfde1f43a58059feeacb20c
+      internalID: -644010701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_07
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f0279995833c448d27f6224440b1e
+      internalID: -721828008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585f73f543a3e71498477b23741f255f
+      internalID: -1565660193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_09
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c161d7460864d4887026ef2792c7c8
+      internalID: 302947503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea17e426a5cc0d45b90cc134bfd14e2
+      internalID: -1185948338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4380f220d3d7c46919c6a8efff93b0
+      internalID: -165396031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018a463453924e4994c47e4a1faf299
+      internalID: 396090397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f2d32fc886eef478d17518e69e30b1
+      internalID: 53615109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ebff05cea130544a1326e9dcb87df2
+      internalID: 376310090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f5773f562663a4a968c924c5fa4c4b
+      internalID: 1899560820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc39d05d7f566544bbb75eaf8b8b7b4b
+      internalID: 1036467775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8cadac97d158b45a1368076ff0a076
+      internalID: 98400614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a8db0532f3ba74c8627966e2e55cac
+      internalID: -119117569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d22cfd3dc0cda4e94b8a732bec86ee
+      internalID: 922316721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253a656b28ca2cc4590fd8bdbd52e93b
+      internalID: 874868514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c821c1dbc9a62c4a8210e28a85fd555
+      internalID: 1760692770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bbd5b65d41e504487f95a133c4a565
+      internalID: -1291721086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a71cf3dd19a8b4abc6773c142b3e50
+      internalID: -92512748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Disparo_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52db790f1ce7194692adccaa8b31e3d
+      internalID: 1407680825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 20ef6ee48e6984341ac1547b4c80bd73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss nivel 1-disparo_0: -5942444844842463018
+      Boss nivel 1-disparo_1: -1643654829564850174
+      Boss nivel 1-disparo_10: -2043242237336845606
+      Boss nivel 1-disparo_11: -6309574450591880335
+      Boss nivel 1-disparo_12: -3894368405454420152
+      Boss nivel 1-disparo_13: 8630109362284662348
+      Boss nivel 1-disparo_14: 717007324021496760
+      Boss nivel 1-disparo_15: -4560421142627570641
+      Boss nivel 1-disparo_16: -3130896105905870486
+      Boss nivel 1-disparo_17: -2484740446009908933
+      Boss nivel 1-disparo_18: -5006193830794228797
+      Boss nivel 1-disparo_19: -8928705440772350978
+      Boss nivel 1-disparo_2: -8734486169850568854
+      Boss nivel 1-disparo_20: 3768148637966022057
+      Boss nivel 1-disparo_21: 864693425458933868
+      Boss nivel 1-disparo_22: -174662921586119742
+      Boss nivel 1-disparo_23: 2993163821364707706
+      Boss nivel 1-disparo_24: 6265422270756288565
+      Boss nivel 1-disparo_25: 1988814963462602433
+      Boss nivel 1-disparo_26: -3123009894762672081
+      Boss nivel 1-disparo_27: 1108185535492148032
+      Boss nivel 1-disparo_28: 3880761974934574008
+      Boss nivel 1-disparo_29: 2031377402512930206
+      Boss nivel 1-disparo_3: -2902199008264993334
+      Boss nivel 1-disparo_30: -3852342465474825723
+      Boss nivel 1-disparo_31: 4022333287185710495
+      Boss nivel 1-disparo_32: -7203846735112006201
+      Boss nivel 1-disparo_33: -2428269213654859842
+      Boss nivel 1-disparo_34: -894741161113883109
+      Boss nivel 1-disparo_35: 2897737576171205584
+      Boss nivel 1-disparo_36: -5571937020653723399
+      Boss nivel 1-disparo_37: 8956943244355785115
+      Boss nivel 1-disparo_38: 2326418748241570550
+      Boss nivel 1-disparo_39: -3097395405054473829
+      Boss nivel 1-disparo_4: 8213184769802617817
+      Boss nivel 1-disparo_40: -1772286208350020292
+      Boss nivel 1-disparo_41: 6239420803934032950
+      Boss nivel 1-disparo_42: 2217868042483778553
+      Boss nivel 1-disparo_43: 952337744838579896
+      Boss nivel 1-disparo_44: 3461724532393407243
+      Boss nivel 1-disparo_45: -4234760499654417412
+      Boss nivel 1-disparo_46: 324712068106729627
+      Boss nivel 1-disparo_47: 6309083551103355671
+      Boss nivel 1-disparo_48: -7512489177623419115
+      Boss nivel 1-disparo_5: 6248432813782563235
+      Boss nivel 1-disparo_6: 7364242647812531934
+      Boss nivel 1-disparo_7: -7987593606070300973
+      Boss nivel 1-disparo_8: 9071372248421032084
+      Boss nivel 1-disparo_9: -7299134120364478160
+      Jefe1_Disparo_00: -867846024
+      Jefe1_Disparo_01: -1330240114
+      Jefe1_Disparo_02: -1776406146
+      Jefe1_Disparo_03: -251226235
+      Jefe1_Disparo_04: -1051429901
+      Jefe1_Disparo_05: -64992781
+      Jefe1_Disparo_06: -644010701
+      Jefe1_Disparo_07: -721828008
+      Jefe1_Disparo_08: -1565660193
+      Jefe1_Disparo_09: 302947503
+      Jefe1_Disparo_10: -1185948338
+      Jefe1_Disparo_11: -165396031
+      Jefe1_Disparo_12: 396090397
+      Jefe1_Disparo_13: 53615109
+      Jefe1_Disparo_14: 376310090
+      Jefe1_Disparo_15: 1899560820
+      Jefe1_Disparo_16: 1036467775
+      Jefe1_Disparo_17: 98400614
+      Jefe1_Disparo_18: -119117569
+      Jefe1_Disparo_19: 922316721
+      Jefe1_Disparo_20: 874868514
+      Jefe1_Disparo_21: 1760692770
+      Jefe1_Disparo_22: -1291721086
+      Jefe1_Disparo_23: -92512748
+      Jefe1_Disparo_24: 1407680825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

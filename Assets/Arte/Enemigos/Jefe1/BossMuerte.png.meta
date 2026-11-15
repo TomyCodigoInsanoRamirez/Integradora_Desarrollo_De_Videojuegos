@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: 0d0e2d945c8ed9d44bf4014067035c1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7816028182555367088
+    second: Boss nivel 1-muerte_0
+  - first:
+      213: -8646487376737235242
+    second: Boss nivel 1-muerte_1
+  - first:
+      213: 1608274146759534034
+    second: Boss nivel 1-muerte_2
+  - first:
+      213: -1852713845873935920
+    second: Boss nivel 1-muerte_3
+  - first:
+      213: 2585611192481738690
+    second: Boss nivel 1-muerte_4
+  - first:
+      213: 4698555873204274895
+    second: Boss nivel 1-muerte_5
+  - first:
+      213: -8241470233294877136
+    second: Boss nivel 1-muerte_6
+  - first:
+      213: 2275654901033094031
+    second: Boss nivel 1-muerte_7
+  - first:
+      213: 5014334242807518369
+    second: Boss nivel 1-muerte_8
+  - first:
+      213: -6688789641628068396
+    second: Boss nivel 1-muerte_9
+  - first:
+      213: -4036106341203512387
+    second: Boss nivel 1-muerte_10
+  - first:
+      213: 7639069164185385069
+    second: Boss nivel 1-muerte_11
+  - first:
+      213: 8473229788116890765
+    second: Boss nivel 1-muerte_12
+  - first:
+      213: 6610412170269283596
+    second: Boss nivel 1-muerte_13
+  - first:
+      213: -1755666237553122772
+    second: Boss nivel 1-muerte_14
+  - first:
+      213: -8232131690883536708
+    second: Boss nivel 1-muerte_15
+  - first:
+      213: 3044119491444727717
+    second: Boss nivel 1-muerte_16
+  - first:
+      213: -2671617915074966113
+    second: Boss nivel 1-muerte_17
+  - first:
+      213: 222182963178288125
+    second: Boss nivel 1-muerte_18
+  - first:
+      213: -6832301622243562743
+    second: Boss nivel 1-muerte_19
+  - first:
+      213: -8142170784011273717
+    second: Boss nivel 1-muerte_20
+  - first:
+      213: 678110288104216927
+    second: Boss nivel 1-muerte_21
+  - first:
+      213: 6413741725286936581
+    second: Boss nivel 1-muerte_22
+  - first:
+      213: -6576357255410215760
+    second: Boss nivel 1-muerte_23
+  - first:
+      213: 4641698385215620547
+    second: Boss nivel 1-muerte_24
+  - first:
+      213: 3772488304883316349
+    second: Boss nivel 1-muerte_25
+  - first:
+      213: 5630327887890755084
+    second: Boss nivel 1-muerte_26
+  - first:
+      213: 5926478838440246914
+    second: Boss nivel 1-muerte_27
+  - first:
+      213: 1718722280123283738
+    second: Boss nivel 1-muerte_28
+  - first:
+      213: -113385579125076092
+    second: Boss nivel 1-muerte_29
+  - first:
+      213: 925770702531854505
+    second: Boss nivel 1-muerte_30
+  - first:
+      213: 922472573173962533
+    second: Boss nivel 1-muerte_31
+  - first:
+      213: 55748335663368758
+    second: Boss nivel 1-muerte_32
+  - first:
+      213: -5075733313475218523
+    second: Boss nivel 1-muerte_33
+  - first:
+      213: 1530493016301158428
+    second: Boss nivel 1-muerte_34
+  - first:
+      213: 2743196791113869140
+    second: Boss nivel 1-muerte_35
+  - first:
+      213: 4317227167442784811
+    second: Boss nivel 1-muerte_36
+  - first:
+      213: -136319475711917204
+    second: Boss nivel 1-muerte_37
+  - first:
+      213: -8489124756592789931
+    second: Boss nivel 1-muerte_38
+  - first:
+      213: 8870151993478559817
+    second: Boss nivel 1-muerte_39
+  - first:
+      213: 5786671437329959736
+    second: Boss nivel 1-muerte_40
+  - first:
+      213: -5190250685892569885
+    second: Boss nivel 1-muerte_41
+  - first:
+      213: 1031645577528786528
+    second: Boss nivel 1-muerte_42
+  - first:
+      213: -8225470909759136244
+    second: Boss nivel 1-muerte_43
+  - first:
+      213: -3681234309144964075
+    second: Boss nivel 1-muerte_44
+  - first:
+      213: -168365724422627196
+    second: Boss nivel 1-muerte_45
+  - first:
+      213: 774772197882512932
+    second: Boss nivel 1-muerte_46
+  - first:
+      213: -2538776366266109317
+    second: Boss nivel 1-muerte_47
+  - first:
+      213: 3599272305901143029
+    second: Boss nivel 1-muerte_48
+  - first:
+      213: -8499270225008669933
+    second: Boss nivel 1-muerte_49
+  - first:
+      213: 627566968907999732
+    second: Boss nivel 1-muerte_50
+  - first:
+      213: 601319927404532357
+    second: Boss nivel 1-muerte_51
+  - first:
+      213: -4566199819518439512
+    second: Boss nivel 1-muerte_52
+  - first:
+      213: 7944755784539413230
+    second: Boss nivel 1-muerte_53
+  - first:
+      213: -8915793937063076549
+    second: Boss nivel 1-muerte_54
+  - first:
+      213: -1562185421993181078
+    second: Boss nivel 1-muerte_55
+  - first:
+      213: 8185283073433099438
+    second: Boss nivel 1-muerte_56
+  - first:
+      213: 5287217745129399723
+    second: Boss nivel 1-muerte_57
+  - first:
+      213: 5956475263736428658
+    second: Boss nivel 1-muerte_58
+  - first:
+      213: 6239596227594986050
+    second: Boss nivel 1-muerte_59
+  - first:
+      213: -8288783771206165315
+    second: Boss nivel 1-muerte_60
+  - first:
+      213: -2604107494753880962
+    second: Boss nivel 1-muerte_61
+  - first:
+      213: 8563410123089116422
+    second: Boss nivel 1-muerte_62
+  - first:
+      213: -3439550578521385941
+    second: Boss nivel 1-muerte_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 99
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jefe1_Muerte_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8d4f92e54a9584aad10df0534abc32
+      internalID: -924895040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8525a589d2bdc354492f023a3738b141
+      internalID: 855608946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_02
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4cb4810243263419a3092872d46b01
+      internalID: 647523339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_03
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8642826b652fffc4d88af833e91085c5
+      internalID: 630865809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_04
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c235d200638b0458a871a961ac5d02
+      internalID: -1373011532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706076d266dfc1c4f94d0b41456eebcb
+      internalID: 29728666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_06
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d812b4b036049445ac693162ec9cca0
+      internalID: 1097320309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_07
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd4647837e3c804f998f1442cd001dc
+      internalID: -1816113766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_08
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48415c8a91879c248aec3d91a64a73ac
+      internalID: -2018096505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_09
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6e8aa7fc33d644ab0b3d5132ebf619
+      internalID: 1144900836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532a69ff2e381f74488aedb8d38fbb11
+      internalID: 610285482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a82a53bdf8b0c47bcb15fd922893cc
+      internalID: -502882563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4a3e2e74dc5f64db5c801851b15715
+      internalID: 1348828107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7550f2fd7f038841bb5d5ab9a6f9006
+      internalID: 1913341510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9df46e46fd52ca4d9063ac92beaa067
+      internalID: -2021116421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a487480660c2ba5419a08fc28b407ce4
+      internalID: -747715815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e2047738790bc4b835472853f6af44
+      internalID: -817843237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91907f93490f4640ad1b4996482e8a3
+      internalID: -1659666918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986cff9d12cf7bf46b76ef842d40835a
+      internalID: -1672503656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8d89f72640994489c643d0ebd10f0b
+      internalID: 1649825330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9538d1ac0965249a6ab05ce1cf91a5
+      internalID: -1986195161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd685049e992940b3b9a911d91af3f
+      internalID: 1916462087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa971759b9e666049900f96aff575f5e
+      internalID: 1431790899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10900887cd1a975448750af7181741be
+      internalID: 161785924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe1_Muerte_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde641fd862db014bae0c5eacfa0388c
+      internalID: 544351426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2f04066ed3eefb5438988cfde0653732
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss nivel 1-muerte_0: 7816028182555367088
+      Boss nivel 1-muerte_1: -8646487376737235242
+      Boss nivel 1-muerte_10: -4036106341203512387
+      Boss nivel 1-muerte_11: 7639069164185385069
+      Boss nivel 1-muerte_12: 8473229788116890765
+      Boss nivel 1-muerte_13: 6610412170269283596
+      Boss nivel 1-muerte_14: -1755666237553122772
+      Boss nivel 1-muerte_15: -8232131690883536708
+      Boss nivel 1-muerte_16: 3044119491444727717
+      Boss nivel 1-muerte_17: -2671617915074966113
+      Boss nivel 1-muerte_18: 222182963178288125
+      Boss nivel 1-muerte_19: -6832301622243562743
+      Boss nivel 1-muerte_2: 1608274146759534034
+      Boss nivel 1-muerte_20: -8142170784011273717
+      Boss nivel 1-muerte_21: 678110288104216927
+      Boss nivel 1-muerte_22: 6413741725286936581
+      Boss nivel 1-muerte_23: -6576357255410215760
+      Boss nivel 1-muerte_24: 4641698385215620547
+      Boss nivel 1-muerte_25: 3772488304883316349
+      Boss nivel 1-muerte_26: 5630327887890755084
+      Boss nivel 1-muerte_27: 5926478838440246914
+      Boss nivel 1-muerte_28: 1718722280123283738
+      Boss nivel 1-muerte_29: -113385579125076092
+      Boss nivel 1-muerte_3: -1852713845873935920
+      Boss nivel 1-muerte_30: 925770702531854505
+      Boss nivel 1-muerte_31: 922472573173962533
+      Boss nivel 1-muerte_32: 55748335663368758
+      Boss nivel 1-muerte_33: -5075733313475218523
+      Boss nivel 1-muerte_34: 1530493016301158428
+      Boss nivel 1-muerte_35: 2743196791113869140
+      Boss nivel 1-muerte_36: 4317227167442784811
+      Boss nivel 1-muerte_37: -136319475711917204
+      Boss nivel 1-muerte_38: -8489124756592789931
+      Boss nivel 1-muerte_39: 8870151993478559817
+      Boss nivel 1-muerte_4: 2585611192481738690
+      Boss nivel 1-muerte_40: 5786671437329959736
+      Boss nivel 1-muerte_41: -5190250685892569885
+      Boss nivel 1-muerte_42: 1031645577528786528
+      Boss nivel 1-muerte_43: -8225470909759136244
+      Boss nivel 1-muerte_44: -3681234309144964075
+      Boss nivel 1-muerte_45: -168365724422627196
+      Boss nivel 1-muerte_46: 774772197882512932
+      Boss nivel 1-muerte_47: -2538776366266109317
+      Boss nivel 1-muerte_48: 3599272305901143029
+      Boss nivel 1-muerte_49: -8499270225008669933
+      Boss nivel 1-muerte_5: 4698555873204274895
+      Boss nivel 1-muerte_50: 627566968907999732
+      Boss nivel 1-muerte_51: 601319927404532357
+      Boss nivel 1-muerte_52: -4566199819518439512
+      Boss nivel 1-muerte_53: 7944755784539413230
+      Boss nivel 1-muerte_54: -8915793937063076549
+      Boss nivel 1-muerte_55: -1562185421993181078
+      Boss nivel 1-muerte_56: 8185283073433099438
+      Boss nivel 1-muerte_57: 5287217745129399723
+      Boss nivel 1-muerte_58: 5956475263736428658
+      Boss nivel 1-muerte_59: 6239596227594986050
+      Boss nivel 1-muerte_6: -8241470233294877136
+      Boss nivel 1-muerte_60: -8288783771206165315
+      Boss nivel 1-muerte_61: -2604107494753880962
+      Boss nivel 1-muerte_62: 8563410123089116422
+      Boss nivel 1-muerte_63: -3439550578521385941
+      Boss nivel 1-muerte_7: 2275654901033094031
+      Boss nivel 1-muerte_8: 5014334242807518369
+      Boss nivel 1-muerte_9: -6688789641628068396
+      Jefe1_Muerte_00: -924895040
+      Jefe1_Muerte_01: 855608946
+      Jefe1_Muerte_02: 647523339
+      Jefe1_Muerte_03: 630865809
+      Jefe1_Muerte_04: -1373011532
+      Jefe1_Muerte_05: 29728666
+      Jefe1_Muerte_06: 1097320309
+      Jefe1_Muerte_07: -1816113766
+      Jefe1_Muerte_08: -2018096505
+      Jefe1_Muerte_09: 1144900836
+      Jefe1_Muerte_10: 610285482
+      Jefe1_Muerte_11: -502882563
+      Jefe1_Muerte_12: 1348828107
+      Jefe1_Muerte_13: 1913341510
+      Jefe1_Muerte_14: -2021116421
+      Jefe1_Muerte_15: -747715815
+      Jefe1_Muerte_16: -817843237
+      Jefe1_Muerte_17: -1659666918
+      Jefe1_Muerte_18: -1672503656
+      Jefe1_Muerte_19: 1649825330
+      Jefe1_Muerte_20: -1986195161
+      Jefe1_Muerte_21: 1916462087
+      Jefe1_Muerte_22: 1431790899
+      Jefe1_Muerte_23: 161785924
+      Jefe1_Muerte_24: 544351426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

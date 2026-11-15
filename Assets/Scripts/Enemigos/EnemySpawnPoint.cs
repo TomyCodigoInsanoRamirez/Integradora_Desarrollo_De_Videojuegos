@@ -20,6 +20,7 @@ public class EnemySpawnPoint : MonoBehaviour
     private bool avisado;
     private bool aparecido;
     private float inicioAviso;
+    private SonidoAcercamiento sonidoAcercamiento;
 
     private void Start()
     {
@@ -39,8 +40,14 @@ public class EnemySpawnPoint : MonoBehaviour
             avisado = true;
             inicioAviso = Time.time;
             if (avisoPrevio > 0f) IndicadoresUI.Advertir(transform.position, avisoPrevio + 0.4f);
+
+            // Si es un dron, su zumbido empieza ya, junto con la flecha (antes de que exista)
+            var dronPrefab = enemyPrefab.GetComponent<DroneEnemy>();
+            if (dronPrefab != null)
+                sonidoAcercamiento = SonidoAcercamiento.Crear(dronPrefab.AproximacionSound, PosicionAparicion(bordeDerecho), dronPrefab.AproximacionVolumen);
         }
         if (!avisado) return;
+        if (sonidoAcercamiento != null) sonidoAcercamiento.MoverA(PosicionAparicion(bordeDerecho));
 
         // Aparece cuando termina el aviso, o antes si el borde de la cámara ya está por alcanzarlo
         bool terminoAviso = Time.time - inicioAviso >= avisoPrevio;
@@ -48,10 +55,20 @@ public class EnemySpawnPoint : MonoBehaviour
         if (terminoAviso || casiALaVista)
         {
             // Nunca dentro de la pantalla: si la cámara ya lo alcanzó, se corre justo fuera del borde
-            float x = Mathf.Max(transform.position.x, bordeDerecho + margenFueraDePantalla);
-            Instantiate(enemyPrefab, new Vector3(x, transform.position.y, transform.position.z), Quaternion.identity);
+            GameObject enemigo = Instantiate(enemyPrefab, PosicionAparicion(bordeDerecho), Quaternion.identity);
             aparecido = true;
+
+            // El dron hereda el sonido que ya venía sonando (así no se reinicia)
+            var dron = enemigo.GetComponent<DroneEnemy>();
+            if (dron != null && sonidoAcercamiento != null) dron.UsarSonidoAcercamiento(sonidoAcercamiento);
         }
+    }
+
+    // Nunca dentro de la pantalla: si la cámara ya alcanzó el punto, se corre justo fuera del borde
+    private Vector3 PosicionAparicion(float bordeDerecho)
+    {
+        float x = Mathf.Max(transform.position.x, bordeDerecho + margenFueraDePantalla);
+        return new Vector3(x, transform.position.y, transform.position.z);
     }
 
     private void OnDrawGizmos()
